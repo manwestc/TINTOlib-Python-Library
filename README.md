@@ -29,7 +29,7 @@
 This repository has a dedicated space on **[DeepWiki](https://deepwiki.com/manwestc/TINTOlib-Python-Library)**, where you can explore semantic documentation, relevant links, bibliography, and answers to frequently asked questions about its use and application.
 
 <p align="center">
-  <a href="https://deepwiki.com/oeg-upm/TINTOlib" target="_blank">
+  <a href="https://deepwiki.com/manwestc/TINTOlib-Python-Library" target="_blank">
     <img src="https://deepwiki.com/badge.svg" alt="Ask DeepWiki"/>
   </a>
 </p>
