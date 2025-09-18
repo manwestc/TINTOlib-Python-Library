@@ -1,4 +1,5 @@
-# [TINTOlib](https://tintolib.readthedocs.io/en/latest/): A Python Library for Tabular-to-Image Transformations in Vision-Based Machine Learning  
+# [TINTOlib](https://tintolib.readthedocs.io/en/latest/): A Python Library for Tabular-to-Image Transformations in Vision-Based Machine Learning 
+## Python Jupyter Notebooks Examples 
 #### (Article in review)
 
 [![License](https://img.shields.io/badge/license-Apache%202.0-blue)](https://github.com/oeg-upm/TINTOlib-Documentation/blob/main/LICENSE)
