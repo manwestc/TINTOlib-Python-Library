@@ -1,0 +1,10 @@
+Training Time (s): 0.5421
+Train MSE: 0.0104
+Train RMSE: 0.1018
+Train R2: 0.9999
+Val MSE: 9.9407
+Val RMSE: 3.1529
+Val R2: 0.8808
+Test MSE: 7.4145
+Test RMSE: 2.7230
+Test R2: 0.9198

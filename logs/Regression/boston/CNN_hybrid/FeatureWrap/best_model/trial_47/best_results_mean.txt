@@ -1,0 +1,164 @@
+# Overall best trial re-evaluation across model seeds
+trial_number: 47
+val_objective_best: 3.266921
+direction: minimize
+seeds: [0, 1, 2, 3, 4]
+per_seed_metrics:
+  - seed: 0
+      train_loss: 8.586879
+      val_loss: 13.527248
+      test_loss: 13.219134
+      min_lr: 0.000032
+      max_lr: 0.002215
+      total_time: 22.184146
+      average_epoch_time: 0.110725
+      train_mse: 8.907659
+      train_mae: 1.878087
+      train_rmse: 2.984570
+      train_r2: 0.892056
+      val_mse: 13.121483
+      val_mae: 2.770726
+      val_rmse: 3.622359
+      val_r2: 0.842683
+      test_mse: 13.514188
+      test_mae: 2.542438
+      test_rmse: 3.676165
+      test_r2: 0.853792
+  - seed: 1
+      train_loss: 5.177723
+      val_loss: 13.324207
+      test_loss: 8.632610
+      min_lr: 0.000032
+      max_lr: 0.002215
+      total_time: 15.163993
+      average_epoch_time: 0.075606
+      train_mse: 5.248135
+      train_mae: 1.564721
+      train_rmse: 2.290881
+      train_r2: 0.936402
+      val_mse: 13.177824
+      val_mae: 2.728901
+      val_rmse: 3.630127
+      val_r2: 0.842008
+      test_mse: 8.745117
+      test_mae: 2.156437
+      test_rmse: 2.957214
+      test_r2: 0.905388
+  - seed: 2
+      train_loss: 6.960845
+      val_loss: 12.488136
+      test_loss: 12.677882
+      min_lr: 0.000032
+      max_lr: 0.002215
+      total_time: 16.227573
+      average_epoch_time: 0.080918
+      train_mse: 6.328898
+      train_mae: 1.757334
+      train_rmse: 2.515730
+      train_r2: 0.923306
+      val_mse: 12.519970
+      val_mae: 2.816597
+      val_rmse: 3.538357
+      val_r2: 0.849895
+      test_mse: 13.085274
+      test_mae: 2.441334
+      test_rmse: 3.617357
+      test_r2: 0.858433
+  - seed: 3
+      train_loss: 3.210644
+      val_loss: 14.989085
+      test_loss: 9.445299
+      min_lr: 0.000032
+      max_lr: 0.002215
+      total_time: 16.032197
+      average_epoch_time: 0.079942
+      train_mse: 3.333128
+      train_mae: 1.250987
+      train_rmse: 1.825686
+      train_r2: 0.959609
+      val_mse: 14.841393
+      val_mae: 2.930036
+      val_rmse: 3.852453
+      val_r2: 0.822063
+      test_mse: 9.630653
+      test_mae: 2.253228
+      test_rmse: 3.103329
+      test_r2: 0.895808
+  - seed: 4
+      train_loss: 5.339135
+      val_loss: 13.125754
+      test_loss: 11.751061
+      min_lr: 0.000032
+      max_lr: 0.002215
+      total_time: 15.647717
+      average_epoch_time: 0.078026
+      train_mse: 5.544267
+      train_mae: 1.640218
+      train_rmse: 2.354627
+      train_r2: 0.932814
+      val_mse: 13.086219
+      val_mae: 2.834229
+      val_rmse: 3.617488
+      val_r2: 0.843106
+      test_mse: 11.896470
+      test_mae: 2.540483
+      test_rmse: 3.449126
+      test_r2: 0.871294
+aggregates:
+  train_loss:
+    mean: 5.855045
+    std: 2.025061
+  val_loss:
+    mean: 13.490886
+    std: 0.923652
+  test_loss:
+    mean: 11.145197
+    std: 2.013713
+  min_lr:
+    mean: 0.000032
+    std: 0.000000
+  max_lr:
+    mean: 0.002215
+    std: 0.000000
+  total_time:
+    mean: 17.051125
+    std: 2.898067
+  average_epoch_time:
+    mean: 0.085043
+    std: 0.014499
+  train_mse:
+    mean: 5.872417
+    std: 2.022774
+  train_mae:
+    mean: 1.618269
+    std: 0.237218
+  train_rmse:
+    mean: 2.394299
+    std: 0.417958
+  train_r2:
+    mean: 0.928837
+    std: 0.024512
+  val_mse:
+    mean: 13.349378
+    std: 0.875307
+  val_mae:
+    mean: 2.816098
+    std: 0.075784
+  val_rmse:
+    mean: 3.652157
+    std: 0.117945
+  val_r2:
+    mean: 0.839951
+    std: 0.010494
+  test_mse:
+    mean: 11.374340
+    std: 2.105476
+  test_mae:
+    mean: 2.386784
+    std: 0.174445
+  test_rmse:
+    mean: 3.360638
+    std: 0.317116
+  test_r2:
+    mean: 0.876943
+    std: 0.022779

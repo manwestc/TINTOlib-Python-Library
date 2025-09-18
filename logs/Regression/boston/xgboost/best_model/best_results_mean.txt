@@ -1,0 +1,89 @@
+# Best trial re-evaluation across model seeds
+seeds: [0, 1, 2, 3, 4]
+per_seed_metrics:
+  - seed: 0
+      Training Time (s): 0.536866
+      Train MSE: 0.010009
+      Train RMSE: 0.100043
+      Train R2: 0.999879
+      Val MSE: 11.316695
+      Val RMSE: 3.364030
+      Val R2: 0.864321
+      Test MSE: 7.463311
+      Test RMSE: 2.731906
+      Test R2: 0.919256
+  - seed: 1
+      Training Time (s): 0.539936
+      Train MSE: 0.009739
+      Train RMSE: 0.098685
+      Train R2: 0.999882
+      Val MSE: 9.277813
+      Val RMSE: 3.045950
+      Val R2: 0.888766
+      Test MSE: 7.012165
+      Test RMSE: 2.648049
+      Test R2: 0.924137
+  - seed: 2
+      Training Time (s): 0.539802
+      Train MSE: 0.013946
+      Train RMSE: 0.118093
+      Train R2: 0.999831
+      Val MSE: 12.180261
+      Val RMSE: 3.490023
+      Val R2: 0.853968
+      Test MSE: 9.406846
+      Test RMSE: 3.067058
+      Test R2: 0.898229
+  - seed: 3
+      Training Time (s): 0.538387
+      Train MSE: 0.012654
+      Train RMSE: 0.112489
+      Train R2: 0.999847
+      Val MSE: 12.085455
+      Val RMSE: 3.476414
+      Val R2: 0.855104
+      Test MSE: 7.315111
+      Test RMSE: 2.704646
+      Test R2: 0.920859
+  - seed: 4
+      Training Time (s): 0.542125
+      Train MSE: 0.010370
+      Train RMSE: 0.101832
+      Train R2: 0.999874
+      Val MSE: 9.940679
+      Val RMSE: 3.152884
+      Val R2: 0.880819
+      Test MSE: 7.414497
+      Test RMSE: 2.722957
+      Test R2: 0.919784
+aggregates:
+  Training Time (s):
+    mean: 0.539423
+    std: 0.001957
+  Train MSE:
+    mean: 0.011343
+    std: 0.001857
+  Train RMSE:
+    mean: 0.106228
+    std: 0.008580
+  Train R2:
+    mean: 0.999863
+    std: 0.000023
+  Val MSE:
+    mean: 10.960181
+    std: 1.299200
+  Val RMSE:
+    mean: 3.305860
+    std: 0.198332
+  Val R2:
+    mean: 0.868596
+    std: 0.015576
+  Test MSE:
+    mean: 7.722386
+    std: 0.957811
+  Test RMSE:
+    mean: 2.774923
+    std: 0.166530
+  Test R2:
+    mean: 0.916453
+    std: 0.010362

@@ -1,0 +1,128 @@
+Trial 1 - VAL-Accuracy: 0.8067, Params: {'dim': 192, 'depth': 7, 'heads': 4, 'mlp_dim': 576, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16], 'patch_size': 3}
+============================================================
+Trial 2 - VAL-Accuracy: 0.7800, Params: {'dim': 64, 'depth': 7, 'heads': 8, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 3}
+============================================================
+Trial 3 - VAL-Accuracy: 0.7733, Params: {'dim': 224, 'depth': 2, 'heads': 8, 'mlp_dim': 1024, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16], 'patch_size': 9}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8300, Params: {'dim': 96, 'depth': 4, 'heads': 3, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 6 - VAL-Accuracy: 0.8300, Params: {'dim': 64, 'depth': 3, 'heads': 8, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 8 - VAL-Accuracy: 0.7967, Params: {'dim': 32, 'depth': 2, 'heads': 4, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 3}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8000, Params: {'dim': 384, 'depth': 5, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [32, 16], 'patch_size': 9}
+============================================================
+Trial 11 - VAL-Accuracy: 0.7933, Params: {'dim': 128, 'depth': 5, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8033, Params: {'dim': 96, 'depth': 8, 'heads': 4, 'mlp_dim': 704, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 17 - VAL-Accuracy: 0.8200, Params: {'dim': 192, 'depth': 3, 'heads': 3, 'mlp_dim': 512, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8400, Params: {'dim': 320, 'depth': 3, 'heads': 2, 'mlp_dim': 704, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 21 - VAL-Accuracy: 0.7967, Params: {'dim': 288, 'depth': 3, 'heads': 2, 'mlp_dim': 704, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8100, Params: {'dim': 416, 'depth': 4, 'heads': 2, 'mlp_dim': 640, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8133, Params: {'dim': 64, 'depth': 6, 'heads': 4, 'mlp_dim': 832, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8167, Params: {'dim': 192, 'depth': 3, 'heads': 2, 'mlp_dim': 896, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8233, Params: {'dim': 96, 'depth': 5, 'heads': 8, 'mlp_dim': 640, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8033, Params: {'dim': 288, 'depth': 2, 'heads': 3, 'mlp_dim': 704, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8167, Params: {'dim': 96, 'depth': 6, 'heads': 8, 'mlp_dim': 640, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8267, Params: {'dim': 64, 'depth': 5, 'heads': 8, 'mlp_dim': 576, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8000, Params: {'dim': 32, 'depth': 4, 'heads': 8, 'mlp_dim': 768, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 3}
+============================================================
+Trial 37 - VAL-Accuracy: 0.7967, Params: {'dim': 64, 'depth': 7, 'heads': 8, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 3}
+============================================================
+Trial 38 - VAL-Accuracy: 0.7967, Params: {'dim': 224, 'depth': 4, 'heads': 4, 'mlp_dim': 576, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 40 - VAL-Accuracy: 0.7400, Params: {'dim': 160, 'depth': 5, 'heads': 2, 'mlp_dim': 832, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [32, 16], 'patch_size': 9}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8133, Params: {'dim': 96, 'depth': 5, 'heads': 8, 'mlp_dim': 640, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8367, Params: {'dim': 96, 'depth': 5, 'heads': 8, 'mlp_dim': 576, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8167, Params: {'dim': 128, 'depth': 4, 'heads': 8, 'mlp_dim': 576, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 44 - VAL-Accuracy: 0.7967, Params: {'dim': 64, 'depth': 5, 'heads': 8, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8133, Params: {'dim': 96, 'depth': 4, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8100, Params: {'dim': 128, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 49 - VAL-Accuracy: 0.8267, Params: {'dim': 480, 'depth': 2, 'heads': 5, 'mlp_dim': 960, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 51 - VAL-Accuracy: 0.7967, Params: {'dim': 480, 'depth': 2, 'heads': 6, 'mlp_dim': 896, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 53 - VAL-Accuracy: 0.8267, Params: {'dim': 480, 'depth': 3, 'heads': 4, 'mlp_dim': 960, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 56 - VAL-Accuracy: 0.7900, Params: {'dim': 160, 'depth': 3, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 57 - VAL-Accuracy: 0.8000, Params: {'dim': 192, 'depth': 4, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16], 'patch_size': 9}
+============================================================
+Trial 59 - VAL-Accuracy: 0.8133, Params: {'dim': 480, 'depth': 2, 'heads': 3, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 60 - VAL-Accuracy: 0.7967, Params: {'dim': 224, 'depth': 5, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 3}
+============================================================
+Trial 61 - VAL-Accuracy: 0.7867, Params: {'dim': 480, 'depth': 3, 'heads': 4, 'mlp_dim': 1024, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 62 - VAL-Accuracy: 0.8200, Params: {'dim': 448, 'depth': 3, 'heads': 4, 'mlp_dim': 960, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 63 - VAL-Accuracy: 0.8367, Params: {'dim': 448, 'depth': 3, 'heads': 4, 'mlp_dim': 960, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 65 - VAL-Accuracy: 0.8433, Params: {'dim': 320, 'depth': 2, 'heads': 5, 'mlp_dim': 640, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 66 - VAL-Accuracy: 0.8067, Params: {'dim': 320, 'depth': 3, 'heads': 5, 'mlp_dim': 640, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 67 - VAL-Accuracy: 0.8100, Params: {'dim': 352, 'depth': 3, 'heads': 4, 'mlp_dim': 704, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 68 - VAL-Accuracy: 0.7767, Params: {'dim': 288, 'depth': 4, 'heads': 3, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [32, 16], 'patch_size': 9}
+============================================================
+Trial 69 - VAL-Accuracy: 0.8000, Params: {'dim': 320, 'depth': 8, 'heads': 4, 'mlp_dim': 640, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 74 - VAL-Accuracy: 0.8233, Params: {'dim': 96, 'depth': 2, 'heads': 8, 'mlp_dim': 576, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 76 - VAL-Accuracy: 0.8267, Params: {'dim': 416, 'depth': 3, 'heads': 4, 'mlp_dim': 640, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 77 - VAL-Accuracy: 0.8133, Params: {'dim': 96, 'depth': 2, 'heads': 8, 'mlp_dim': 960, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 3}
+============================================================
+Trial 78 - VAL-Accuracy: 0.7833, Params: {'dim': 384, 'depth': 4, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 79 - VAL-Accuracy: 0.8100, Params: {'dim': 288, 'depth': 5, 'heads': 3, 'mlp_dim': 576, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 81 - VAL-Accuracy: 0.8133, Params: {'dim': 480, 'depth': 3, 'heads': 5, 'mlp_dim': 960, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 82 - VAL-Accuracy: 0.7833, Params: {'dim': 448, 'depth': 3, 'heads': 4, 'mlp_dim': 1024, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 83 - VAL-Accuracy: 0.8000, Params: {'dim': 480, 'depth': 2, 'heads': 3, 'mlp_dim': 896, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 84 - VAL-Accuracy: 0.7833, Params: {'dim': 512, 'depth': 5, 'heads': 4, 'mlp_dim': 1024, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 85 - VAL-Accuracy: 0.8200, Params: {'dim': 64, 'depth': 3, 'heads': 8, 'mlp_dim': 960, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 86 - VAL-Accuracy: 0.8033, Params: {'dim': 256, 'depth': 4, 'heads': 2, 'mlp_dim': 896, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 89 - VAL-Accuracy: 0.8033, Params: {'dim': 32, 'depth': 5, 'heads': 8, 'mlp_dim': 704, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 90 - VAL-Accuracy: 0.7967, Params: {'dim': 448, 'depth': 4, 'heads': 7, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 91 - VAL-Accuracy: 0.7900, Params: {'dim': 416, 'depth': 3, 'heads': 4, 'mlp_dim': 640, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 92 - VAL-Accuracy: 0.8100, Params: {'dim': 480, 'depth': 3, 'heads': 4, 'mlp_dim': 576, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 93 - VAL-Accuracy: 0.8133, Params: {'dim': 384, 'depth': 3, 'heads': 4, 'mlp_dim': 640, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 94 - VAL-Accuracy: 0.8233, Params: {'dim': 448, 'depth': 3, 'heads': 4, 'mlp_dim': 960, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 96 - VAL-Accuracy: 0.8133, Params: {'dim': 352, 'depth': 6, 'heads': 4, 'mlp_dim': 768, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================
+Trial 97 - VAL-Accuracy: 0.8067, Params: {'dim': 480, 'depth': 4, 'heads': 6, 'mlp_dim': 640, 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32], 'patch_size': 9}
+============================================================
+Trial 99 - VAL-Accuracy: 0.8167, Params: {'dim': 320, 'depth': 2, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64], 'patch_size': 9}
+============================================================

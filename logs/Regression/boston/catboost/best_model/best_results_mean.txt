@@ -1,0 +1,89 @@
+# Best trial re-evaluation across model seeds
+seeds: [0, 1, 2, 3, 4]
+per_seed_metrics:
+  - seed: 0
+      Training Time (s): 2.989963
+      Train MSE: 0.040721
+      Train RMSE: 0.201795
+      Train R2: 0.999507
+      Val MSE: 9.957969
+      Val RMSE: 3.155625
+      Val R2: 0.880611
+      Test MSE: 7.322372
+      Test RMSE: 2.705988
+      Test R2: 0.920781
+  - seed: 1
+      Training Time (s): 3.031357
+      Train MSE: 0.042491
+      Train RMSE: 0.206132
+      Train R2: 0.999485
+      Val MSE: 10.038747
+      Val RMSE: 3.168398
+      Val R2: 0.879643
+      Test MSE: 8.143320
+      Test RMSE: 2.853650
+      Test R2: 0.911899
+  - seed: 2
+      Training Time (s): 2.930541
+      Train MSE: 0.085651
+      Train RMSE: 0.292661
+      Train R2: 0.998962
+      Val MSE: 9.405138
+      Val RMSE: 3.066780
+      Val R2: 0.887239
+      Test MSE: 6.647831
+      Test RMSE: 2.578339
+      Test R2: 0.928078
+  - seed: 3
+      Training Time (s): 3.054521
+      Train MSE: 0.111290
+      Train RMSE: 0.333602
+      Train R2: 0.998651
+      Val MSE: 9.495781
+      Val RMSE: 3.081523
+      Val R2: 0.886153
+      Test MSE: 6.898251
+      Test RMSE: 2.626452
+      Test R2: 0.925369
+  - seed: 4
+      Training Time (s): 2.979392
+      Train MSE: 0.064822
+      Train RMSE: 0.254601
+      Train R2: 0.999214
+      Val MSE: 10.289560
+      Val RMSE: 3.207734
+      Val R2: 0.876636
+      Test MSE: 7.485644
+      Test RMSE: 2.735991
+      Test R2: 0.919014
+aggregates:
+  Training Time (s):
+    mean: 2.997155
+    std: 0.048128
+  Train MSE:
+    mean: 0.068995
+    std: 0.029940
+  Train RMSE:
+    mean: 0.257758
+    std: 0.056519
+  Train R2:
+    mean: 0.999164
+    std: 0.000363
+  Val MSE:
+    mean: 9.837439
+    std: 0.375193
+  Val RMSE:
+    mean: 3.136012
+    std: 0.059875
+  Val R2:
+    mean: 0.882056
+    std: 0.004498
+  Test MSE:
+    mean: 7.299484
+    std: 0.577252
+  Test RMSE:
+    mean: 2.700084
+    std: 0.106243
+  Test R2:
+    mean: 0.921028
+    std: 0.006245

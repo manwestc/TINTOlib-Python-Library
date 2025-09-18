@@ -1,0 +1,9 @@
+{
+    "model": "model2",
+    "mlp_hidden_dims": "[128, 64, 32]",
+    "max_lr": 0.00726925684413153,
+    "div_factor": 69,
+    "final_div_factor": 634,
+    "weight_decay": 5.228986114697791e-05,
+    "epochs": 200
+}

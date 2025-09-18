@@ -1,0 +1,19 @@
+Training Time (s): 14.9502
+Train Inference Time (s): 0.0105
+Train Accuracy: 1.0000
+Train F1: 1.0000
+Train Recall: 1.0000
+Train Precision: 1.0000
+Train Balanced Accuracy: 1.0000
+Val Inference Time (s): 0.0039
+Val Accuracy: 0.8233
+Val F1: 0.8233
+Val Recall: 0.8233
+Val Precision: 0.8267
+Val Balanced Accuracy: 0.8233
+Test Inference Time (s): 0.0039
+Test Accuracy: 0.8600
+Test F1: 0.8583
+Test Recall: 0.8600
+Test Precision: 0.8605
+Test Balanced Accuracy: 0.8600

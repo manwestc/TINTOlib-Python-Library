@@ -1,0 +1,202 @@
+Trial 0 - VAL-Accuracy: 0.6567, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 0 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 1 - VAL-Accuracy: 0.6433, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 2 - VAL-Accuracy: 0.5200, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 3 - VAL-Accuracy: 0.7833, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 4 - VAL-Accuracy: 0.7500, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 5 - VAL-Accuracy: 0.7567, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 6 - VAL-Accuracy: 0.5600, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 7 - VAL-Accuracy: 0.6567, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 8 - VAL-Accuracy: 0.7567, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 9 - VAL-Accuracy: 0.7900, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8033, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 11 - VAL-Accuracy: 0.7600, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 12 - VAL-Accuracy: 0.7467, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 13 - VAL-Accuracy: 0.7833, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 14 - VAL-Accuracy: 0.7800, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 15 - VAL-Accuracy: 0.7733, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 16 - VAL-Accuracy: 0.7700, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 17 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 18 - VAL-Accuracy: 0.6400, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 19 - VAL-Accuracy: 0.7933, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 20 - VAL-Accuracy: 0.7967, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 21 - VAL-Accuracy: 0.7900, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 22 - VAL-Accuracy: 0.7967, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 23 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 24 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 25 - VAL-Accuracy: 0.7800, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 26 - VAL-Accuracy: 0.6300, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8100, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 28 - VAL-Accuracy: 0.7667, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 29 - VAL-Accuracy: 0.7533, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 30 - VAL-Accuracy: 0.7967, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 31 - VAL-Accuracy: 0.7900, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 32 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 33 - VAL-Accuracy: 0.7933, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 34 - VAL-Accuracy: 0.6433, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 35 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 36 - VAL-Accuracy: 0.7800, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 37 - VAL-Accuracy: 0.6100, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 38 - VAL-Accuracy: 0.8033, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 39 - VAL-Accuracy: 0.7400, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 40 - VAL-Accuracy: 0.6200, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 41 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 42 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 43 - VAL-Accuracy: 0.7033, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 44 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 45 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 46 - VAL-Accuracy: 0.7933, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 47 - VAL-Accuracy: 0.7933, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 48 - VAL-Accuracy: 0.7600, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 49 - VAL-Accuracy: 0.7433, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 0 - VAL-Accuracy: 0.4900, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 1 - VAL-Accuracy: 0.7700, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 2 - VAL-Accuracy: 0.7767, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 3 - VAL-Accuracy: 0.6367, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 4 - VAL-Accuracy: 0.7500, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 5 - VAL-Accuracy: 0.6467, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 6 - VAL-Accuracy: 0.7233, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 7 - VAL-Accuracy: 0.7967, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 8 - VAL-Accuracy: 0.6467, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 9 - VAL-Accuracy: 0.5833, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 10 - VAL-Accuracy: 0.7833, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 11 - VAL-Accuracy: 0.7600, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8000, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 13 - VAL-Accuracy: 0.7833, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 14 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 15 - VAL-Accuracy: 0.7800, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 16 - VAL-Accuracy: 0.7900, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 17 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8100, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 19 - VAL-Accuracy: 0.7233, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 20 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 21 - VAL-Accuracy: 0.7700, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 22 - VAL-Accuracy: 0.7900, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 23 - VAL-Accuracy: 0.7833, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 24 - VAL-Accuracy: 0.7467, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 25 - VAL-Accuracy: 0.7767, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 26 - VAL-Accuracy: 0.6133, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 27 - VAL-Accuracy: 0.7700, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 28 - VAL-Accuracy: 0.7700, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 29 - VAL-Accuracy: 0.5200, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 30 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 31 - VAL-Accuracy: 0.7533, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 32 - VAL-Accuracy: 0.7500, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8033, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 34 - VAL-Accuracy: 0.7800, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 35 - VAL-Accuracy: 0.7800, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 36 - VAL-Accuracy: 0.7833, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 37 - VAL-Accuracy: 0.5267, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 38 - VAL-Accuracy: 0.7767, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 39 - VAL-Accuracy: 0.6200, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 40 - VAL-Accuracy: 0.7733, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================
+Trial 41 - VAL-Accuracy: 0.7867, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 42 - VAL-Accuracy: 0.7767, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 43 - VAL-Accuracy: 0.7700, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 44 - VAL-Accuracy: 0.7667, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 45 - VAL-Accuracy: 0.7600, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 46 - VAL-Accuracy: 0.7667, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 47 - VAL-Accuracy: 0.7633, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 48 - VAL-Accuracy: 0.6233, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 49 - VAL-Accuracy: 0.7933, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16]}
+============================================================

@@ -1,0 +1,260 @@
+# Overall best trial re-evaluation across model seeds
+trial_number: 18
+val_objective_best: 0.836667
+direction: maximize
+seeds: [0, 1, 2, 3, 4]
+per_seed_metrics:
+  - seed: 0
+      train_loss: 0.171653
+      val_loss: 0.564601
+      test_loss: 0.492911
+      min_lr: 0.000083
+      max_lr: 0.006400
+      total_time: 43.672960
+      average_epoch_time: 0.436330
+      train_accuracy: 0.916429
+      train_precision: 0.925189
+      train_recall: 0.916429
+      train_f1: 0.913966
+      train_roc_auc: 0.995200
+      train_log_loss: 0.171979
+      train_avg_precision: 0.956420
+      train_mcc: 0.908851
+      val_accuracy: 0.826667
+      val_precision: 0.834012
+      val_recall: 0.826667
+      val_f1: 0.822339
+      val_roc_auc: 0.980420
+      val_log_loss: 0.546529
+      val_avg_precision: 0.866671
+      val_mcc: 0.809579
+      test_accuracy: 0.833333
+      test_precision: 0.841756
+      test_recall: 0.833333
+      test_f1: 0.831119
+      test_roc_auc: 0.984469
+      test_log_loss: 0.506426
+      test_avg_precision: 0.890640
+      test_mcc: 0.816490
+  - seed: 1
+      train_loss: 0.260805
+      val_loss: 0.536167
+      test_loss: 0.516770
+      min_lr: 0.000083
+      max_lr: 0.006400
+      total_time: 43.962009
+      average_epoch_time: 0.439119
+      train_accuracy: 0.886429
+      train_precision: 0.892873
+      train_recall: 0.886429
+      train_f1: 0.882686
+      train_roc_auc: 0.991660
+      train_log_loss: 0.261022
+      train_avg_precision: 0.926169
+      train_mcc: 0.875538
+      val_accuracy: 0.813333
+      val_precision: 0.817928
+      val_recall: 0.813333
+      val_f1: 0.805088
+      val_roc_auc: 0.978531
+      val_log_loss: 0.541339
+      val_avg_precision: 0.864593
+      val_mcc: 0.795396
+      test_accuracy: 0.826667
+      test_precision: 0.832079
+      test_recall: 0.826667
+      test_f1: 0.816083
+      test_roc_auc: 0.981383
+      test_log_loss: 0.495242
+      test_avg_precision: 0.871856
+      test_mcc: 0.810294
+  - seed: 2
+      train_loss: 0.338345
+      val_loss: 0.522748
+      test_loss: 0.478451
+      min_lr: 0.000083
+      max_lr: 0.006400
+      total_time: 43.786318
+      average_epoch_time: 0.437507
+      train_accuracy: 0.836429
+      train_precision: 0.847496
+      train_recall: 0.836429
+      train_f1: 0.814699
+      train_roc_auc: 0.989020
+      train_log_loss: 0.338089
+      train_avg_precision: 0.907358
+      train_mcc: 0.824928
+      val_accuracy: 0.786667
+      val_precision: 0.774423
+      val_recall: 0.786667
+      val_f1: 0.768553
+      val_roc_auc: 0.975778
+      val_log_loss: 0.515441
+      val_avg_precision: 0.838342
+      val_mcc: 0.768130
+      test_accuracy: 0.803333
+      test_precision: 0.852011
+      test_recall: 0.803333
+      test_f1: 0.778698
+      test_roc_auc: 0.979284
+      test_log_loss: 0.496992
+      test_avg_precision: 0.848037
+      test_mcc: 0.789376
+  - seed: 3
+      train_loss: 0.320986
+      val_loss: 0.480616
+      test_loss: 0.539234
+      min_lr: 0.000083
+      max_lr: 0.006400
+      total_time: 43.790336
+      average_epoch_time: 0.437406
+      train_accuracy: 0.841429
+      train_precision: 0.843477
+      train_recall: 0.841429
+      train_f1: 0.835216
+      train_roc_auc: 0.988949
+      train_log_loss: 0.320693
+      train_avg_precision: 0.908218
+      train_mcc: 0.825983
+      val_accuracy: 0.823333
+      val_precision: 0.837797
+      val_recall: 0.823333
+      val_f1: 0.822257
+      val_roc_auc: 0.981444
+      val_log_loss: 0.475999
+      val_avg_precision: 0.869402
+      val_mcc: 0.805876
+      test_accuracy: 0.803333
+      test_precision: 0.814640
+      test_recall: 0.803333
+      test_f1: 0.799142
+      test_roc_auc: 0.979444
+      test_log_loss: 0.513438
+      test_avg_precision: 0.862726
+      test_mcc: 0.784129
+  - seed: 4
+      train_loss: 0.244914
+      val_loss: 0.515212
+      test_loss: 0.504948
+      min_lr: 0.000083
+      max_lr: 0.006400
+      total_time: 44.158956
+      average_epoch_time: 0.441261
+      train_accuracy: 0.882857
+      train_precision: 0.898512
+      train_recall: 0.882857
+      train_f1: 0.875258
+      train_roc_auc: 0.993573
+      train_log_loss: 0.244547
+      train_avg_precision: 0.946106
+      train_mcc: 0.873297
+      val_accuracy: 0.820000
+      val_precision: 0.825704
+      val_recall: 0.820000
+      val_f1: 0.814348
+      val_roc_auc: 0.978185
+      val_log_loss: 0.515499
+      val_avg_precision: 0.859500
+      val_mcc: 0.802222
+      test_accuracy: 0.836667
+      test_precision: 0.848331
+      test_recall: 0.836667
+      test_f1: 0.834803
+      test_roc_auc: 0.982975
+      test_log_loss: 0.454702
+      test_avg_precision: 0.882787
+      test_mcc: 0.820364
+aggregates:
+  train_loss:
+    mean: 0.267340
+    std: 0.066372
+  val_loss:
+    mean: 0.523869
+    std: 0.030649
+  test_loss:
+    mean: 0.506463
+    std: 0.023188
+  min_lr:
+    mean: 0.000083
+    std: 0.000000
+  max_lr:
+    mean: 0.006400
+    std: 0.000000
+  total_time:
+    mean: 43.874116
+    std: 0.189770
+  average_epoch_time:
+    mean: 0.438325
+    std: 0.001920
+  train_accuracy:
+    mean: 0.872714
+    std: 0.033531
+  train_precision:
+    mean: 0.881510
+    std: 0.035105
+  train_recall:
+    mean: 0.872714
+    std: 0.033531
+  train_f1:
+    mean: 0.864365
+    std: 0.039468
+  train_roc_auc:
+    mean: 0.991680
+    std: 0.002762
+  train_log_loss:
+    mean: 0.267266
+    std: 0.066154
+  train_avg_precision:
+    mean: 0.928854
+    std: 0.022094
+  train_mcc:
+    mean: 0.861719
+    std: 0.035976
+  val_accuracy:
+    mean: 0.814000
+    std: 0.016055
+  val_precision:
+    mean: 0.817973
+    std: 0.025528
+  val_recall:
+    mean: 0.814000
+    std: 0.016055
+  val_f1:
+    mean: 0.806517
+    std: 0.022376
+  val_roc_auc:
+    mean: 0.978872
+    std: 0.002189
+  val_log_loss:
+    mean: 0.518962
+    std: 0.027977
+  val_avg_precision:
+    mean: 0.859701
+    std: 0.012479
+  val_mcc:
+    mean: 0.796240
+    std: 0.016564
+  test_accuracy:
+    mean: 0.820667
+    std: 0.016228
+  test_precision:
+    mean: 0.837763
+    std: 0.014980
+  test_recall:
+    mean: 0.820667
+    std: 0.016228
+  test_f1:
+    mean: 0.811969
+    std: 0.023327
+  test_roc_auc:
+    mean: 0.981511
+    std: 0.002244
+  test_log_loss:
+    mean: 0.493360
+    std: 0.022831
+  test_avg_precision:
+    mean: 0.871209
+    std: 0.016740
+  test_mcc:
+    mean: 0.804130
+    std: 0.016371

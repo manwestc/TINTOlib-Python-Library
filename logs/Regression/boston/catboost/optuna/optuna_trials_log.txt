@@ -1,0 +1,386 @@
+Trial 0 - VAL-RMSE: 3.2745, Params: {'bagging_temperature': 0.52783874629576, 'depth': 4, 'l2_leaf_reg': 1.573461368169602, 'leaf_estimation_iterations': 5, 'learning_rate': 0.07479897207725021, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 1 - VAL-RMSE: 4.5710, Params: {'bagging_temperature': 0.20233055955464319, 'depth': 8, 'l2_leaf_reg': 2.2476317745023366, 'leaf_estimation_iterations': 9, 'learning_rate': 0.0015093905394477258, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 2 - VAL-RMSE: 3.8357, Params: {'bagging_temperature': 0.28940178922653914, 'depth': 3, 'l2_leaf_reg': 6.342453952785392, 'leaf_estimation_iterations': 2, 'learning_rate': 0.009324712463292941, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 3 - VAL-RMSE: 3.5897, Params: {'bagging_temperature': 0.1613306118311708, 'depth': 10, 'l2_leaf_reg': 1.3081849352359118, 'leaf_estimation_iterations': 4, 'learning_rate': 0.08197431795448261, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 4 - VAL-RMSE: 3.9454, Params: {'bagging_temperature': 0.5003137061297362, 'depth': 4, 'l2_leaf_reg': 1.281454973343867, 'leaf_estimation_iterations': 4, 'learning_rate': 0.0027280658851245518, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 5 - VAL-RMSE: 3.9458, Params: {'bagging_temperature': 0.26498379454773546, 'depth': 7, 'l2_leaf_reg': 5.500212267946551, 'leaf_estimation_iterations': 5, 'learning_rate': 0.19086763273341106, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 6 - VAL-RMSE: 8.3696, Params: {'bagging_temperature': 0.8110396661196949, 'depth': 5, 'l2_leaf_reg': 1.1180096665440555, 'leaf_estimation_iterations': 1, 'learning_rate': 0.0001599721151103878, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 7 - VAL-RMSE: 6.9504, Params: {'bagging_temperature': 0.6193448487900125, 'depth': 4, 'l2_leaf_reg': 3.916271646434701, 'leaf_estimation_iterations': 9, 'learning_rate': 0.0005075819063712219, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 8 - VAL-RMSE: 3.3948, Params: {'bagging_temperature': 0.5541795437012613, 'depth': 7, 'l2_leaf_reg': 1.290166197847718, 'leaf_estimation_iterations': 7, 'learning_rate': 0.18773949281813704, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 9 - VAL-RMSE: 3.2303, Params: {'bagging_temperature': 0.2673182663921311, 'depth': 10, 'l2_leaf_reg': 8.766400409201685, 'leaf_estimation_iterations': 9, 'learning_rate': 0.06418601847752582, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 10 - VAL-RMSE: 9.0915, Params: {'bagging_temperature': 0.9848729946408126, 'depth': 10, 'l2_leaf_reg': 9.961465233236991, 'leaf_estimation_iterations': 10, 'learning_rate': 1.2298212692820618e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 11 - VAL-RMSE: 3.2980, Params: {'bagging_temperature': 0.0243480230759911, 'depth': 9, 'l2_leaf_reg': 2.1954275711380773, 'leaf_estimation_iterations': 7, 'learning_rate': 0.023548721481375184, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 12 - VAL-RMSE: 4.1256, Params: {'bagging_temperature': 0.40195026540684026, 'depth': 6, 'l2_leaf_reg': 2.256878102537711, 'leaf_estimation_iterations': 7, 'learning_rate': 0.6102945507826053, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 13 - VAL-RMSE: 3.1822, Params: {'bagging_temperature': 0.7048242319712688, 'depth': 6, 'l2_leaf_reg': 9.49986003908804, 'leaf_estimation_iterations': 6, 'learning_rate': 0.026373057214829115, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 14 - VAL-RMSE: 3.1971, Params: {'bagging_temperature': 0.7278189972082904, 'depth': 6, 'l2_leaf_reg': 9.016107904603611, 'leaf_estimation_iterations': 8, 'learning_rate': 0.015407329117270836, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 15 - VAL-RMSE: 3.2037, Params: {'bagging_temperature': 0.7482646043579662, 'depth': 6, 'l2_leaf_reg': 6.7682626175202385, 'leaf_estimation_iterations': 7, 'learning_rate': 0.013794626396031455, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 16 - VAL-RMSE: 5.8041, Params: {'bagging_temperature': 0.7300170866190179, 'depth': 8, 'l2_leaf_reg': 4.565724684190981, 'leaf_estimation_iterations': 6, 'learning_rate': 0.9486048266140629, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 17 - VAL-RMSE: 3.4870, Params: {'bagging_temperature': 0.930755662447891, 'depth': 5, 'l2_leaf_reg': 7.7282072585276955, 'leaf_estimation_iterations': 8, 'learning_rate': 0.005722538919730589, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 18 - VAL-RMSE: 5.9641, Params: {'bagging_temperature': 0.6508844782360236, 'depth': 5, 'l2_leaf_reg': 2.999406473764338, 'leaf_estimation_iterations': 3, 'learning_rate': 0.0008193107749737829, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 19 - VAL-RMSE: 8.2853, Params: {'bagging_temperature': 0.8774605272614128, 'depth': 8, 'l2_leaf_reg': 5.179617529335726, 'leaf_estimation_iterations': 6, 'learning_rate': 0.00016145301993873858, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 20 - VAL-RMSE: 3.1302, Params: {'bagging_temperature': 0.38759382099642825, 'depth': 6, 'l2_leaf_reg': 9.880960067064633, 'leaf_estimation_iterations': 10, 'learning_rate': 0.025467140780496757, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 21 - VAL-RMSE: 3.2421, Params: {'bagging_temperature': 0.4020772648257953, 'depth': 6, 'l2_leaf_reg': 9.687058774431545, 'leaf_estimation_iterations': 10, 'learning_rate': 0.03158810824111399, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 22 - VAL-RMSE: 3.5049, Params: {'bagging_temperature': 0.396806422724318, 'depth': 6, 'l2_leaf_reg': 7.720099103291724, 'leaf_estimation_iterations': 8, 'learning_rate': 0.004625885500725017, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 23 - VAL-RMSE: 3.2001, Params: {'bagging_temperature': 0.6891897020225402, 'depth': 7, 'l2_leaf_reg': 7.488324815191674, 'leaf_estimation_iterations': 8, 'learning_rate': 0.021407419041538152, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 24 - VAL-RMSE: 3.4630, Params: {'bagging_temperature': 0.8388861449728398, 'depth': 5, 'l2_leaf_reg': 6.315407342372112, 'leaf_estimation_iterations': 10, 'learning_rate': 0.30408174502253993, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 25 - VAL-RMSE: 3.3066, Params: {'bagging_temperature': 0.5938010037763948, 'depth': 7, 'l2_leaf_reg': 8.664738295442246, 'leaf_estimation_iterations': 9, 'learning_rate': 0.04480005649475639, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 26 - VAL-RMSE: 3.2437, Params: {'bagging_temperature': 0.7684038926008595, 'depth': 6, 'l2_leaf_reg': 3.6434632066180375, 'leaf_estimation_iterations': 8, 'learning_rate': 0.00899426639558991, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 27 - VAL-RMSE: 4.3563, Params: {'bagging_temperature': 0.42500902071990854, 'depth': 5, 'l2_leaf_reg': 5.339562560785652, 'leaf_estimation_iterations': 6, 'learning_rate': 0.001857503983772476, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 28 - VAL-RMSE: 3.5815, Params: {'bagging_temperature': 0.6701763229670674, 'depth': 3, 'l2_leaf_reg': 8.586571431241678, 'leaf_estimation_iterations': 10, 'learning_rate': 0.14856320852069616, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 29 - VAL-RMSE: 3.3406, Params: {'bagging_temperature': 0.48954914122104737, 'depth': 4, 'l2_leaf_reg': 2.789614131071381, 'leaf_estimation_iterations': 5, 'learning_rate': 0.06878675270059441, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 30 - VAL-RMSE: 3.1779, Params: {'bagging_temperature': 0.5718579274965465, 'depth': 7, 'l2_leaf_reg': 6.905181971133554, 'leaf_estimation_iterations': 4, 'learning_rate': 0.015302572200296443, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 31 - VAL-RMSE: 3.2537, Params: {'bagging_temperature': 0.5374790139265098, 'depth': 7, 'l2_leaf_reg': 6.787735215525864, 'leaf_estimation_iterations': 4, 'learning_rate': 0.013046984473458475, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 32 - VAL-RMSE: 3.5301, Params: {'bagging_temperature': 0.46536249158565113, 'depth': 8, 'l2_leaf_reg': 9.569472115755506, 'leaf_estimation_iterations': 5, 'learning_rate': 0.004772240329541256, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 33 - VAL-RMSE: 3.2425, Params: {'bagging_temperature': 0.3290703917243284, 'depth': 6, 'l2_leaf_reg': 7.835196910312163, 'leaf_estimation_iterations': 3, 'learning_rate': 0.020118141234201633, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 34 - VAL-RMSE: 3.3553, Params: {'bagging_temperature': 0.5840701173416163, 'depth': 8, 'l2_leaf_reg': 6.249329301690304, 'leaf_estimation_iterations': 3, 'learning_rate': 0.008608142391352394, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 35 - VAL-RMSE: 3.2519, Params: {'bagging_temperature': 0.13552610443788127, 'depth': 7, 'l2_leaf_reg': 8.554250984363447, 'leaf_estimation_iterations': 9, 'learning_rate': 0.09454411506584531, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 36 - VAL-RMSE: 3.9190, Params: {'bagging_temperature': 0.6818429525685753, 'depth': 9, 'l2_leaf_reg': 4.588646114864062, 'leaf_estimation_iterations': 4, 'learning_rate': 0.0026421355741830157, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 37 - VAL-RMSE: 3.4030, Params: {'bagging_temperature': 0.3424548538581881, 'depth': 6, 'l2_leaf_reg': 9.968583285396232, 'leaf_estimation_iterations': 1, 'learning_rate': 0.04155624262929552, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 38 - VAL-RMSE: 5.2552, Params: {'bagging_temperature': 0.8076447288579233, 'depth': 5, 'l2_leaf_reg': 5.796709796115257, 'leaf_estimation_iterations': 5, 'learning_rate': 0.0011610243951548, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 39 - VAL-RMSE: 3.8467, Params: {'bagging_temperature': 0.628776807354957, 'depth': 7, 'l2_leaf_reg': 6.9416781273316595, 'leaf_estimation_iterations': 2, 'learning_rate': 0.3421549353363074, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 40 - VAL-RMSE: 3.3549, Params: {'bagging_temperature': 0.5277039254912935, 'depth': 4, 'l2_leaf_reg': 4.6053594172923935, 'leaf_estimation_iterations': 9, 'learning_rate': 0.1061257553445358, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 41 - VAL-RMSE: 3.2099, Params: {'bagging_temperature': 0.724931924530954, 'depth': 7, 'l2_leaf_reg': 7.806554671362362, 'leaf_estimation_iterations': 8, 'learning_rate': 0.018587525291997888, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 42 - VAL-RMSE: 3.2445, Params: {'bagging_temperature': 0.699622563470847, 'depth': 7, 'l2_leaf_reg': 7.011011204731629, 'leaf_estimation_iterations': 6, 'learning_rate': 0.03403896353575331, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 43 - VAL-RMSE: 3.2601, Params: {'bagging_temperature': 0.79139646556575, 'depth': 6, 'l2_leaf_reg': 8.821495646978802, 'leaf_estimation_iterations': 8, 'learning_rate': 0.009403980055035928, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 44 - VAL-RMSE: 3.4655, Params: {'bagging_temperature': 0.867760837589471, 'depth': 9, 'l2_leaf_reg': 7.4146584020981114, 'leaf_estimation_iterations': 7, 'learning_rate': 0.054565574834904, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 45 - VAL-RMSE: 3.1937, Params: {'bagging_temperature': 0.5779925261250461, 'depth': 6, 'l2_leaf_reg': 1.753100110564751, 'leaf_estimation_iterations': 4, 'learning_rate': 0.02453231926095764, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 46 - VAL-RMSE: 3.1959, Params: {'bagging_temperature': 0.5798149150418827, 'depth': 6, 'l2_leaf_reg': 1.8385372531704676, 'leaf_estimation_iterations': 3, 'learning_rate': 0.014781590543791797, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 47 - VAL-RMSE: 3.4151, Params: {'bagging_temperature': 0.5948061434827575, 'depth': 5, 'l2_leaf_reg': 1.8381743250568, 'leaf_estimation_iterations': 2, 'learning_rate': 0.0062686746128014425, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 48 - VAL-RMSE: 9.0649, Params: {'bagging_temperature': 0.20689525217391946, 'depth': 6, 'l2_leaf_reg': 1.7727580275653843, 'leaf_estimation_iterations': 4, 'learning_rate': 1.6498421574681672e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 49 - VAL-RMSE: 3.1737, Params: {'bagging_temperature': 0.4582673920823137, 'depth': 6, 'l2_leaf_reg': 1.4504088290388788, 'leaf_estimation_iterations': 3, 'learning_rate': 0.033440482092762736, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 0 - VAL-RMSE: 3.4438, Params: {'bagging_temperature': 0.436444746312888, 'depth': 4, 'l2_leaf_reg': 7.155094042373459, 'leaf_estimation_iterations': 8, 'learning_rate': 0.14926638439333098, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 1 - VAL-RMSE: 8.7655, Params: {'bagging_temperature': 0.8149341961660881, 'depth': 4, 'l2_leaf_reg': 4.3662596380644905, 'leaf_estimation_iterations': 3, 'learning_rate': 7.451403212737099e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 2 - VAL-RMSE: 3.0898, Params: {'bagging_temperature': 0.4440368200361612, 'depth': 5, 'l2_leaf_reg': 1.5677937100102906, 'leaf_estimation_iterations': 7, 'learning_rate': 0.038290939914975404, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 3 - VAL-RMSE: 3.1813, Params: {'bagging_temperature': 0.5437699390985551, 'depth': 5, 'l2_leaf_reg': 4.273858247791883, 'leaf_estimation_iterations': 3, 'learning_rate': 0.07983432635722049, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 4 - VAL-RMSE: 3.7787, Params: {'bagging_temperature': 0.7117643453091903, 'depth': 7, 'l2_leaf_reg': 1.384194542196071, 'leaf_estimation_iterations': 6, 'learning_rate': 0.002572329891286819, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 5 - VAL-RMSE: 8.8884, Params: {'bagging_temperature': 0.7307837159530738, 'depth': 4, 'l2_leaf_reg': 8.188868415801624, 'leaf_estimation_iterations': 6, 'learning_rate': 5.153292453696031e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 6 - VAL-RMSE: 8.1123, Params: {'bagging_temperature': 0.1399039674634408, 'depth': 9, 'l2_leaf_reg': 1.3900196640125797, 'leaf_estimation_iterations': 2, 'learning_rate': 0.00020487961015216833, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 7 - VAL-RMSE: 4.1714, Params: {'bagging_temperature': 0.4997833291958077, 'depth': 3, 'l2_leaf_reg': 1.961803683389576, 'leaf_estimation_iterations': 1, 'learning_rate': 0.0037371505362890516, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 8 - VAL-RMSE: 3.4158, Params: {'bagging_temperature': 0.03901567682597962, 'depth': 5, 'l2_leaf_reg': 7.741978539867784, 'leaf_estimation_iterations': 2, 'learning_rate': 0.30382711241252947, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 9 - VAL-RMSE: 4.7583, Params: {'bagging_temperature': 0.5553647495689541, 'depth': 6, 'l2_leaf_reg': 1.11748047376679, 'leaf_estimation_iterations': 8, 'learning_rate': 0.0013497940295431647, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 10 - VAL-RMSE: 3.2606, Params: {'bagging_temperature': 0.9818765392812415, 'depth': 8, 'l2_leaf_reg': 2.447979745227507, 'leaf_estimation_iterations': 10, 'learning_rate': 0.013160847910749049, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 11 - VAL-RMSE: 3.1979, Params: {'bagging_temperature': 0.283519653493582, 'depth': 6, 'l2_leaf_reg': 3.8286599867578506, 'leaf_estimation_iterations': 4, 'learning_rate': 0.039253730483506416, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 12 - VAL-RMSE: 4.9864, Params: {'bagging_temperature': 0.35323482350399366, 'depth': 10, 'l2_leaf_reg': 5.211573765228628, 'leaf_estimation_iterations': 5, 'learning_rate': 0.8903102567819293, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 13 - VAL-RMSE: 3.1905, Params: {'bagging_temperature': 0.5985640404237853, 'depth': 5, 'l2_leaf_reg': 2.7492871171546853, 'leaf_estimation_iterations': 4, 'learning_rate': 0.06163651198771148, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 14 - VAL-RMSE: 3.1973, Params: {'bagging_temperature': 0.27469709868006587, 'depth': 7, 'l2_leaf_reg': 1.9211905250477619, 'leaf_estimation_iterations': 8, 'learning_rate': 0.016381582505008794, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 15 - VAL-RMSE: 3.8105, Params: {'bagging_temperature': 0.40610003099127595, 'depth': 5, 'l2_leaf_reg': 3.5024682215780616, 'leaf_estimation_iterations': 7, 'learning_rate': 0.6513208756768346, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 16 - VAL-RMSE: 3.6484, Params: {'bagging_temperature': 0.6416999717091115, 'depth': 3, 'l2_leaf_reg': 6.130876598288366, 'leaf_estimation_iterations': 10, 'learning_rate': 0.012276324240603473, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 17 - VAL-RMSE: 3.3203, Params: {'bagging_temperature': 0.18489472248388927, 'depth': 6, 'l2_leaf_reg': 2.0466457180478486, 'leaf_estimation_iterations': 4, 'learning_rate': 0.11706215938795263, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 18 - VAL-RMSE: 6.1357, Params: {'bagging_temperature': 0.8801486952991315, 'depth': 8, 'l2_leaf_reg': 4.740729115241771, 'leaf_estimation_iterations': 5, 'learning_rate': 0.000736130662209818, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 19 - VAL-RMSE: 3.1459, Params: {'bagging_temperature': 0.5034973903066357, 'depth': 5, 'l2_leaf_reg': 2.9859267568567995, 'leaf_estimation_iterations': 7, 'learning_rate': 0.038475363949360464, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 20 - VAL-RMSE: 9.1071, Params: {'bagging_temperature': 0.4539598516547238, 'depth': 3, 'l2_leaf_reg': 1.5001686556011558, 'leaf_estimation_iterations': 9, 'learning_rate': 1.0506460480023852e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 21 - VAL-RMSE: 3.1186, Params: {'bagging_temperature': 0.5472544018502891, 'depth': 5, 'l2_leaf_reg': 3.0289447108652983, 'leaf_estimation_iterations': 7, 'learning_rate': 0.034504412487353885, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 22 - VAL-RMSE: 3.2425, Params: {'bagging_temperature': 0.6667974916619748, 'depth': 4, 'l2_leaf_reg': 3.069772417398206, 'leaf_estimation_iterations': 7, 'learning_rate': 0.0279049969329007, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 23 - VAL-RMSE: 3.3771, Params: {'bagging_temperature': 0.3409961090511816, 'depth': 5, 'l2_leaf_reg': 9.940463509177862, 'leaf_estimation_iterations': 7, 'learning_rate': 0.007474734203748918, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 24 - VAL-RMSE: 3.3288, Params: {'bagging_temperature': 0.49406978426688497, 'depth': 6, 'l2_leaf_reg': 1.0007103495780818, 'leaf_estimation_iterations': 9, 'learning_rate': 0.2615121781740399, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 25 - VAL-RMSE: 3.2132, Params: {'bagging_temperature': 0.5909416390358346, 'depth': 7, 'l2_leaf_reg': 2.435346901427047, 'leaf_estimation_iterations': 6, 'learning_rate': 0.038672386574003896, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 26 - VAL-RMSE: 3.6707, Params: {'bagging_temperature': 0.36816957548143453, 'depth': 4, 'l2_leaf_reg': 1.6273164233483668, 'leaf_estimation_iterations': 7, 'learning_rate': 0.004275532825252558, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 27 - VAL-RMSE: 3.6475, Params: {'bagging_temperature': 0.2607157011226533, 'depth': 5, 'l2_leaf_reg': 3.1907092135542716, 'leaf_estimation_iterations': 9, 'learning_rate': 0.27643030658868095, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 28 - VAL-RMSE: 3.1612, Params: {'bagging_temperature': 0.5045715778254491, 'depth': 6, 'l2_leaf_reg': 2.485284191330561, 'leaf_estimation_iterations': 8, 'learning_rate': 0.022781212261150326, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 29 - VAL-RMSE: 3.5132, Params: {'bagging_temperature': 0.43641961961674663, 'depth': 4, 'l2_leaf_reg': 1.7565224743417425, 'leaf_estimation_iterations': 6, 'learning_rate': 0.14910984234068506, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 30 - VAL-RMSE: 3.4091, Params: {'bagging_temperature': 0.7516211143406509, 'depth': 4, 'l2_leaf_reg': 1.1811538432209678, 'leaf_estimation_iterations': 8, 'learning_rate': 0.007024488657745754, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 31 - VAL-RMSE: 3.1716, Params: {'bagging_temperature': 0.4884863196240673, 'depth': 6, 'l2_leaf_reg': 2.3984190826164835, 'leaf_estimation_iterations': 8, 'learning_rate': 0.025502980776601524, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 32 - VAL-RMSE: 3.2202, Params: {'bagging_temperature': 0.5598408308833998, 'depth': 5, 'l2_leaf_reg': 2.7680323381529384, 'leaf_estimation_iterations': 7, 'learning_rate': 0.060627555417594695, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 33 - VAL-RMSE: 3.1534, Params: {'bagging_temperature': 0.6408309151967398, 'depth': 6, 'l2_leaf_reg': 3.659900585223002, 'leaf_estimation_iterations': 9, 'learning_rate': 0.0203122828688902, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 34 - VAL-RMSE: 3.2915, Params: {'bagging_temperature': 0.6532474312113344, 'depth': 7, 'l2_leaf_reg': 4.292756083189599, 'leaf_estimation_iterations': 9, 'learning_rate': 0.07254111682929418, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 35 - VAL-RMSE: 3.3861, Params: {'bagging_temperature': 0.7913933232315651, 'depth': 5, 'l2_leaf_reg': 5.624195562701829, 'leaf_estimation_iterations': 5, 'learning_rate': 0.007739113793599478, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 36 - VAL-RMSE: 4.2479, Params: {'bagging_temperature': 0.6796693925530748, 'depth': 8, 'l2_leaf_reg': 3.778989369076672, 'leaf_estimation_iterations': 10, 'learning_rate': 0.001804949555523197, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 37 - VAL-RMSE: 3.1931, Params: {'bagging_temperature': 0.8552963955237138, 'depth': 4, 'l2_leaf_reg': 3.166999616381888, 'leaf_estimation_iterations': 6, 'learning_rate': 0.1261322823424055, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 38 - VAL-RMSE: 3.3018, Params: {'bagging_temperature': 0.6143873288922658, 'depth': 6, 'l2_leaf_reg': 2.124739485725771, 'leaf_estimation_iterations': 7, 'learning_rate': 0.044313192216333265, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 39 - VAL-RMSE: 5.3435, Params: {'bagging_temperature': 0.4168290794610187, 'depth': 7, 'l2_leaf_reg': 6.548807111600278, 'leaf_estimation_iterations': 9, 'learning_rate': 0.0010504265144133359, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 40 - VAL-RMSE: 7.0758, Params: {'bagging_temperature': 0.7575385686750737, 'depth': 5, 'l2_leaf_reg': 4.012123992025479, 'leaf_estimation_iterations': 6, 'learning_rate': 0.0004528654925664095, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 41 - VAL-RMSE: 3.1968, Params: {'bagging_temperature': 0.5467505358080376, 'depth': 6, 'l2_leaf_reg': 2.8523626720789284, 'leaf_estimation_iterations': 8, 'learning_rate': 0.02256184586433593, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 42 - VAL-RMSE: 3.1449, Params: {'bagging_temperature': 0.48745183495564914, 'depth': 6, 'l2_leaf_reg': 3.463948316957889, 'leaf_estimation_iterations': 8, 'learning_rate': 0.01541011136705888, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 0 - VAL-RMSE: 3.4755, Params: {'bagging_temperature': 0.04548192103461912, 'depth': 3, 'l2_leaf_reg': 1.6862256240966695, 'leaf_estimation_iterations': 10, 'learning_rate': 0.013255495954333708, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 1 - VAL-RMSE: 3.6287, Params: {'bagging_temperature': 0.3236716390264447, 'depth': 9, 'l2_leaf_reg': 5.38073871911316, 'leaf_estimation_iterations': 6, 'learning_rate': 0.17307454805511385, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 2 - VAL-RMSE: 9.0615, Params: {'bagging_temperature': 0.34781277479165484, 'depth': 10, 'l2_leaf_reg': 3.395150034304746, 'leaf_estimation_iterations': 1, 'learning_rate': 2.5411067876694135e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 3 - VAL-RMSE: 3.8617, Params: {'bagging_temperature': 0.7650305953669528, 'depth': 10, 'l2_leaf_reg': 1.2254233288687255, 'leaf_estimation_iterations': 9, 'learning_rate': 0.3852864199768054, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 4 - VAL-RMSE: 7.5864, Params: {'bagging_temperature': 0.6741538139473019, 'depth': 10, 'l2_leaf_reg': 2.584525494100387, 'leaf_estimation_iterations': 2, 'learning_rate': 0.0003545899433715688, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 5 - VAL-RMSE: 3.4349, Params: {'bagging_temperature': 0.7381276647093421, 'depth': 9, 'l2_leaf_reg': 1.5051809104207614, 'leaf_estimation_iterations': 7, 'learning_rate': 0.01670327471337655, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 6 - VAL-RMSE: 3.6504, Params: {'bagging_temperature': 0.7622370717048014, 'depth': 4, 'l2_leaf_reg': 1.185012565466854, 'leaf_estimation_iterations': 10, 'learning_rate': 0.477993476814323, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 7 - VAL-RMSE: 3.6426, Params: {'bagging_temperature': 0.2054641325496004, 'depth': 10, 'l2_leaf_reg': 1.8016605023900023, 'leaf_estimation_iterations': 9, 'learning_rate': 0.06146084699019343, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 8 - VAL-RMSE: 7.6604, Params: {'bagging_temperature': 0.6893119088530336, 'depth': 4, 'l2_leaf_reg': 5.299630819967701, 'leaf_estimation_iterations': 8, 'learning_rate': 0.0003120449930674975, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 9 - VAL-RMSE: 8.0156, Params: {'bagging_temperature': 0.19176153754517167, 'depth': 6, 'l2_leaf_reg': 1.4949097786662615, 'leaf_estimation_iterations': 6, 'learning_rate': 0.00021294594850348027, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 10 - VAL-RMSE: 3.5488, Params: {'bagging_temperature': 0.9971806915048593, 'depth': 7, 'l2_leaf_reg': 8.659579238071789, 'leaf_estimation_iterations': 3, 'learning_rate': 0.0060549590112461815, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 11 - VAL-RMSE: 3.2596, Params: {'bagging_temperature': 0.01252833861205381, 'depth': 7, 'l2_leaf_reg': 2.1740574762252236, 'leaf_estimation_iterations': 7, 'learning_rate': 0.007074719380865412, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 12 - VAL-RMSE: 3.3090, Params: {'bagging_temperature': 0.5611959387399116, 'depth': 8, 'l2_leaf_reg': 2.46479433910604, 'leaf_estimation_iterations': 4, 'learning_rate': 0.01898049765948366, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 13 - VAL-RMSE: 5.0380, Params: {'bagging_temperature': 0.5218437612196833, 'depth': 7, 'l2_leaf_reg': 2.6281113077395593, 'leaf_estimation_iterations': 4, 'learning_rate': 0.001216551782245413, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 14 - VAL-RMSE: 3.1435, Params: {'bagging_temperature': 0.4799399246388665, 'depth': 6, 'l2_leaf_reg': 3.557480293592092, 'leaf_estimation_iterations': 4, 'learning_rate': 0.046073340625501134, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 15 - VAL-RMSE: 4.0227, Params: {'bagging_temperature': 0.06192323235685773, 'depth': 6, 'l2_leaf_reg': 4.033460109846835, 'leaf_estimation_iterations': 5, 'learning_rate': 0.0022152077117587932, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 16 - VAL-RMSE: 3.2683, Params: {'bagging_temperature': 0.9789796804767106, 'depth': 5, 'l2_leaf_reg': 4.688406790370471, 'leaf_estimation_iterations': 7, 'learning_rate': 0.07064049026397994, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 17 - VAL-RMSE: 3.1367, Params: {'bagging_temperature': 0.4151111865327082, 'depth': 8, 'l2_leaf_reg': 8.207726374053662, 'leaf_estimation_iterations': 5, 'learning_rate': 0.05650123683699661, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 18 - VAL-RMSE: 3.4054, Params: {'bagging_temperature': 0.4280265445464382, 'depth': 8, 'l2_leaf_reg': 9.184392474427908, 'leaf_estimation_iterations': 4, 'learning_rate': 0.11192796544390522, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 19 - VAL-RMSE: 3.2303, Params: {'bagging_temperature': 0.5887135182573257, 'depth': 5, 'l2_leaf_reg': 6.819128634994895, 'leaf_estimation_iterations': 2, 'learning_rate': 0.05073690661915946, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 20 - VAL-RMSE: 4.3622, Params: {'bagging_temperature': 0.42871892877247625, 'depth': 8, 'l2_leaf_reg': 6.949907316942835, 'leaf_estimation_iterations': 5, 'learning_rate': 0.7647820188944402, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 21 - VAL-RMSE: 3.3631, Params: {'bagging_temperature': 0.5697509117082109, 'depth': 5, 'l2_leaf_reg': 7.375361164837045, 'leaf_estimation_iterations': 2, 'learning_rate': 0.040563908314161484, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 22 - VAL-RMSE: 3.3690, Params: {'bagging_temperature': 0.6215162690609681, 'depth': 5, 'l2_leaf_reg': 6.325748893888003, 'leaf_estimation_iterations': 3, 'learning_rate': 0.20743864074737478, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 23 - VAL-RMSE: 3.5038, Params: {'bagging_temperature': 0.44573791838513466, 'depth': 6, 'l2_leaf_reg': 9.81243760568357, 'leaf_estimation_iterations': 1, 'learning_rate': 0.03538933336133173, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 24 - VAL-RMSE: 3.6558, Params: {'bagging_temperature': 0.32126201742952737, 'depth': 5, 'l2_leaf_reg': 3.6472289663254305, 'leaf_estimation_iterations': 3, 'learning_rate': 0.004039033827632336, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 25 - VAL-RMSE: 3.3176, Params: {'bagging_temperature': 0.8709282095694, 'depth': 4, 'l2_leaf_reg': 4.4350664475886035, 'leaf_estimation_iterations': 2, 'learning_rate': 0.22741076247634778, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 26 - VAL-RMSE: 3.2518, Params: {'bagging_temperature': 0.4637703934480032, 'depth': 6, 'l2_leaf_reg': 5.925603735451528, 'leaf_estimation_iterations': 5, 'learning_rate': 0.02881152980644213, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 27 - VAL-RMSE: 3.7106, Params: {'bagging_temperature': 0.23430078140463373, 'depth': 3, 'l2_leaf_reg': 8.013449695631605, 'leaf_estimation_iterations': 4, 'learning_rate': 0.009604404352598354, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 28 - VAL-RMSE: 5.3309, Params: {'bagging_temperature': 0.3643616003545483, 'depth': 7, 'l2_leaf_reg': 6.631155524900138, 'leaf_estimation_iterations': 3, 'learning_rate': 0.001189390887004738, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 29 - VAL-RMSE: 3.4957, Params: {'bagging_temperature': 0.6125637583625697, 'depth': 9, 'l2_leaf_reg': 3.144713659107018, 'leaf_estimation_iterations': 2, 'learning_rate': 0.09934268689824852, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 30 - VAL-RMSE: 3.5462, Params: {'bagging_temperature': 0.11718682737718256, 'depth': 3, 'l2_leaf_reg': 5.237113137505893, 'leaf_estimation_iterations': 6, 'learning_rate': 0.017440429412172463, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 31 - VAL-RMSE: 3.2344, Params: {'bagging_temperature': 0.4956637957954767, 'depth': 6, 'l2_leaf_reg': 6.045142667413587, 'leaf_estimation_iterations': 5, 'learning_rate': 0.036960132139131414, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 32 - VAL-RMSE: 3.1359, Params: {'bagging_temperature': 0.5191755017613231, 'depth': 6, 'l2_leaf_reg': 7.6700364266539545, 'leaf_estimation_iterations': 5, 'learning_rate': 0.05295080635494772, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 33 - VAL-RMSE: 3.3040, Params: {'bagging_temperature': 0.39644731639662234, 'depth': 5, 'l2_leaf_reg': 7.8435120393575115, 'leaf_estimation_iterations': 6, 'learning_rate': 0.1466693296790291, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 34 - VAL-RMSE: 9.0870, Params: {'bagging_temperature': 0.3221924866498737, 'depth': 8, 'l2_leaf_reg': 8.615717013594754, 'leaf_estimation_iterations': 4, 'learning_rate': 1.4020528648975125e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 35 - VAL-RMSE: 3.4838, Params: {'bagging_temperature': 0.5336163522778832, 'depth': 7, 'l2_leaf_reg': 3.116348669159908, 'leaf_estimation_iterations': 1, 'learning_rate': 0.32108309078945296, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 36 - VAL-RMSE: 3.4335, Params: {'bagging_temperature': 0.27546120984215094, 'depth': 9, 'l2_leaf_reg': 4.684015798473786, 'leaf_estimation_iterations': 5, 'learning_rate': 0.06743165073430922, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 37 - VAL-RMSE: 5.7697, Params: {'bagging_temperature': 0.6313842320273868, 'depth': 4, 'l2_leaf_reg': 1.0001602116482575, 'leaf_estimation_iterations': 6, 'learning_rate': 0.9659839480834037, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 38 - VAL-RMSE: 3.2853, Params: {'bagging_temperature': 0.8492160308744974, 'depth': 6, 'l2_leaf_reg': 7.30332881522772, 'leaf_estimation_iterations': 3, 'learning_rate': 0.012924535568222196, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 39 - VAL-RMSE: 3.2363, Params: {'bagging_temperature': 0.7087906783042051, 'depth': 5, 'l2_leaf_reg': 9.879650085160899, 'leaf_estimation_iterations': 8, 'learning_rate': 0.022787768220044604, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 40 - VAL-RMSE: 3.7691, Params: {'bagging_temperature': 0.4935404258305573, 'depth': 6, 'l2_leaf_reg': 5.5483645515471505, 'leaf_estimation_iterations': 4, 'learning_rate': 0.4516720223885984, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 41 - VAL-RMSE: 3.2110, Params: {'bagging_temperature': 0.49537329800150226, 'depth': 6, 'l2_leaf_reg': 6.023791325413385, 'leaf_estimation_iterations': 5, 'learning_rate': 0.054462389577330086, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 42 - VAL-RMSE: 3.2356, Params: {'bagging_temperature': 0.5693102131507294, 'depth': 7, 'l2_leaf_reg': 7.869635872771287, 'leaf_estimation_iterations': 5, 'learning_rate': 0.06190055586833723, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 43 - VAL-RMSE: 3.2628, Params: {'bagging_temperature': 0.3813171131922026, 'depth': 6, 'l2_leaf_reg': 6.684947070828874, 'leaf_estimation_iterations': 6, 'learning_rate': 0.12835278933974706, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 44 - VAL-RMSE: 8.7030, Params: {'bagging_temperature': 0.6484463376609613, 'depth': 5, 'l2_leaf_reg': 5.528214220863398, 'leaf_estimation_iterations': 7, 'learning_rate': 8.376720758155816e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 45 - VAL-RMSE: 3.2572, Params: {'bagging_temperature': 0.49298742089771475, 'depth': 7, 'l2_leaf_reg': 8.589154695443465, 'leaf_estimation_iterations': 4, 'learning_rate': 0.010503164116464429, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 46 - VAL-RMSE: 3.4799, Params: {'bagging_temperature': 0.5668317963290213, 'depth': 4, 'l2_leaf_reg': 3.702698613129963, 'leaf_estimation_iterations': 5, 'learning_rate': 0.24697966594124807, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 47 - VAL-RMSE: 3.3238, Params: {'bagging_temperature': 0.4677799224577299, 'depth': 6, 'l2_leaf_reg': 1.9332621087208695, 'leaf_estimation_iterations': 6, 'learning_rate': 0.04635492364117972, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 48 - VAL-RMSE: 4.1078, Params: {'bagging_temperature': 0.3994492540928507, 'depth': 9, 'l2_leaf_reg': 5.049583364055308, 'leaf_estimation_iterations': 1, 'learning_rate': 0.004570554816567207, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 49 - VAL-RMSE: 3.9249, Params: {'bagging_temperature': 0.799048958425469, 'depth': 8, 'l2_leaf_reg': 2.7614462093507743, 'leaf_estimation_iterations': 7, 'learning_rate': 0.0023162202519714545, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 0 - VAL-RMSE: 3.1846, Params: {'bagging_temperature': 0.31264598142154953, 'depth': 6, 'l2_leaf_reg': 4.590379637169952, 'leaf_estimation_iterations': 3, 'learning_rate': 0.024647856322146146, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 1 - VAL-RMSE: 9.0568, Params: {'bagging_temperature': 0.7873320407786732, 'depth': 5, 'l2_leaf_reg': 1.7360406934952848, 'leaf_estimation_iterations': 2, 'learning_rate': 1.893041934519872e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 2 - VAL-RMSE: 9.0654, Params: {'bagging_temperature': 0.0534902301101704, 'depth': 5, 'l2_leaf_reg': 1.8625926443993757, 'leaf_estimation_iterations': 1, 'learning_rate': 1.9164592343692032e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 3 - VAL-RMSE: 3.2923, Params: {'bagging_temperature': 0.759954578467797, 'depth': 9, 'l2_leaf_reg': 1.5668494200532865, 'leaf_estimation_iterations': 9, 'learning_rate': 0.03185512635968894, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 4 - VAL-RMSE: 8.8011, Params: {'bagging_temperature': 0.5120351223828643, 'depth': 6, 'l2_leaf_reg': 1.129698297133294, 'leaf_estimation_iterations': 4, 'learning_rate': 6.223441792136182e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 5 - VAL-RMSE: 3.3429, Params: {'bagging_temperature': 0.9712262694132047, 'depth': 9, 'l2_leaf_reg': 1.7876258531313438, 'leaf_estimation_iterations': 7, 'learning_rate': 0.04641737197072857, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 6 - VAL-RMSE: 4.8036, Params: {'bagging_temperature': 0.8081039551614198, 'depth': 6, 'l2_leaf_reg': 3.9100732375693994, 'leaf_estimation_iterations': 1, 'learning_rate': 0.0020021307729482934, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 7 - VAL-RMSE: 6.3462, Params: {'bagging_temperature': 0.3671159556994774, 'depth': 10, 'l2_leaf_reg': 6.200545219618817, 'leaf_estimation_iterations': 10, 'learning_rate': 0.0006563500514256406, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 8 - VAL-RMSE: 3.6428, Params: {'bagging_temperature': 0.02035860462341188, 'depth': 10, 'l2_leaf_reg': 1.4383579940340951, 'leaf_estimation_iterations': 5, 'learning_rate': 0.08254703787125264, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 9 - VAL-RMSE: 5.4287, Params: {'bagging_temperature': 0.5974734600755943, 'depth': 8, 'l2_leaf_reg': 1.9829240521154108, 'leaf_estimation_iterations': 4, 'learning_rate': 0.0009939081780444715, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 10 - VAL-RMSE: 4.2341, Params: {'bagging_temperature': 0.2764658846130692, 'depth': 3, 'l2_leaf_reg': 9.96770163506842, 'leaf_estimation_iterations': 7, 'learning_rate': 0.8561930070695271, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 11 - VAL-RMSE: 3.3767, Params: {'bagging_temperature': 0.2763154121060653, 'depth': 8, 'l2_leaf_reg': 3.6525677430860695, 'leaf_estimation_iterations': 10, 'learning_rate': 0.018227985778832098, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 12 - VAL-RMSE: 3.2614, Params: {'bagging_temperature': 0.6837697129550777, 'depth': 8, 'l2_leaf_reg': 2.978556963557359, 'leaf_estimation_iterations': 8, 'learning_rate': 0.015202257249820961, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 13 - VAL-RMSE: 3.9694, Params: {'bagging_temperature': 0.5997959529112552, 'depth': 7, 'l2_leaf_reg': 5.11983219992065, 'leaf_estimation_iterations': 7, 'learning_rate': 0.4229008324656527, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 14 - VAL-RMSE: 3.4935, Params: {'bagging_temperature': 0.39855405347638123, 'depth': 4, 'l2_leaf_reg': 2.6259582774574546, 'leaf_estimation_iterations': 3, 'learning_rate': 0.007110544765431069, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 15 - VAL-RMSE: 3.4526, Params: {'bagging_temperature': 0.16162208337491013, 'depth': 7, 'l2_leaf_reg': 2.765385992851582, 'leaf_estimation_iterations': 8, 'learning_rate': 0.17635410054634354, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 16 - VAL-RMSE: 3.3355, Params: {'bagging_temperature': 0.6382658288713755, 'depth': 8, 'l2_leaf_reg': 5.740636905813635, 'leaf_estimation_iterations': 6, 'learning_rate': 0.006445869056330564, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 17 - VAL-RMSE: 7.8341, Params: {'bagging_temperature': 0.4484405536629165, 'depth': 5, 'l2_leaf_reg': 8.585476794600504, 'leaf_estimation_iterations': 5, 'learning_rate': 0.0002725205832254173, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 18 - VAL-RMSE: 3.3963, Params: {'bagging_temperature': 0.22389518431165273, 'depth': 7, 'l2_leaf_reg': 4.675904607404715, 'leaf_estimation_iterations': 3, 'learning_rate': 0.0062998110203004234, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 19 - VAL-RMSE: 3.5432, Params: {'bagging_temperature': 0.695892582694358, 'depth': 6, 'l2_leaf_reg': 2.4686473035377006, 'leaf_estimation_iterations': 8, 'learning_rate': 0.19278490415037708, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 20 - VAL-RMSE: 3.2663, Params: {'bagging_temperature': 0.9723710351919395, 'depth': 9, 'l2_leaf_reg': 7.0292590272328175, 'leaf_estimation_iterations': 6, 'learning_rate': 0.016135983710279186, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 21 - VAL-RMSE: 3.2959, Params: {'bagging_temperature': 0.9900021901972998, 'depth': 9, 'l2_leaf_reg': 7.09560950723143, 'leaf_estimation_iterations': 6, 'learning_rate': 0.015750817544714742, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 22 - VAL-RMSE: 3.2901, Params: {'bagging_temperature': 0.8751929346466479, 'depth': 8, 'l2_leaf_reg': 4.124484751325359, 'leaf_estimation_iterations': 8, 'learning_rate': 0.07741260461088838, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 23 - VAL-RMSE: 3.8384, Params: {'bagging_temperature': 0.9181947223508348, 'depth': 10, 'l2_leaf_reg': 3.338103854144929, 'leaf_estimation_iterations': 4, 'learning_rate': 0.002949349424628772, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 24 - VAL-RMSE: 3.2344, Params: {'bagging_temperature': 0.5023790564846504, 'depth': 9, 'l2_leaf_reg': 7.210165801174078, 'leaf_estimation_iterations': 9, 'learning_rate': 0.013121044064137838, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 25 - VAL-RMSE: 4.8151, Params: {'bagging_temperature': 0.4851468243767102, 'depth': 7, 'l2_leaf_reg': 4.606208395581387, 'leaf_estimation_iterations': 9, 'learning_rate': 0.0013109980447651485, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 26 - VAL-RMSE: 7.6559, Params: {'bagging_temperature': 0.33854873619650216, 'depth': 8, 'l2_leaf_reg': 7.7056332095230555, 'leaf_estimation_iterations': 9, 'learning_rate': 0.00029454917333170984, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 27 - VAL-RMSE: 3.3431, Params: {'bagging_temperature': 0.5439147399318199, 'depth': 9, 'l2_leaf_reg': 5.589544506495253, 'leaf_estimation_iterations': 10, 'learning_rate': 0.005954289008880015, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 28 - VAL-RMSE: 3.3095, Params: {'bagging_temperature': 0.6996116383494778, 'depth': 4, 'l2_leaf_reg': 3.3084242451851504, 'leaf_estimation_iterations': 2, 'learning_rate': 0.03185897213024086, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 29 - VAL-RMSE: 3.2067, Params: {'bagging_temperature': 0.12049996904455929, 'depth': 6, 'l2_leaf_reg': 2.1728003319793436, 'leaf_estimation_iterations': 9, 'learning_rate': 0.14025993733475747, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 30 - VAL-RMSE: 3.2305, Params: {'bagging_temperature': 0.15153982640365007, 'depth': 4, 'l2_leaf_reg': 2.3648129636416084, 'leaf_estimation_iterations': 2, 'learning_rate': 0.1801076291858624, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 31 - VAL-RMSE: 3.2871, Params: {'bagging_temperature': 0.11686069369309887, 'depth': 4, 'l2_leaf_reg': 2.2595992037876376, 'leaf_estimation_iterations': 2, 'learning_rate': 0.19275064003044493, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 32 - VAL-RMSE: 3.6110, Params: {'bagging_temperature': 0.11120619871124193, 'depth': 3, 'l2_leaf_reg': 2.2917721089584413, 'leaf_estimation_iterations': 1, 'learning_rate': 0.45298207850624506, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 33 - VAL-RMSE: 3.2622, Params: {'bagging_temperature': 0.18533337679682757, 'depth': 5, 'l2_leaf_reg': 1.4307833601450508, 'leaf_estimation_iterations': 3, 'learning_rate': 0.08591980320943718, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 34 - VAL-RMSE: 3.1910, Params: {'bagging_temperature': 0.08866214764817228, 'depth': 5, 'l2_leaf_reg': 2.1955437682004604, 'leaf_estimation_iterations': 2, 'learning_rate': 0.04793833522313999, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 35 - VAL-RMSE: 4.8706, Params: {'bagging_temperature': 0.07549256695080457, 'depth': 5, 'l2_leaf_reg': 2.0054530519137446, 'leaf_estimation_iterations': 2, 'learning_rate': 0.9979673509911333, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 36 - VAL-RMSE: 3.2838, Params: {'bagging_temperature': 0.2405287233055119, 'depth': 5, 'l2_leaf_reg': 1.0942918305353713, 'leaf_estimation_iterations': 1, 'learning_rate': 0.04949521094281698, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 37 - VAL-RMSE: 3.2447, Params: {'bagging_temperature': 0.02779395656052648, 'depth': 6, 'l2_leaf_reg': 1.653777227680813, 'leaf_estimation_iterations': 3, 'learning_rate': 0.3490346188646527, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 38 - VAL-RMSE: 9.0970, Params: {'bagging_temperature': 0.09221754378026611, 'depth': 4, 'l2_leaf_reg': 2.151244451820387, 'leaf_estimation_iterations': 1, 'learning_rate': 1.3204022130363013e-05, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 39 - VAL-RMSE: 3.3509, Params: {'bagging_temperature': 0.16063102433956203, 'depth': 6, 'l2_leaf_reg': 1.7673135651783352, 'leaf_estimation_iterations': 2, 'learning_rate': 0.1498987442412509, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 40 - VAL-RMSE: 3.1223, Params: {'bagging_temperature': 0.3125860754725389, 'depth': 4, 'l2_leaf_reg': 2.87060619787023, 'leaf_estimation_iterations': 4, 'learning_rate': 0.03622413418143869, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 41 - VAL-RMSE: 3.1916, Params: {'bagging_temperature': 0.32538067703290857, 'depth': 4, 'l2_leaf_reg': 2.991341682770775, 'leaf_estimation_iterations': 4, 'learning_rate': 0.036784838747701956, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 42 - VAL-RMSE: 3.3966, Params: {'bagging_temperature': 0.3208296429027528, 'depth': 3, 'l2_leaf_reg': 2.935130362390657, 'leaf_estimation_iterations': 4, 'learning_rate': 0.034939484554504185, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 43 - VAL-RMSE: 2.9969, Params: {'bagging_temperature': 0.4098024093035837, 'depth': 5, 'l2_leaf_reg': 3.7587807378132383, 'leaf_estimation_iterations': 5, 'learning_rate': 0.06417368687227801, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 44 - VAL-RMSE: 3.1040, Params: {'bagging_temperature': 0.40120829955118276, 'depth': 5, 'l2_leaf_reg': 3.722413053974415, 'leaf_estimation_iterations': 5, 'learning_rate': 0.05465249601752518, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 45 - VAL-RMSE: 3.0899, Params: {'bagging_temperature': 0.42119581146101853, 'depth': 5, 'l2_leaf_reg': 3.7451080650895388, 'leaf_estimation_iterations': 5, 'learning_rate': 0.02543788087665563, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 46 - VAL-RMSE: 3.1579, Params: {'bagging_temperature': 0.409487018821946, 'depth': 5, 'l2_leaf_reg': 3.673486769722537, 'leaf_estimation_iterations': 5, 'learning_rate': 0.08781128262503397, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 47 - VAL-RMSE: 3.1980, Params: {'bagging_temperature': 0.41617098643861017, 'depth': 5, 'l2_leaf_reg': 4.061708543335232, 'leaf_estimation_iterations': 5, 'learning_rate': 0.07954879309515069, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 48 - VAL-RMSE: 3.3302, Params: {'bagging_temperature': 0.3751007220669269, 'depth': 5, 'l2_leaf_reg': 3.6095608465099, 'leaf_estimation_iterations': 5, 'learning_rate': 0.01061327451893415, 'cat_features': ['CHAS', 'RAD']}
+============================================================
+Trial 49 - VAL-RMSE: 3.3862, Params: {'bagging_temperature': 0.448447179585473, 'depth': 3, 'l2_leaf_reg': 3.7594025331036294, 'leaf_estimation_iterations': 5, 'learning_rate': 0.02625884529482891, 'cat_features': ['CHAS', 'RAD']}
+============================================================

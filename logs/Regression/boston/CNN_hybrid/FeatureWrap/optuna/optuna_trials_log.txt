@@ -1,0 +1,100 @@
+Trial 0 - VAL-RMSE: 3.9882, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 1 - VAL-RMSE: 4.7212, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 2 - VAL-RMSE: 5.0504, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 3 - VAL-RMSE: 3.3576, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 4 - VAL-RMSE: 3.3852, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 5 - VAL-RMSE: 3.8904, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 6 - VAL-RMSE: 3.7637, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 7 - VAL-RMSE: 3.6346, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 8 - VAL-RMSE: 3.6859, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 9 - VAL-RMSE: 4.0436, Params: {'model': 'model1', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 10 - VAL-RMSE: 4.7093, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 11 - VAL-RMSE: 3.7301, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 12 - VAL-RMSE: 3.4396, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 13 - VAL-RMSE: 3.7949, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 14 - VAL-RMSE: 3.4443, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 15 - VAL-RMSE: 3.4454, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 16 - VAL-RMSE: 3.7310, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 17 - VAL-RMSE: 3.6935, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 18 - VAL-RMSE: 3.5723, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 19 - VAL-RMSE: 3.2912, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 20 - VAL-RMSE: 3.8079, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 21 - VAL-RMSE: 3.4022, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 22 - VAL-RMSE: 3.4623, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 23 - VAL-RMSE: 4.0447, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 24 - VAL-RMSE: 3.3278, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 25 - VAL-RMSE: 3.4460, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 26 - VAL-RMSE: 3.5518, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 27 - VAL-RMSE: 3.5446, Params: {'model': 'model2', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 28 - VAL-RMSE: 3.6840, Params: {'model': 'model1', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [32, 16]}
+============================================================
+Trial 29 - VAL-RMSE: 3.9860, Params: {'model': 'model1', 'mlp_hidden_dims': [256, 128, 64], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 30 - VAL-RMSE: 3.4113, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 31 - VAL-RMSE: 3.9943, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 32 - VAL-RMSE: 3.3456, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 33 - VAL-RMSE: 3.4505, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 34 - VAL-RMSE: 3.2845, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 35 - VAL-RMSE: 3.3111, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 36 - VAL-RMSE: 3.3560, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 37 - VAL-RMSE: 3.5361, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 38 - VAL-RMSE: 3.7193, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 39 - VAL-RMSE: 3.3408, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 40 - VAL-RMSE: 3.7004, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 41 - VAL-RMSE: 3.4277, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 42 - VAL-RMSE: 3.5135, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 43 - VAL-RMSE: 3.5041, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 44 - VAL-RMSE: 3.5274, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 45 - VAL-RMSE: 3.6042, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 46 - VAL-RMSE: 3.6680, Params: {'model': 'model2', 'mlp_hidden_dims': [128, 64, 32], 'fusion_hidden_dims': [256, 128, 64]}
+============================================================
+Trial 47 - VAL-RMSE: 3.2669, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 48 - VAL-RMSE: 3.2899, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================
+Trial 49 - VAL-RMSE: 3.9457, Params: {'model': 'model2', 'mlp_hidden_dims': [32, 16], 'fusion_hidden_dims': [128, 64, 32]}
+============================================================

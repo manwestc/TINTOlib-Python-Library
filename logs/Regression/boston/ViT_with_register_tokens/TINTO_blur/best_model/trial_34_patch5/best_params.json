@@ -1,0 +1,13 @@
+{
+    "dim": 96,
+    "depth": 6,
+    "heads": 4,
+    "mlp_dim": 320,
+    "mlp_hidden_dims": "[128, 64, 32]",
+    "patch_size": 5,
+    "max_lr": 0.0012524913195542079,
+    "div_factor": 52,
+    "final_div_factor": 610,
+    "weight_decay": 0.002196773123647196,
+    "epochs": 100
+}

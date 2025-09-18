@@ -1,0 +1,416 @@
+Trial 0 - VAL-RMSE: 5.9951, Params: {'dim': 96, 'depth': 5, 'heads': 8, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 4}
+============================================================
+Trial 1 - VAL-RMSE: 5.5983, Params: {'dim': 224, 'depth': 6, 'heads': 7, 'mlp_dim': 384, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 3 - VAL-RMSE: 7.7595, Params: {'dim': 128, 'depth': 4, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 6 - VAL-RMSE: 5.2892, Params: {'dim': 96, 'depth': 8, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 2}
+============================================================
+Trial 7 - VAL-RMSE: 5.1047, Params: {'dim': 192, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 8 - VAL-RMSE: 6.1470, Params: {'dim': 32, 'depth': 3, 'heads': 8, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 4}
+============================================================
+Trial 9 - VAL-RMSE: 8.2220, Params: {'dim': 192, 'depth': 7, 'heads': 2, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 10 - VAL-RMSE: 5.1815, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 11 - VAL-RMSE: 4.6955, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 12 - VAL-RMSE: 5.2723, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 16 - VAL-RMSE: 4.9766, Params: {'dim': 160, 'depth': 6, 'heads': 5, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 21 - VAL-RMSE: 5.2596, Params: {'dim': 160, 'depth': 7, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 22 - VAL-RMSE: 5.6979, Params: {'dim': 192, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 25 - VAL-RMSE: 5.0991, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 26 - VAL-RMSE: 5.3424, Params: {'dim': 96, 'depth': 8, 'heads': 6, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 27 - VAL-RMSE: 5.4710, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 31 - VAL-RMSE: 6.9852, Params: {'dim': 192, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 32 - VAL-RMSE: 5.2037, Params: {'dim': 224, 'depth': 7, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 33 - VAL-RMSE: 5.2465, Params: {'dim': 160, 'depth': 6, 'heads': 5, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 34 - VAL-RMSE: 5.3088, Params: {'dim': 192, 'depth': 8, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 35 - VAL-RMSE: 4.8234, Params: {'dim': 96, 'depth': 6, 'heads': 6, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 37 - VAL-RMSE: 5.8283, Params: {'dim': 96, 'depth': 5, 'heads': 6, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 2}
+============================================================
+Trial 40 - VAL-RMSE: 5.4339, Params: {'dim': 128, 'depth': 3, 'heads': 8, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 41 - VAL-RMSE: 5.4542, Params: {'dim': 160, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 44 - VAL-RMSE: 7.6872, Params: {'dim': 256, 'depth': 6, 'heads': 4, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 46 - VAL-RMSE: 5.1120, Params: {'dim': 192, 'depth': 6, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 47 - VAL-RMSE: 8.7331, Params: {'dim': 256, 'depth': 7, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 48 - VAL-RMSE: 4.5111, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 2}
+============================================================
+Trial 51 - VAL-RMSE: 5.7028, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 512, 'mlp_hidden_dims': [32, 16], 'patch_size': 2}
+============================================================
+Trial 52 - VAL-RMSE: 5.2508, Params: {'dim': 192, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 2}
+============================================================
+Trial 53 - VAL-RMSE: 5.3798, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 54 - VAL-RMSE: 5.1955, Params: {'dim': 224, 'depth': 7, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 56 - VAL-RMSE: 4.4730, Params: {'dim': 160, 'depth': 5, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 57 - VAL-RMSE: 4.7593, Params: {'dim': 160, 'depth': 4, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 58 - VAL-RMSE: 5.4306, Params: {'dim': 96, 'depth': 4, 'heads': 6, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 61 - VAL-RMSE: 4.9756, Params: {'dim': 160, 'depth': 3, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 62 - VAL-RMSE: 4.9608, Params: {'dim': 160, 'depth': 3, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 63 - VAL-RMSE: 5.4687, Params: {'dim': 160, 'depth': 3, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 64 - VAL-RMSE: 4.9347, Params: {'dim': 160, 'depth': 3, 'heads': 5, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 65 - VAL-RMSE: 5.1688, Params: {'dim': 192, 'depth': 2, 'heads': 6, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 68 - VAL-RMSE: 4.9190, Params: {'dim': 64, 'depth': 2, 'heads': 4, 'mlp_dim': 128, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 69 - VAL-RMSE: 5.2548, Params: {'dim': 64, 'depth': 2, 'heads': 4, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 70 - VAL-RMSE: 4.6964, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 128, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 71 - VAL-RMSE: 5.0942, Params: {'dim': 32, 'depth': 2, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 73 - VAL-RMSE: 4.2735, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 128, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 74 - VAL-RMSE: 5.1727, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 75 - VAL-RMSE: 4.7220, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 76 - VAL-RMSE: 4.4480, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 77 - VAL-RMSE: 5.2439, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 78 - VAL-RMSE: 5.1390, Params: {'dim': 96, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 79 - VAL-RMSE: 4.6031, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 80 - VAL-RMSE: 5.1893, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 81 - VAL-RMSE: 5.0394, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 82 - VAL-RMSE: 4.5636, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 83 - VAL-RMSE: 5.0905, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 84 - VAL-RMSE: 5.0065, Params: {'dim': 96, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 87 - VAL-RMSE: 5.4444, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 4}
+============================================================
+Trial 88 - VAL-RMSE: 4.2223, Params: {'dim': 128, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 89 - VAL-RMSE: 5.2106, Params: {'dim': 128, 'depth': 3, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 2}
+============================================================
+Trial 90 - VAL-RMSE: 5.2450, Params: {'dim': 128, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 91 - VAL-RMSE: 4.5274, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 92 - VAL-RMSE: 5.4521, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 93 - VAL-RMSE: 5.6656, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 94 - VAL-RMSE: 4.8589, Params: {'dim': 128, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 95 - VAL-RMSE: 4.6761, Params: {'dim': 96, 'depth': 2, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 96 - VAL-RMSE: 5.1462, Params: {'dim': 96, 'depth': 3, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 2}
+============================================================
+Trial 97 - VAL-RMSE: 5.0836, Params: {'dim': 128, 'depth': 2, 'heads': 4, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 98 - VAL-RMSE: 5.6268, Params: {'dim': 64, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 99 - VAL-RMSE: 5.4608, Params: {'dim': 96, 'depth': 3, 'heads': 3, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 4}
+============================================================
+Trial 0 - VAL-RMSE: 4.6874, Params: {'dim': 96, 'depth': 8, 'heads': 3, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 2 - VAL-RMSE: 7.6838, Params: {'dim': 32, 'depth': 4, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 8}
+============================================================
+Trial 3 - VAL-RMSE: 8.0374, Params: {'dim': 192, 'depth': 2, 'heads': 4, 'mlp_dim': 192, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 4 - VAL-RMSE: 6.5513, Params: {'dim': 224, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 5 - VAL-RMSE: 5.1988, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 10 - VAL-RMSE: 6.1673, Params: {'dim': 128, 'depth': 6, 'heads': 2, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 32}
+============================================================
+Trial 11 - VAL-RMSE: 4.8622, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 12 - VAL-RMSE: 4.2278, Params: {'dim': 160, 'depth': 8, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 17 - VAL-RMSE: 5.7952, Params: {'dim': 192, 'depth': 8, 'heads': 6, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 20 - VAL-RMSE: 5.8340, Params: {'dim': 160, 'depth': 5, 'heads': 4, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 21 - VAL-RMSE: 4.9779, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 22 - VAL-RMSE: 4.7463, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 25 - VAL-RMSE: 4.7478, Params: {'dim': 64, 'depth': 6, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 26 - VAL-RMSE: 4.6080, Params: {'dim': 96, 'depth': 7, 'heads': 6, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 28 - VAL-RMSE: 6.2361, Params: {'dim': 128, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 32}
+============================================================
+Trial 31 - VAL-RMSE: 4.5976, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 33 - VAL-RMSE: 5.4226, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 34 - VAL-RMSE: 5.7489, Params: {'dim': 96, 'depth': 7, 'heads': 6, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 35 - VAL-RMSE: 5.1687, Params: {'dim': 32, 'depth': 8, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 8}
+============================================================
+Trial 36 - VAL-RMSE: 6.9320, Params: {'dim': 64, 'depth': 7, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 37 - VAL-RMSE: 5.2360, Params: {'dim': 192, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 39 - VAL-RMSE: 5.3541, Params: {'dim': 224, 'depth': 4, 'heads': 7, 'mlp_dim': 320, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 41 - VAL-RMSE: 5.0407, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 42 - VAL-RMSE: 4.7795, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 512, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 44 - VAL-RMSE: 4.9272, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 45 - VAL-RMSE: 6.1149, Params: {'dim': 96, 'depth': 7, 'heads': 8, 'mlp_dim': 512, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 46 - VAL-RMSE: 4.4700, Params: {'dim': 128, 'depth': 8, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 47 - VAL-RMSE: 5.8666, Params: {'dim': 192, 'depth': 7, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 32}
+============================================================
+Trial 48 - VAL-RMSE: 4.9992, Params: {'dim': 128, 'depth': 2, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 50 - VAL-RMSE: 5.2804, Params: {'dim': 128, 'depth': 7, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 8}
+============================================================
+Trial 51 - VAL-RMSE: 4.9616, Params: {'dim': 96, 'depth': 8, 'heads': 3, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 52 - VAL-RMSE: 5.0649, Params: {'dim': 96, 'depth': 8, 'heads': 4, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 54 - VAL-RMSE: 5.5755, Params: {'dim': 64, 'depth': 8, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 55 - VAL-RMSE: 5.4177, Params: {'dim': 160, 'depth': 7, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 56 - VAL-RMSE: 5.6906, Params: {'dim': 96, 'depth': 8, 'heads': 6, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 4}
+============================================================
+Trial 57 - VAL-RMSE: 5.8176, Params: {'dim': 128, 'depth': 6, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 32}
+============================================================
+Trial 59 - VAL-RMSE: 5.2151, Params: {'dim': 224, 'depth': 8, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 60 - VAL-RMSE: 5.1660, Params: {'dim': 96, 'depth': 8, 'heads': 6, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 61 - VAL-RMSE: 5.0364, Params: {'dim': 64, 'depth': 6, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 62 - VAL-RMSE: 4.4713, Params: {'dim': 32, 'depth': 6, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 63 - VAL-RMSE: 6.4495, Params: {'dim': 32, 'depth': 5, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 65 - VAL-RMSE: 5.3169, Params: {'dim': 160, 'depth': 7, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 67 - VAL-RMSE: 4.9694, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 8}
+============================================================
+Trial 69 - VAL-RMSE: 5.0787, Params: {'dim': 160, 'depth': 5, 'heads': 5, 'mlp_dim': 512, 'mlp_hidden_dims': [32, 16], 'patch_size': 32}
+============================================================
+Trial 70 - VAL-RMSE: 5.2032, Params: {'dim': 64, 'depth': 6, 'heads': 8, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 71 - VAL-RMSE: 6.0187, Params: {'dim': 32, 'depth': 6, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 72 - VAL-RMSE: 5.6259, Params: {'dim': 64, 'depth': 5, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 73 - VAL-RMSE: 4.4752, Params: {'dim': 64, 'depth': 4, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 75 - VAL-RMSE: 4.8088, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 77 - VAL-RMSE: 4.4653, Params: {'dim': 96, 'depth': 4, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 79 - VAL-RMSE: 5.7775, Params: {'dim': 96, 'depth': 3, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 81 - VAL-RMSE: 5.5286, Params: {'dim': 96, 'depth': 4, 'heads': 8, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 82 - VAL-RMSE: 4.9580, Params: {'dim': 64, 'depth': 4, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 83 - VAL-RMSE: 4.9382, Params: {'dim': 96, 'depth': 5, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 84 - VAL-RMSE: 4.3734, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 86 - VAL-RMSE: 4.7158, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 87 - VAL-RMSE: 6.3464, Params: {'dim': 128, 'depth': 5, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 88 - VAL-RMSE: 6.8571, Params: {'dim': 160, 'depth': 3, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 90 - VAL-RMSE: 5.0039, Params: {'dim': 96, 'depth': 7, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 91 - VAL-RMSE: 5.1761, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 92 - VAL-RMSE: 5.8044, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 93 - VAL-RMSE: 4.9742, Params: {'dim': 160, 'depth': 8, 'heads': 8, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 94 - VAL-RMSE: 5.1775, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 95 - VAL-RMSE: 4.9647, Params: {'dim': 128, 'depth': 8, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 96 - VAL-RMSE: 5.2839, Params: {'dim': 96, 'depth': 8, 'heads': 8, 'mlp_dim': 192, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 97 - VAL-RMSE: 4.7641, Params: {'dim': 256, 'depth': 7, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 99 - VAL-RMSE: 5.1962, Params: {'dim': 160, 'depth': 8, 'heads': 8, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 0 - VAL-RMSE: 6.0586, Params: {'dim': 192, 'depth': 2, 'heads': 3, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 1 - VAL-RMSE: 7.9578, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 3 - VAL-RMSE: 9.1363, Params: {'dim': 160, 'depth': 4, 'heads': 5, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 32}
+============================================================
+Trial 4 - VAL-RMSE: 8.3775, Params: {'dim': 224, 'depth': 8, 'heads': 8, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 5 - VAL-RMSE: 5.3937, Params: {'dim': 192, 'depth': 2, 'heads': 2, 'mlp_dim': 512, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 4}
+============================================================
+Trial 7 - VAL-RMSE: 5.2296, Params: {'dim': 160, 'depth': 8, 'heads': 5, 'mlp_dim': 384, 'mlp_hidden_dims': [32, 16], 'patch_size': 32}
+============================================================
+Trial 8 - VAL-RMSE: 6.8342, Params: {'dim': 32, 'depth': 8, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [32, 16], 'patch_size': 32}
+============================================================
+Trial 9 - VAL-RMSE: 6.0845, Params: {'dim': 32, 'depth': 6, 'heads': 8, 'mlp_dim': 320, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 10 - VAL-RMSE: 5.6198, Params: {'dim': 96, 'depth': 5, 'heads': 6, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 11 - VAL-RMSE: 4.4372, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 12 - VAL-RMSE: 4.5766, Params: {'dim': 256, 'depth': 3, 'heads': 4, 'mlp_dim': 384, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 13 - VAL-RMSE: 5.0295, Params: {'dim': 256, 'depth': 3, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 14 - VAL-RMSE: 5.7629, Params: {'dim': 256, 'depth': 3, 'heads': 4, 'mlp_dim': 384, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 15 - VAL-RMSE: 4.7523, Params: {'dim': 224, 'depth': 3, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 18 - VAL-RMSE: 5.1996, Params: {'dim': 192, 'depth': 4, 'heads': 6, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 19 - VAL-RMSE: 5.7153, Params: {'dim': 96, 'depth': 3, 'heads': 4, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 21 - VAL-RMSE: 5.6134, Params: {'dim': 224, 'depth': 3, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 23 - VAL-RMSE: 5.6820, Params: {'dim': 256, 'depth': 5, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 25 - VAL-RMSE: 4.8095, Params: {'dim': 192, 'depth': 2, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 27 - VAL-RMSE: 4.7249, Params: {'dim': 224, 'depth': 5, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 28 - VAL-RMSE: 5.6272, Params: {'dim': 256, 'depth': 7, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 8}
+============================================================
+Trial 29 - VAL-RMSE: 4.2677, Params: {'dim': 224, 'depth': 5, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 30 - VAL-RMSE: 4.8344, Params: {'dim': 192, 'depth': 2, 'heads': 3, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 31 - VAL-RMSE: 5.8370, Params: {'dim': 224, 'depth': 5, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 32 - VAL-RMSE: 5.1531, Params: {'dim': 224, 'depth': 5, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 34 - VAL-RMSE: 5.0098, Params: {'dim': 128, 'depth': 4, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 35 - VAL-RMSE: 5.7972, Params: {'dim': 192, 'depth': 6, 'heads': 3, 'mlp_dim': 320, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 4}
+============================================================
+Trial 36 - VAL-RMSE: 5.6877, Params: {'dim': 160, 'depth': 7, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [32, 16], 'patch_size': 16}
+============================================================
+Trial 38 - VAL-RMSE: 5.6123, Params: {'dim': 224, 'depth': 5, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 41 - VAL-RMSE: 5.5675, Params: {'dim': 224, 'depth': 3, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 44 - VAL-RMSE: 5.0147, Params: {'dim': 192, 'depth': 3, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 46 - VAL-RMSE: 6.3108, Params: {'dim': 160, 'depth': 6, 'heads': 5, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 4}
+============================================================
+Trial 47 - VAL-RMSE: 4.5815, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 50 - VAL-RMSE: 4.5553, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 51 - VAL-RMSE: 5.3796, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 52 - VAL-RMSE: 4.2545, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 53 - VAL-RMSE: 5.4838, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 54 - VAL-RMSE: 5.0607, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 56 - VAL-RMSE: 8.0689, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 57 - VAL-RMSE: 4.1442, Params: {'dim': 224, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 58 - VAL-RMSE: 5.4767, Params: {'dim': 224, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 59 - VAL-RMSE: 4.4437, Params: {'dim': 224, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 60 - VAL-RMSE: 4.3331, Params: {'dim': 192, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 61 - VAL-RMSE: 4.7182, Params: {'dim': 192, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 62 - VAL-RMSE: 7.4096, Params: {'dim': 224, 'depth': 3, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 63 - VAL-RMSE: 4.7288, Params: {'dim': 128, 'depth': 4, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 64 - VAL-RMSE: 5.5961, Params: {'dim': 224, 'depth': 2, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 65 - VAL-RMSE: 5.6633, Params: {'dim': 224, 'depth': 3, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 66 - VAL-RMSE: 5.7556, Params: {'dim': 192, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 69 - VAL-RMSE: 5.4867, Params: {'dim': 160, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 70 - VAL-RMSE: 5.4053, Params: {'dim': 192, 'depth': 4, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 72 - VAL-RMSE: 8.7924, Params: {'dim': 256, 'depth': 3, 'heads': 2, 'mlp_dim': 448, 'mlp_hidden_dims': [32, 16], 'patch_size': 8}
+============================================================
+Trial 73 - VAL-RMSE: 5.1801, Params: {'dim': 256, 'depth': 4, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 75 - VAL-RMSE: 4.6551, Params: {'dim': 256, 'depth': 3, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 76 - VAL-RMSE: 5.8011, Params: {'dim': 224, 'depth': 3, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 32}
+============================================================
+Trial 78 - VAL-RMSE: 4.8212, Params: {'dim': 96, 'depth': 8, 'heads': 6, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 79 - VAL-RMSE: 4.9443, Params: {'dim': 192, 'depth': 4, 'heads': 2, 'mlp_dim': 320, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 80 - VAL-RMSE: 6.6299, Params: {'dim': 224, 'depth': 2, 'heads': 2, 'mlp_dim': 384, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 4}
+============================================================
+Trial 81 - VAL-RMSE: 4.8246, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 512, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 82 - VAL-RMSE: 5.0083, Params: {'dim': 256, 'depth': 2, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 16}
+============================================================
+Trial 85 - VAL-RMSE: 6.0970, Params: {'dim': 224, 'depth': 2, 'heads': 8, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 32}
+============================================================
+Trial 87 - VAL-RMSE: 5.1238, Params: {'dim': 256, 'depth': 3, 'heads': 4, 'mlp_dim': 448, 'mlp_hidden_dims': [128, 64, 32], 'patch_size': 8}
+============================================================
+Trial 89 - VAL-RMSE: 4.5216, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 90 - VAL-RMSE: 5.1967, Params: {'dim': 224, 'depth': 4, 'heads': 2, 'mlp_dim': 128, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 8}
+============================================================
+Trial 91 - VAL-RMSE: 7.3029, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 92 - VAL-RMSE: 4.6171, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 93 - VAL-RMSE: 4.5389, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 94 - VAL-RMSE: 6.8127, Params: {'dim': 256, 'depth': 2, 'heads': 2, 'mlp_dim': 192, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 95 - VAL-RMSE: 4.5482, Params: {'dim': 224, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 96 - VAL-RMSE: 4.5441, Params: {'dim': 224, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 97 - VAL-RMSE: 4.7194, Params: {'dim': 224, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================
+Trial 98 - VAL-RMSE: 4.8011, Params: {'dim': 192, 'depth': 2, 'heads': 2, 'mlp_dim': 256, 'mlp_hidden_dims': [256, 128, 64], 'patch_size': 16}
+============================================================

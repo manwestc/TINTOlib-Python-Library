@@ -1,0 +1,161 @@
+# Best trial re-evaluation across model seeds
+seeds: [0, 1, 2, 3, 4]
+per_seed_metrics:
+  - seed: 0
+      Training Time (s): 192.114795
+      Train Inference Time (s): 0.007699
+      Train Accuracy: 1.000000
+      Train F1: 1.000000
+      Train Recall: 1.000000
+      Train Precision: 1.000000
+      Train Balanced Accuracy: 1.000000
+      Val Inference Time (s): 0.006500
+      Val Accuracy: 0.843333
+      Val F1: 0.844378
+      Val Recall: 0.843333
+      Val Precision: 0.851336
+      Val Balanced Accuracy: 0.843333
+      Test Inference Time (s): 0.006019
+      Test Accuracy: 0.873333
+      Test F1: 0.873961
+      Test Recall: 0.873333
+      Test Precision: 0.877491
+      Test Balanced Accuracy: 0.873333
+  - seed: 1
+      Training Time (s): 190.694998
+      Train Inference Time (s): 0.006457
+      Train Accuracy: 1.000000
+      Train F1: 1.000000
+      Train Recall: 1.000000
+      Train Precision: 1.000000
+      Train Balanced Accuracy: 1.000000
+      Val Inference Time (s): 0.005928
+      Val Accuracy: 0.830000
+      Val F1: 0.832376
+      Val Recall: 0.830000
+      Val Precision: 0.843089
+      Val Balanced Accuracy: 0.830000
+      Test Inference Time (s): 0.005987
+      Test Accuracy: 0.850000
+      Test F1: 0.850459
+      Test Recall: 0.850000
+      Test Precision: 0.853150
+      Test Balanced Accuracy: 0.850000
+  - seed: 2
+      Training Time (s): 191.207867
+      Train Inference Time (s): 0.006634
+      Train Accuracy: 1.000000
+      Train F1: 1.000000
+      Train Recall: 1.000000
+      Train Precision: 1.000000
+      Train Balanced Accuracy: 1.000000
+      Val Inference Time (s): 0.006520
+      Val Accuracy: 0.836667
+      Val F1: 0.836478
+      Val Recall: 0.836667
+      Val Precision: 0.843285
+      Val Balanced Accuracy: 0.836667
+      Test Inference Time (s): 0.006247
+      Test Accuracy: 0.860000
+      Test F1: 0.859836
+      Test Recall: 0.860000
+      Test Precision: 0.862791
+      Test Balanced Accuracy: 0.860000
+  - seed: 3
+      Training Time (s): 189.699108
+      Train Inference Time (s): 0.008428
+      Train Accuracy: 1.000000
+      Train F1: 1.000000
+      Train Recall: 1.000000
+      Train Precision: 1.000000
+      Train Balanced Accuracy: 1.000000
+      Val Inference Time (s): 0.006360
+      Val Accuracy: 0.816667
+      Val F1: 0.818287
+      Val Recall: 0.816667
+      Val Precision: 0.828725
+      Val Balanced Accuracy: 0.816667
+      Test Inference Time (s): 0.005901
+      Test Accuracy: 0.846667
+      Test F1: 0.846891
+      Test Recall: 0.846667
+      Test Precision: 0.851086
+      Test Balanced Accuracy: 0.846667
+  - seed: 4
+      Training Time (s): 189.856922
+      Train Inference Time (s): 0.008289
+      Train Accuracy: 1.000000
+      Train F1: 1.000000
+      Train Recall: 1.000000
+      Train Precision: 1.000000
+      Train Balanced Accuracy: 1.000000
+      Val Inference Time (s): 0.006223
+      Val Accuracy: 0.833333
+      Val F1: 0.834930
+      Val Recall: 0.833333
+      Val Precision: 0.842787
+      Val Balanced Accuracy: 0.833333
+      Test Inference Time (s): 0.006505
+      Test Accuracy: 0.856667
+      Test F1: 0.856516
+      Test Recall: 0.856667
+      Test Precision: 0.859420
+      Test Balanced Accuracy: 0.856667
+aggregates:
+  Training Time (s):
+    mean: 190.714738
+    std: 0.996378
+  Train Inference Time (s):
+    mean: 0.007501
+    std: 0.000917
+  Train Accuracy:
+    mean: 1.000000
+    std: 0.000000
+  Train F1:
+    mean: 1.000000
+    std: 0.000000
+  Train Recall:
+    mean: 1.000000
+    std: 0.000000
+  Train Precision:
+    mean: 1.000000
+    std: 0.000000
+  Train Balanced Accuracy:
+    mean: 1.000000
+    std: 0.000000
+  Val Inference Time (s):
+    mean: 0.006306
+    std: 0.000243
+  Val Accuracy:
+    mean: 0.832000
+    std: 0.009888
+  Val F1:
+    mean: 0.833290
+    std: 0.009510
+  Val Recall:
+    mean: 0.832000
+    std: 0.009888
+  Val Precision:
+    mean: 0.841845
+    std: 0.008166
+  Val Balanced Accuracy:
+    mean: 0.832000
+    std: 0.009888
+  Test Inference Time (s):
+    mean: 0.006132
+    std: 0.000245
+  Test Accuracy:
+    mean: 0.857333
+    std: 0.010382
+  Test F1:
+    mean: 0.857532
+    std: 0.010482
+  Test Recall:
+    mean: 0.857333
+    std: 0.010382
+  Test Precision:
+    mean: 0.860788
+    std: 0.010456
+  Test Balanced Accuracy:
+    mean: 0.857333
+    std: 0.010382

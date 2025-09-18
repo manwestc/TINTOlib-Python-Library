@@ -1,0 +1,20 @@
+{
+    "bagging_temperature": 0.6878128568386578,
+    "depth": 5,
+    "l2_leaf_reg": 2.632271848049147,
+    "leaf_estimation_iterations": 10,
+    "learning_rate": 0.26487186903599624,
+    "cat_features": [],
+    "class_weights": [
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0,
+        1.0
+    ]
+}

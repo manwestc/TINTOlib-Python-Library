@@ -1,0 +1,716 @@
+Trial 0 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 55, 'max_depth': 9, 'learning_rate': 0.29813300766062006, 'min_child_weight': 0.023227362025672802, 'min_child_samples': 87, 'subsample': 0.7578928936070923, 'colsample_bytree': 0.6629205986113748}
+============================================================
+Trial 1 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 73, 'max_depth': 6, 'learning_rate': 0.02848673542782542, 'min_child_weight': 0.0011769565764357078, 'min_child_samples': 65, 'subsample': 0.6656768791893188, 'colsample_bytree': 0.9892957401675391}
+============================================================
+Trial 2 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 88, 'max_depth': 5, 'learning_rate': 0.0013591379194536986, 'min_child_weight': 2.862482072356129e-05, 'min_child_samples': 75, 'subsample': 0.7423908822033352, 'colsample_bytree': 0.5467160453426059}
+============================================================
+Trial 3 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 79, 'max_depth': 5, 'learning_rate': 0.009763240892665538, 'min_child_weight': 0.026241192023242738, 'min_child_samples': 43, 'subsample': 0.9901379795475651, 'colsample_bytree': 0.5416502219454256}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 63, 'max_depth': 4, 'learning_rate': 0.7937905011203581, 'min_child_weight': 0.0055328947899643145, 'min_child_samples': 58, 'subsample': 0.7369681214184612, 'colsample_bytree': 0.61569083929493}
+============================================================
+Trial 5 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 34, 'max_depth': 10, 'learning_rate': 0.01244178614157962, 'min_child_weight': 0.0022028416315020742, 'min_child_samples': 59, 'subsample': 0.8300833749428767, 'colsample_bytree': 0.9568458975175597}
+============================================================
+Trial 6 - VAL-Accuracy: 0.7100, Params: {'num_leaves': 65, 'max_depth': 4, 'learning_rate': 0.0011104973450088767, 'min_child_weight': 0.00016877018277317455, 'min_child_samples': 82, 'subsample': 0.7374018147832224, 'colsample_bytree': 0.9728108137792237}
+============================================================
+Trial 0 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 94, 'max_depth': 6, 'learning_rate': 0.27806392717736883, 'min_child_weight': 0.0007875945505438492, 'min_child_samples': 7, 'subsample': 0.9064412639373741, 'colsample_bytree': 0.9289926558263044}
+============================================================
+Trial 1 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 99, 'max_depth': 10, 'learning_rate': 0.1508048068671758, 'min_child_weight': 0.0017502398498023652, 'min_child_samples': 20, 'subsample': 0.5319617050239435, 'colsample_bytree': 0.5665646016504606}
+============================================================
+Trial 2 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 94, 'max_depth': 4, 'learning_rate': 0.7447947497341176, 'min_child_weight': 0.008976396832855496, 'min_child_samples': 25, 'subsample': 0.7478544437311083, 'colsample_bytree': 0.5859193590516281}
+============================================================
+Trial 3 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 12, 'max_depth': 6, 'learning_rate': 0.03260368469148111, 'min_child_weight': 0.0005522371682198255, 'min_child_samples': 21, 'subsample': 0.9727081845180041, 'colsample_bytree': 0.7305436939115073}
+============================================================
+Trial 4 - VAL-Accuracy: 0.7833, Params: {'num_leaves': 91, 'max_depth': 8, 'learning_rate': 0.010671748857206419, 'min_child_weight': 4.013060280787294e-05, 'min_child_samples': 82, 'subsample': 0.7405667355849993, 'colsample_bytree': 0.6965469090447114}
+============================================================
+Trial 5 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 56, 'max_depth': 4, 'learning_rate': 0.007600874824793982, 'min_child_weight': 0.0009075194453451215, 'min_child_samples': 10, 'subsample': 0.8289151111461279, 'colsample_bytree': 0.9121734711908114}
+============================================================
+Trial 6 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 48, 'max_depth': 3, 'learning_rate': 0.09483377003185092, 'min_child_weight': 4.030383946372788e-05, 'min_child_samples': 64, 'subsample': 0.6285310796292588, 'colsample_bytree': 0.6557587280552142}
+============================================================
+Trial 7 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 12, 'max_depth': 4, 'learning_rate': 0.4482331232632719, 'min_child_weight': 0.0012805758990894662, 'min_child_samples': 85, 'subsample': 0.8783800355178769, 'colsample_bytree': 0.7361693012227664}
+============================================================
+Trial 8 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 25, 'max_depth': 10, 'learning_rate': 0.011305810391727483, 'min_child_weight': 0.001241325424511767, 'min_child_samples': 50, 'subsample': 0.9826936490241294, 'colsample_bytree': 0.8100526006001082}
+============================================================
+Trial 9 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 61, 'max_depth': 5, 'learning_rate': 0.21364506796080926, 'min_child_weight': 2.220267242714511e-05, 'min_child_samples': 78, 'subsample': 0.9730432159293005, 'colsample_bytree': 0.985130274834942}
+============================================================
+Trial 10 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 38, 'max_depth': 3, 'learning_rate': 0.001263142791829604, 'min_child_weight': 9.317100851152737e-05, 'min_child_samples': 56, 'subsample': 0.5898836066400817, 'colsample_bytree': 0.6394019508608162}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 35, 'max_depth': 10, 'learning_rate': 0.04743648620519517, 'min_child_weight': 0.06350123402171418, 'min_child_samples': 54, 'subsample': 0.6736200124458513, 'colsample_bytree': 0.8179553874343295}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 34, 'max_depth': 8, 'learning_rate': 0.009666558699754907, 'min_child_weight': 0.00014444389354990525, 'min_child_samples': 41, 'subsample': 0.6466192617569745, 'colsample_bytree': 0.8211320643727669}
+============================================================
+Trial 13 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 69, 'max_depth': 8, 'learning_rate': 0.09026420366950236, 'min_child_weight': 0.005886271345344806, 'min_child_samples': 62, 'subsample': 0.501417402517869, 'colsample_bytree': 0.5102631869281639}
+============================================================
+Trial 14 - VAL-Accuracy: 0.7033, Params: {'num_leaves': 26, 'max_depth': 9, 'learning_rate': 0.0021015323189749616, 'min_child_weight': 1.0024700020136307e-05, 'min_child_samples': 99, 'subsample': 0.8078631668012967, 'colsample_bytree': 0.8193443751600338}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 45, 'max_depth': 7, 'learning_rate': 0.017815829869920027, 'min_child_weight': 0.00013636802858038396, 'min_child_samples': 43, 'subsample': 0.6808461404187239, 'colsample_bytree': 0.6666745565420579}
+============================================================
+Trial 16 - VAL-Accuracy: 0.7767, Params: {'num_leaves': 70, 'max_depth': 3, 'learning_rate': 0.004080239501351905, 'min_child_weight': 0.00714311372360102, 'min_child_samples': 70, 'subsample': 0.6259552822331204, 'colsample_bytree': 0.7835789840523069}
+============================================================
+Trial 17 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 23, 'max_depth': 7, 'learning_rate': 0.07143318936513841, 'min_child_weight': 0.04160218562021425, 'min_child_samples': 39, 'subsample': 0.569893510656834, 'colsample_bytree': 0.6257119187769118}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 47, 'max_depth': 5, 'learning_rate': 0.02064808922889098, 'min_child_weight': 0.0002372780768780843, 'min_child_samples': 64, 'subsample': 0.7863516003171731, 'colsample_bytree': 0.8815447660596658}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 26, 'max_depth': 9, 'learning_rate': 0.005624367530094014, 'min_child_weight': 0.0025969928854874006, 'min_child_samples': 31, 'subsample': 0.7096059853826101, 'colsample_bytree': 0.6979698105128879}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 46, 'max_depth': 5, 'learning_rate': 0.09470640739626573, 'min_child_weight': 0.021682508726870577, 'min_child_samples': 95, 'subsample': 0.9162251634823132, 'colsample_bytree': 0.7792342946174884}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 72, 'max_depth': 9, 'learning_rate': 0.1032136322900981, 'min_child_weight': 0.006159920619884753, 'min_child_samples': 65, 'subsample': 0.5042053680618652, 'colsample_bytree': 0.5208000073402884}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 77, 'max_depth': 8, 'learning_rate': 0.0466187503911339, 'min_child_weight': 0.0033494674649729816, 'min_child_samples': 49, 'subsample': 0.5708026673685669, 'colsample_bytree': 0.5003001397120423}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 80, 'max_depth': 10, 'learning_rate': 0.01830809313657486, 'min_child_weight': 0.0003811693918239873, 'min_child_samples': 59, 'subsample': 0.6192429880928437, 'colsample_bytree': 0.5768666134495553}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 60, 'max_depth': 9, 'learning_rate': 0.052976863809973504, 'min_child_weight': 0.019441653108744666, 'min_child_samples': 74, 'subsample': 0.5184280940119552, 'colsample_bytree': 0.8678399098495835}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 65, 'max_depth': 7, 'learning_rate': 0.14660481917153367, 'min_child_weight': 5.057893467652359e-05, 'min_child_samples': 50, 'subsample': 0.5569618655764725, 'colsample_bytree': 0.5388071520620326}
+============================================================
+Trial 26 - VAL-Accuracy: 0.2067, Params: {'num_leaves': 19, 'max_depth': 7, 'learning_rate': 0.9791744585431854, 'min_child_weight': 5.188924871589189e-05, 'min_child_samples': 49, 'subsample': 0.5546945148746495, 'colsample_bytree': 0.6142468833468148}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 52, 'max_depth': 6, 'learning_rate': 0.34511603682010633, 'min_child_weight': 1.51712711313354e-05, 'min_child_samples': 33, 'subsample': 0.6115650429635955, 'colsample_bytree': 0.5496257928126532}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 54, 'max_depth': 6, 'learning_rate': 0.43919912617084816, 'min_child_weight': 1.2869261583029668e-05, 'min_child_samples': 31, 'subsample': 0.6046841802852043, 'colsample_bytree': 0.5445031228725297}
+============================================================
+Trial 29 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 64, 'max_depth': 6, 'learning_rate': 0.2834280093119777, 'min_child_weight': 3.256692158933157e-05, 'min_child_samples': 12, 'subsample': 0.6619634628422371, 'colsample_bytree': 0.6011915969343282}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 54, 'max_depth': 5, 'learning_rate': 0.16837512718929562, 'min_child_weight': 6.947118095470655e-05, 'min_child_samples': 37, 'subsample': 0.7013040164998541, 'colsample_bytree': 0.5504417491256793}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 52, 'max_depth': 5, 'learning_rate': 0.16193706556488732, 'min_child_weight': 6.529650485691129e-05, 'min_child_samples': 35, 'subsample': 0.7025402195933949, 'colsample_bytree': 0.5469063577845731}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 41, 'max_depth': 3, 'learning_rate': 0.3152159459210126, 'min_child_weight': 1.8574496412145967e-05, 'min_child_samples': 44, 'subsample': 0.6348843521598292, 'colsample_bytree': 0.5480489375230568}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 41, 'max_depth': 3, 'learning_rate': 0.2997840793554575, 'min_child_weight': 2.1084083776284053e-05, 'min_child_samples': 44, 'subsample': 0.5421475291212761, 'colsample_bytree': 0.6530558607582022}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 33, 'max_depth': 4, 'learning_rate': 0.5303631371926801, 'min_child_weight': 1.6092102101309687e-05, 'min_child_samples': 28, 'subsample': 0.6304581923663248, 'colsample_bytree': 0.5852976406678325}
+============================================================
+Trial 35 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 50, 'max_depth': 3, 'learning_rate': 0.13101265633324652, 'min_child_weight': 2.6619834433830653e-05, 'min_child_samples': 16, 'subsample': 0.591208818707425, 'colsample_bytree': 0.6735171778108219}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 41, 'max_depth': 4, 'learning_rate': 0.270326280208677, 'min_child_weight': 3.6492910390063014e-05, 'min_child_samples': 21, 'subsample': 0.5388676648222334, 'colsample_bytree': 0.5287462262107917}
+============================================================
+Trial 37 - VAL-Accuracy: 0.1867, Params: {'num_leaves': 40, 'max_depth': 4, 'learning_rate': 0.631356787658668, 'min_child_weight': 3.26367255251446e-05, 'min_child_samples': 6, 'subsample': 0.7391806926060438, 'colsample_bytree': 0.5773893088815276}
+============================================================
+Trial 38 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 43, 'max_depth': 4, 'learning_rate': 0.3811369492382284, 'min_child_weight': 0.00010665108112582885, 'min_child_samples': 22, 'subsample': 0.5295492095720074, 'colsample_bytree': 0.6008255232344747}
+============================================================
+Trial 39 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 31, 'max_depth': 4, 'learning_rate': 0.32521259881442616, 'min_child_weight': 0.0002763151351621419, 'min_child_samples': 16, 'subsample': 0.5323884900535125, 'colsample_bytree': 0.6046318411767674}
+============================================================
+Trial 40 - VAL-Accuracy: 0.2400, Params: {'num_leaves': 30, 'max_depth': 4, 'learning_rate': 0.9671232581072263, 'min_child_weight': 0.000410617137074199, 'min_child_samples': 21, 'subsample': 0.5295159834271959, 'colsample_bytree': 0.7041106522328662}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 43, 'max_depth': 4, 'learning_rate': 0.36660684569461577, 'min_child_weight': 0.00014961870088385732, 'min_child_samples': 24, 'subsample': 0.5340452341991722, 'colsample_bytree': 0.5981571848471824}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 38, 'max_depth': 3, 'learning_rate': 0.279131994697432, 'min_child_weight': 0.0002614543283620167, 'min_child_samples': 2, 'subsample': 0.5844425106203038, 'colsample_bytree': 0.526711401260075}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 30, 'max_depth': 4, 'learning_rate': 0.21329637840630902, 'min_child_weight': 1.7335658169424532e-05, 'min_child_samples': 16, 'subsample': 0.5484761333494614, 'colsample_bytree': 0.5612213961270606}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 17, 'max_depth': 5, 'learning_rate': 0.6432504941730294, 'min_child_weight': 0.000663789957267486, 'min_child_samples': 16, 'subsample': 0.5924787225892938, 'colsample_bytree': 0.6286219769689507}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 57, 'max_depth': 3, 'learning_rate': 0.37905254604728433, 'min_child_weight': 0.00010114994309273, 'min_child_samples': 26, 'subsample': 0.5216309794598412, 'colsample_bytree': 0.5683421001588244}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 58, 'max_depth': 6, 'learning_rate': 0.20579762037306965, 'min_child_weight': 9.825930290979132e-05, 'min_child_samples': 26, 'subsample': 0.5182111001636177, 'colsample_bytree': 0.6008269240621336}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 48, 'max_depth': 4, 'learning_rate': 0.4638273873203617, 'min_child_weight': 0.00022811802958374547, 'min_child_samples': 10, 'subsample': 0.5044613258973698, 'colsample_bytree': 0.569999199850411}
+============================================================
+Trial 48 - VAL-Accuracy: 0.3667, Params: {'num_leaves': 36, 'max_depth': 3, 'learning_rate': 0.7828077839861445, 'min_child_weight': 9.382847449039111e-05, 'min_child_samples': 21, 'subsample': 0.5652164861938179, 'colsample_bytree': 0.5221344702471467}
+============================================================
+Trial 49 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 56, 'max_depth': 4, 'learning_rate': 0.3863144330278259, 'min_child_weight': 0.00014042863758368578, 'min_child_samples': 33, 'subsample': 0.531408737885223, 'colsample_bytree': 0.6436582427729163}
+============================================================
+Trial 0 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 53, 'max_depth': 3, 'learning_rate': 0.0027488531454526156, 'min_child_weight': 0.0005701010225485689, 'min_child_samples': 40, 'subsample': 0.6539242354997377, 'colsample_bytree': 0.6998719271670608}
+============================================================
+Trial 0 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 10, 'max_depth': 4, 'learning_rate': 0.044782319254610334, 'min_child_weight': 0.01126279200683232, 'min_child_samples': 46, 'subsample': 0.9238040939253349, 'colsample_bytree': 0.5439596263924105}
+============================================================
+Trial 1 - VAL-Accuracy: 0.7967, Params: {'num_leaves': 90, 'max_depth': 7, 'learning_rate': 0.002620825670724184, 'min_child_weight': 0.042487459070448624, 'min_child_samples': 46, 'subsample': 0.5906507864340249, 'colsample_bytree': 0.861595799104802}
+============================================================
+Trial 2 - VAL-Accuracy: 0.7867, Params: {'num_leaves': 82, 'max_depth': 3, 'learning_rate': 0.001497160396306418, 'min_child_weight': 0.04228371876512701, 'min_child_samples': 48, 'subsample': 0.731856204787529, 'colsample_bytree': 0.5081377476268265}
+============================================================
+Trial 3 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 22, 'max_depth': 9, 'learning_rate': 0.003836542582980656, 'min_child_weight': 0.04694570411941585, 'min_child_samples': 95, 'subsample': 0.8706818967628164, 'colsample_bytree': 0.5874988068278644}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 33, 'max_depth': 8, 'learning_rate': 0.43351366992734786, 'min_child_weight': 0.09417141795694073, 'min_child_samples': 30, 'subsample': 0.6691414904367017, 'colsample_bytree': 0.7447451619002732}
+============================================================
+Trial 5 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 50, 'max_depth': 7, 'learning_rate': 0.11991848090434651, 'min_child_weight': 0.003075509835446737, 'min_child_samples': 18, 'subsample': 0.6587153655165259, 'colsample_bytree': 0.9781135495557876}
+============================================================
+Trial 6 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 78, 'max_depth': 3, 'learning_rate': 0.533561175859686, 'min_child_weight': 0.0011143969613998813, 'min_child_samples': 43, 'subsample': 0.6222281482749998, 'colsample_bytree': 0.7918103648237858}
+============================================================
+Trial 7 - VAL-Accuracy: 0.7633, Params: {'num_leaves': 61, 'max_depth': 7, 'learning_rate': 0.009825458906690603, 'min_child_weight': 2.067264644201738e-05, 'min_child_samples': 95, 'subsample': 0.9783756269438928, 'colsample_bytree': 0.9274189888232296}
+============================================================
+Trial 8 - VAL-Accuracy: 0.7167, Params: {'num_leaves': 26, 'max_depth': 7, 'learning_rate': 0.0031739759698860177, 'min_child_weight': 0.00029112345382373365, 'min_child_samples': 99, 'subsample': 0.9807608623818455, 'colsample_bytree': 0.8861315468543611}
+============================================================
+Trial 9 - VAL-Accuracy: 0.7567, Params: {'num_leaves': 16, 'max_depth': 7, 'learning_rate': 0.001882104459083269, 'min_child_weight': 0.002448184063964991, 'min_child_samples': 63, 'subsample': 0.8863899279848679, 'colsample_bytree': 0.7654635335238911}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 69, 'max_depth': 5, 'learning_rate': 0.4275768702388444, 'min_child_weight': 0.000204348580949041, 'min_child_samples': 72, 'subsample': 0.5258658101693844, 'colsample_bytree': 0.6675034240806056}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 100, 'max_depth': 3, 'learning_rate': 0.05499178720475711, 'min_child_weight': 0.007444385491974954, 'min_child_samples': 3, 'subsample': 0.8199588059658617, 'colsample_bytree': 0.7812294705723032}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 45, 'max_depth': 5, 'learning_rate': 0.1291251906533055, 'min_child_weight': 0.0005254542807737111, 'min_child_samples': 36, 'subsample': 0.7603399165996128, 'colsample_bytree': 0.6635319624443161}
+============================================================
+Trial 13 - VAL-Accuracy: 0.1833, Params: {'num_leaves': 45, 'max_depth': 5, 'learning_rate': 0.7561168344335223, 'min_child_weight': 0.00034740730130817024, 'min_child_samples': 30, 'subsample': 0.7719598010902237, 'colsample_bytree': 0.6663333104369774}
+============================================================
+Trial 14 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 74, 'max_depth': 5, 'learning_rate': 0.1487395930808163, 'min_child_weight': 3.6841889713831284e-05, 'min_child_samples': 65, 'subsample': 0.6750160917480954, 'colsample_bytree': 0.6933011441601938}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 39, 'max_depth': 4, 'learning_rate': 0.17347825132390016, 'min_child_weight': 0.001011607581328813, 'min_child_samples': 24, 'subsample': 0.5677929728468243, 'colsample_bytree': 0.828640304179615}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 60, 'max_depth': 10, 'learning_rate': 0.015179201884177939, 'min_child_weight': 0.00012840773863080296, 'min_child_samples': 37, 'subsample': 0.7460507949082569, 'colsample_bytree': 0.611212046429378}
+============================================================
+Trial 17 - VAL-Accuracy: 0.2800, Params: {'num_leaves': 73, 'max_depth': 4, 'learning_rate': 0.9528878002733543, 'min_child_weight': 0.0007875606452785073, 'min_child_samples': 14, 'subsample': 0.617940070680149, 'colsample_bytree': 0.7140629835917034}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 55, 'max_depth': 6, 'learning_rate': 0.09198227862260112, 'min_child_weight': 6.940365043855161e-05, 'min_child_samples': 80, 'subsample': 0.8031605078436629, 'colsample_bytree': 0.8021446557672189}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 84, 'max_depth': 3, 'learning_rate': 0.27243624965581104, 'min_child_weight': 0.0008318333324131857, 'min_child_samples': 54, 'subsample': 0.7088295168657293, 'colsample_bytree': 0.636981559597693}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 99, 'max_depth': 6, 'learning_rate': 0.019654076922723102, 'min_child_weight': 1.023874647234028e-05, 'min_child_samples': 37, 'subsample': 0.5043132018132386, 'colsample_bytree': 0.7229230477671661}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 85, 'max_depth': 3, 'learning_rate': 0.28375500991684816, 'min_child_weight': 0.0006432393006101645, 'min_child_samples': 55, 'subsample': 0.6869681010432045, 'colsample_bytree': 0.6251527199878602}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 66, 'max_depth': 4, 'learning_rate': 0.2785978099098078, 'min_child_weight': 0.002061069146832281, 'min_child_samples': 57, 'subsample': 0.711422491798224, 'colsample_bytree': 0.6464195134788504}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 65, 'max_depth': 4, 'learning_rate': 0.07138852168594494, 'min_child_weight': 0.0024805241180295002, 'min_child_samples': 38, 'subsample': 0.6285902145989615, 'colsample_bytree': 0.5824461048680546}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 67, 'max_depth': 4, 'learning_rate': 0.07174657678935562, 'min_child_weight': 0.002420612634897648, 'min_child_samples': 60, 'subsample': 0.6192522654255357, 'colsample_bytree': 0.5718851182011824}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 76, 'max_depth': 4, 'learning_rate': 0.4900622180255958, 'min_child_weight': 0.007460776720433428, 'min_child_samples': 78, 'subsample': 0.5869143595312613, 'colsample_bytree': 0.5450620847106287}
+============================================================
+Trial 26 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 91, 'max_depth': 3, 'learning_rate': 0.034006197523960224, 'min_child_weight': 0.0015534754193552074, 'min_child_samples': 59, 'subsample': 0.5574998027809557, 'colsample_bytree': 0.5584091012826192}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 56, 'max_depth': 4, 'learning_rate': 0.20833036612910114, 'min_child_weight': 0.004028249644958405, 'min_child_samples': 70, 'subsample': 0.6315830032129462, 'colsample_bytree': 0.6034041695379007}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 79, 'max_depth': 6, 'learning_rate': 0.6420242410165298, 'min_child_weight': 0.01900402610872106, 'min_child_samples': 83, 'subsample': 0.7099496149652124, 'colsample_bytree': 0.5055213709352517}
+============================================================
+Trial 29 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 69, 'max_depth': 4, 'learning_rate': 0.04233309305979007, 'min_child_weight': 0.015274075828097443, 'min_child_samples': 51, 'subsample': 0.5427795862354576, 'colsample_bytree': 0.814741820450894}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 66, 'max_depth': 5, 'learning_rate': 0.30053106987919587, 'min_child_weight': 0.006713014587554848, 'min_child_samples': 46, 'subsample': 0.6091309255292879, 'colsample_bytree': 0.5666185065598213}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 66, 'max_depth': 4, 'learning_rate': 0.07138801233369774, 'min_child_weight': 0.0019292980365315092, 'min_child_samples': 41, 'subsample': 0.644935657531412, 'colsample_bytree': 0.577909899417206}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 63, 'max_depth': 3, 'learning_rate': 0.0684149050264052, 'min_child_weight': 0.0015472849520697311, 'min_child_samples': 42, 'subsample': 0.5961591294187103, 'colsample_bytree': 0.5245701760744259}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 90, 'max_depth': 4, 'learning_rate': 0.02038819313503678, 'min_child_weight': 0.004386901919304633, 'min_child_samples': 63, 'subsample': 0.708660845621564, 'colsample_bytree': 0.635050038068957}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 57, 'max_depth': 3, 'learning_rate': 0.007847912945941948, 'min_child_weight': 0.0011226146666389483, 'min_child_samples': 48, 'subsample': 0.6276282399966293, 'colsample_bytree': 0.5346919533458174}
+============================================================
+Trial 35 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 71, 'max_depth': 5, 'learning_rate': 0.09896546473735202, 'min_child_weight': 0.0039058739247057922, 'min_child_samples': 58, 'subsample': 0.5784073811519623, 'colsample_bytree': 0.8513513537457389}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 50, 'max_depth': 4, 'learning_rate': 0.21671644360066997, 'min_child_weight': 0.030300639976909755, 'min_child_samples': 30, 'subsample': 0.6416006137325667, 'colsample_bytree': 0.5958329536517879}
+============================================================
+Trial 37 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 79, 'max_depth': 3, 'learning_rate': 0.36596902199876463, 'min_child_weight': 0.00043321742736672324, 'min_child_samples': 42, 'subsample': 0.6700897731263595, 'colsample_bytree': 0.6841470905998043}
+============================================================
+Trial 38 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 78, 'max_depth': 3, 'learning_rate': 0.4419390592454979, 'min_child_weight': 0.0004653285398834152, 'min_child_samples': 69, 'subsample': 0.6912040312686538, 'colsample_bytree': 0.745649819371151}
+============================================================
+Trial 39 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 94, 'max_depth': 8, 'learning_rate': 0.6307155550131508, 'min_child_weight': 0.00015280465907573063, 'min_child_samples': 51, 'subsample': 0.7276735326813735, 'colsample_bytree': 0.7036313515423901}
+============================================================
+Trial 40 - VAL-Accuracy: 0.2133, Params: {'num_leaves': 81, 'max_depth': 3, 'learning_rate': 0.9943003041651202, 'min_child_weight': 0.00021976353823169087, 'min_child_samples': 44, 'subsample': 0.6698847763910702, 'colsample_bytree': 0.8971840945511905}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 64, 'max_depth': 4, 'learning_rate': 0.39000346051824514, 'min_child_weight': 0.002153557219343266, 'min_child_samples': 31, 'subsample': 0.655113440858573, 'colsample_bytree': 0.6814047522898289}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 87, 'max_depth': 3, 'learning_rate': 0.09511879053577721, 'min_child_weight': 0.0012790077319356286, 'min_child_samples': 22, 'subsample': 0.6025641945778463, 'colsample_bytree': 0.6485468381154103}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 87, 'max_depth': 3, 'learning_rate': 0.1142805890720449, 'min_child_weight': 0.0003713498627353178, 'min_child_samples': 14, 'subsample': 0.5985518900548077, 'colsample_bytree': 0.6506225871619322}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 94, 'max_depth': 3, 'learning_rate': 0.2043927468267729, 'min_child_weight': 0.001312400246336277, 'min_child_samples': 3, 'subsample': 0.5382730868893842, 'colsample_bytree': 0.7375484107680303}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 81, 'max_depth': 3, 'learning_rate': 0.3294223717833516, 'min_child_weight': 0.0006085886491687492, 'min_child_samples': 22, 'subsample': 0.8093850909894621, 'colsample_bytree': 0.7815942531001026}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 75, 'max_depth': 8, 'learning_rate': 0.05273100728004961, 'min_child_weight': 0.005809200150940252, 'min_child_samples': 60, 'subsample': 0.6611019289508604, 'colsample_bytree': 0.6865658991660565}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 87, 'max_depth': 5, 'learning_rate': 0.149484571071223, 'min_child_weight': 0.0029325795698024078, 'min_child_samples': 23, 'subsample': 0.5628390203422582, 'colsample_bytree': 0.7623499227688277}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 59, 'max_depth': 3, 'learning_rate': 0.03572261413169513, 'min_child_weight': 0.010802375597039036, 'min_child_samples': 66, 'subsample': 0.947767719894288, 'colsample_bytree': 0.9728341638093906}
+============================================================
+Trial 49 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 69, 'max_depth': 4, 'learning_rate': 0.6218821875689079, 'min_child_weight': 0.00026257716335730344, 'min_child_samples': 55, 'subsample': 0.7270657000992242, 'colsample_bytree': 0.6123680470813019}
+============================================================
+Trial 0 - VAL-Accuracy: 0.7767, Params: {'num_leaves': 14, 'max_depth': 8, 'learning_rate': 0.006799540419533533, 'min_child_weight': 0.00016021502642667867, 'min_child_samples': 72, 'subsample': 0.9092674687534975, 'colsample_bytree': 0.9151071692123387}
+============================================================
+Trial 1 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 71, 'max_depth': 8, 'learning_rate': 0.5505062636863829, 'min_child_weight': 0.08308248099754688, 'min_child_samples': 70, 'subsample': 0.5951808636604792, 'colsample_bytree': 0.6004214082608204}
+============================================================
+Trial 2 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 49, 'max_depth': 7, 'learning_rate': 0.4796908302577086, 'min_child_weight': 0.0008651061700072126, 'min_child_samples': 5, 'subsample': 0.9908516207978395, 'colsample_bytree': 0.8079940675388932}
+============================================================
+Trial 3 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 84, 'max_depth': 6, 'learning_rate': 0.15000125814575713, 'min_child_weight': 0.008867039158228908, 'min_child_samples': 12, 'subsample': 0.8409676464628583, 'colsample_bytree': 0.7408663985081227}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 64, 'max_depth': 3, 'learning_rate': 0.09004502030882935, 'min_child_weight': 0.00015079141742633354, 'min_child_samples': 68, 'subsample': 0.9324258899447926, 'colsample_bytree': 0.9757983261450964}
+============================================================
+Trial 5 - VAL-Accuracy: 0.7600, Params: {'num_leaves': 97, 'max_depth': 10, 'learning_rate': 0.0014809328025580984, 'min_child_weight': 0.03895734217579711, 'min_child_samples': 56, 'subsample': 0.8987710805468091, 'colsample_bytree': 0.8535400352491003}
+============================================================
+Trial 6 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 69, 'max_depth': 10, 'learning_rate': 0.003621491134858229, 'min_child_weight': 7.490708835756961e-05, 'min_child_samples': 19, 'subsample': 0.8117824135996743, 'colsample_bytree': 0.5100994822978053}
+============================================================
+Trial 7 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 39, 'max_depth': 8, 'learning_rate': 0.01135189063137556, 'min_child_weight': 0.0037314536780515585, 'min_child_samples': 49, 'subsample': 0.8310331577449669, 'colsample_bytree': 0.9666731627037144}
+============================================================
+Trial 8 - VAL-Accuracy: 0.8467, Params: {'num_leaves': 86, 'max_depth': 4, 'learning_rate': 0.33907010025258494, 'min_child_weight': 0.07414856544139156, 'min_child_samples': 70, 'subsample': 0.6322109916599483, 'colsample_bytree': 0.9484325424494569}
+============================================================
+Trial 9 - VAL-Accuracy: 0.7900, Params: {'num_leaves': 59, 'max_depth': 5, 'learning_rate': 0.0012211727381253401, 'min_child_weight': 0.00033005470308547773, 'min_child_samples': 29, 'subsample': 0.6602981606924427, 'colsample_bytree': 0.7148268952067267}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 99, 'max_depth': 3, 'learning_rate': 0.05142985986453617, 'min_child_weight': 0.012735181477304233, 'min_child_samples': 97, 'subsample': 0.503173650208994, 'colsample_bytree': 0.636708420837588}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 84, 'max_depth': 5, 'learning_rate': 0.15367819204808103, 'min_child_weight': 1.1637021624609164e-05, 'min_child_samples': 94, 'subsample': 0.6986123104702, 'colsample_bytree': 0.740507226453185}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 83, 'max_depth': 5, 'learning_rate': 0.26603577804292433, 'min_child_weight': 0.011578893568863113, 'min_child_samples': 43, 'subsample': 0.7343069404575283, 'colsample_bytree': 0.8314868137215036}
+============================================================
+Trial 13 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 80, 'max_depth': 4, 'learning_rate': 0.3206092720827782, 'min_child_weight': 0.025022924609934823, 'min_child_samples': 38, 'subsample': 0.7358792050165885, 'colsample_bytree': 0.8635744152693158}
+============================================================
+Trial 14 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 39, 'max_depth': 5, 'learning_rate': 0.854055738071173, 'min_child_weight': 0.0023954535982366075, 'min_child_samples': 81, 'subsample': 0.6159363114313436, 'colsample_bytree': 0.8991107206308759}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 90, 'max_depth': 4, 'learning_rate': 0.026786881025606283, 'min_child_weight': 0.09648780259953801, 'min_child_samples': 48, 'subsample': 0.5489526002781866, 'colsample_bytree': 0.8121779585148575}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 76, 'max_depth': 6, 'learning_rate': 0.21291623432529094, 'min_child_weight': 0.005099058836262198, 'min_child_samples': 59, 'subsample': 0.7466864837834899, 'colsample_bytree': 0.9343549688486903}
+============================================================
+Trial 17 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 51, 'max_depth': 4, 'learning_rate': 0.02903369639397273, 'min_child_weight': 0.022145410465066663, 'min_child_samples': 38, 'subsample': 0.6691251385293373, 'colsample_bytree': 0.9964801855252229}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 12, 'max_depth': 3, 'learning_rate': 0.9992442665814099, 'min_child_weight': 0.001942289796521217, 'min_child_samples': 82, 'subsample': 0.7840517859863902, 'colsample_bytree': 0.8064653207237563}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 89, 'max_depth': 7, 'learning_rate': 0.07171131531291448, 'min_child_weight': 0.043448315643512925, 'min_child_samples': 31, 'subsample': 0.6035797464011876, 'colsample_bytree': 0.6724078224441934}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 94, 'max_depth': 5, 'learning_rate': 0.23268041639697237, 'min_child_weight': 0.011919201520368997, 'min_child_samples': 62, 'subsample': 0.7051014549556618, 'colsample_bytree': 0.8664352093680106}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 79, 'max_depth': 4, 'learning_rate': 0.41447423081878915, 'min_child_weight': 0.030077907355151538, 'min_child_samples': 40, 'subsample': 0.7533282078513945, 'colsample_bytree': 0.8531058695203045}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 78, 'max_depth': 4, 'learning_rate': 0.2794927497737468, 'min_child_weight': 0.01820690371998881, 'min_child_samples': 43, 'subsample': 0.7182979397999909, 'colsample_bytree': 0.9006378325414987}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 67, 'max_depth': 4, 'learning_rate': 0.08053899570237269, 'min_child_weight': 0.0071328802087997556, 'min_child_samples': 24, 'subsample': 0.656576768830883, 'colsample_bytree': 0.9487205130499642}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 75, 'max_depth': 6, 'learning_rate': 0.12991233822794523, 'min_child_weight': 0.0010910823624679824, 'min_child_samples': 44, 'subsample': 0.7052309625771317, 'colsample_bytree': 0.9111147114507706}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 88, 'max_depth': 5, 'learning_rate': 0.2939546564441003, 'min_child_weight': 0.05229652209138805, 'min_child_samples': 80, 'subsample': 0.563075202386108, 'colsample_bytree': 0.7816753817669829}
+============================================================
+Trial 26 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 61, 'max_depth': 3, 'learning_rate': 0.6367503996969988, 'min_child_weight': 0.020078232698306265, 'min_child_samples': 55, 'subsample': 0.6365897141972681, 'colsample_bytree': 0.8819031213682014}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 83, 'max_depth': 4, 'learning_rate': 0.043255721153561966, 'min_child_weight': 0.09069722605212786, 'min_child_samples': 33, 'subsample': 0.6873413277139355, 'colsample_bytree': 0.8340266363627602}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 100, 'max_depth': 6, 'learning_rate': 0.2199467682813218, 'min_child_weight': 0.01730204115727425, 'min_child_samples': 66, 'subsample': 0.7908367216714208, 'colsample_bytree': 0.9976006277160564}
+============================================================
+Trial 29 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 29, 'max_depth': 5, 'learning_rate': 0.016345763388753258, 'min_child_weight': 0.0037795125153493665, 'min_child_samples': 75, 'subsample': 0.8616005215962546, 'colsample_bytree': 0.9250303960754367}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 75, 'max_depth': 3, 'learning_rate': 0.35972505279898753, 'min_child_weight': 0.000674090121620703, 'min_child_samples': 88, 'subsample': 0.729182913451283, 'colsample_bytree': 0.8998040865995282}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 72, 'max_depth': 3, 'learning_rate': 0.3871089790082871, 'min_child_weight': 0.00045343493163913244, 'min_child_samples': 88, 'subsample': 0.7643393354733514, 'colsample_bytree': 0.8976138013445162}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 91, 'max_depth': 4, 'learning_rate': 0.15236831094020767, 'min_child_weight': 0.001199314637875778, 'min_child_samples': 89, 'subsample': 0.725716103296284, 'colsample_bytree': 0.9453257039280801}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 74, 'max_depth': 3, 'learning_rate': 0.6119757497800526, 'min_child_weight': 0.00037034863217087375, 'min_child_samples': 76, 'subsample': 0.5808765434809527, 'colsample_bytree': 0.77763798854057}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 56, 'max_depth': 4, 'learning_rate': 0.5739763289059981, 'min_child_weight': 6.769796751276064e-05, 'min_child_samples': 52, 'subsample': 0.7798796427846378, 'colsample_bytree': 0.8276221243849107}
+============================================================
+Trial 35 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 83, 'max_depth': 3, 'learning_rate': 0.12979896300956892, 'min_child_weight': 0.06059136999045453, 'min_child_samples': 64, 'subsample': 0.6392890071722727, 'colsample_bytree': 0.9010328883688593}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 66, 'max_depth': 5, 'learning_rate': 0.29022123617141826, 'min_child_weight': 0.006438082969279983, 'min_child_samples': 3, 'subsample': 0.7135839616729368, 'colsample_bytree': 0.9479981840662407}
+============================================================
+Trial 37 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 79, 'max_depth': 7, 'learning_rate': 0.09763411411915829, 'min_child_weight': 0.0022191787047658174, 'min_child_samples': 15, 'subsample': 0.8710875921379414, 'colsample_bytree': 0.5263676949379842}
+============================================================
+Trial 38 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 94, 'max_depth': 8, 'learning_rate': 0.004415323364421004, 'min_child_weight': 0.00017238836067912455, 'min_child_samples': 72, 'subsample': 0.9404984232546738, 'colsample_bytree': 0.9704395171050391}
+============================================================
+Trial 39 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 70, 'max_depth': 9, 'learning_rate': 0.4619936191688176, 'min_child_weight': 0.010508786092544103, 'min_child_samples': 89, 'subsample': 0.6828173960685531, 'colsample_bytree': 0.8783043634695404}
+============================================================
+Trial 40 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 86, 'max_depth': 3, 'learning_rate': 0.8089024303918049, 'min_child_weight': 0.0005198507576697548, 'min_child_samples': 45, 'subsample': 0.8106947180461387, 'colsample_bytree': 0.7805839267733611}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 56, 'max_depth': 4, 'learning_rate': 0.5229597749316787, 'min_child_weight': 2.8211162495113747e-05, 'min_child_samples': 54, 'subsample': 0.780139862763169, 'colsample_bytree': 0.8361126823329206}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 44, 'max_depth': 4, 'learning_rate': 0.19618080434633003, 'min_child_weight': 6.9378658160854e-05, 'min_child_samples': 100, 'subsample': 0.808248875089853, 'colsample_bytree': 0.8173054053779317}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 21, 'max_depth': 4, 'learning_rate': 0.6735211102809471, 'min_child_weight': 0.0001930104285216886, 'min_child_samples': 51, 'subsample': 0.7637948378692869, 'colsample_bytree': 0.8379093013493834}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 62, 'max_depth': 5, 'learning_rate': 0.3473754694512768, 'min_child_weight': 3.768448811780551e-05, 'min_child_samples': 60, 'subsample': 0.7319906234447702, 'colsample_bytree': 0.9184138898710301}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 57, 'max_depth': 3, 'learning_rate': 0.46725723624951276, 'min_child_weight': 0.0007229540037460767, 'min_child_samples': 26, 'subsample': 0.6289137276808255, 'colsample_bytree': 0.6968036071100352}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 81, 'max_depth': 4, 'learning_rate': 0.27027121460069925, 'min_child_weight': 1.0006763786181485e-05, 'min_child_samples': 42, 'subsample': 0.8411293900425901, 'colsample_bytree': 0.7477755547514044}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8467, Params: {'num_leaves': 95, 'max_depth': 5, 'learning_rate': 0.27304572070035876, 'min_child_weight': 0.033584096166415195, 'min_child_samples': 43, 'subsample': 0.8467652244020965, 'colsample_bytree': 0.7355511183095488}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 94, 'max_depth': 6, 'learning_rate': 0.11263831171215265, 'min_child_weight': 1.8824227760118516e-05, 'min_child_samples': 36, 'subsample': 0.9173252638370357, 'colsample_bytree': 0.7481509430528718}
+============================================================
+Trial 49 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 97, 'max_depth': 5, 'learning_rate': 0.18741332192073637, 'min_child_weight': 0.03806939279612512, 'min_child_samples': 70, 'subsample': 0.9892303972983373, 'colsample_bytree': 0.7203192717665902}
+============================================================
+Trial 0 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 13, 'max_depth': 6, 'learning_rate': 0.06598022634100244, 'min_child_weight': 1.4400718077943304e-05, 'min_child_samples': 77, 'subsample': 0.6733973615632955, 'colsample_bytree': 0.9164401994926105}
+============================================================
+Trial 1 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 82, 'max_depth': 3, 'learning_rate': 0.004877879730740407, 'min_child_weight': 0.09182071699622939, 'min_child_samples': 47, 'subsample': 0.7150666190299728, 'colsample_bytree': 0.8607108185369321}
+============================================================
+Trial 2 - VAL-Accuracy: 0.7967, Params: {'num_leaves': 97, 'max_depth': 9, 'learning_rate': 0.0041229214778921285, 'min_child_weight': 0.0002038416777632533, 'min_child_samples': 16, 'subsample': 0.5018015884779328, 'colsample_bytree': 0.9568095614280925}
+============================================================
+Trial 3 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 100, 'max_depth': 6, 'learning_rate': 0.01113171115136164, 'min_child_weight': 0.012910759848080867, 'min_child_samples': 94, 'subsample': 0.5602919876281125, 'colsample_bytree': 0.8435492919567062}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 36, 'max_depth': 6, 'learning_rate': 0.012664287052565627, 'min_child_weight': 0.00011391930049018577, 'min_child_samples': 45, 'subsample': 0.8274083503290939, 'colsample_bytree': 0.6068592410092951}
+============================================================
+Trial 5 - VAL-Accuracy: 0.2867, Params: {'num_leaves': 24, 'max_depth': 5, 'learning_rate': 0.7716449022260798, 'min_child_weight': 4.25866716407316e-05, 'min_child_samples': 20, 'subsample': 0.5050857839935174, 'colsample_bytree': 0.5620500556564326}
+============================================================
+Trial 6 - VAL-Accuracy: 0.7700, Params: {'num_leaves': 59, 'max_depth': 3, 'learning_rate': 0.001219971413352474, 'min_child_weight': 0.019455982669762974, 'min_child_samples': 46, 'subsample': 0.801441601812011, 'colsample_bytree': 0.5744347229439954}
+============================================================
+Trial 7 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 25, 'max_depth': 5, 'learning_rate': 0.04545740576753559, 'min_child_weight': 8.818655650033594e-05, 'min_child_samples': 74, 'subsample': 0.5635408757574152, 'colsample_bytree': 0.8822511455263151}
+============================================================
+Trial 8 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 42, 'max_depth': 7, 'learning_rate': 0.03621652002983862, 'min_child_weight': 0.0013545903968576764, 'min_child_samples': 74, 'subsample': 0.9080411748630783, 'colsample_bytree': 0.9358055148405156}
+============================================================
+Trial 9 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 53, 'max_depth': 3, 'learning_rate': 0.011635838652677501, 'min_child_weight': 0.0026108969892418648, 'min_child_samples': 41, 'subsample': 0.79525948698753, 'colsample_bytree': 0.7992597676637159}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 56, 'max_depth': 9, 'learning_rate': 0.2961605187645005, 'min_child_weight': 0.0009643392954901371, 'min_child_samples': 70, 'subsample': 0.9878336215918458, 'colsample_bytree': 0.6775403106655592}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 15, 'max_depth': 8, 'learning_rate': 0.08482948217671334, 'min_child_weight': 1.4850466052211677e-05, 'min_child_samples': 76, 'subsample': 0.9448735923707112, 'colsample_bytree': 0.9794226320193632}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 41, 'max_depth': 8, 'learning_rate': 0.12262643590007527, 'min_child_weight': 0.000666663948578473, 'min_child_samples': 97, 'subsample': 0.9579157555864364, 'colsample_bytree': 0.9937616941490163}
+============================================================
+Trial 13 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 18, 'max_depth': 8, 'learning_rate': 0.13770801356924292, 'min_child_weight': 0.0033778268030671796, 'min_child_samples': 62, 'subsample': 0.9316161611668715, 'colsample_bytree': 0.7465198548801036}
+============================================================
+Trial 14 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 40, 'max_depth': 10, 'learning_rate': 0.02775502778158642, 'min_child_weight': 1.595098394638838e-05, 'min_child_samples': 86, 'subsample': 0.8875737491028455, 'colsample_bytree': 0.9906806808294009}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 71, 'max_depth': 8, 'learning_rate': 0.239780950695635, 'min_child_weight': 0.00041022982915562715, 'min_child_samples': 60, 'subsample': 0.8826446056025523, 'colsample_bytree': 0.9250940972712068}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 67, 'max_depth': 7, 'learning_rate': 0.3865517569085017, 'min_child_weight': 0.0003475905890333484, 'min_child_samples': 31, 'subsample': 0.8767760874424946, 'colsample_bytree': 0.7702198347700155}
+============================================================
+Trial 17 - VAL-Accuracy: 0.2200, Params: {'num_leaves': 71, 'max_depth': 7, 'learning_rate': 0.9343745675226787, 'min_child_weight': 0.00032220098534785444, 'min_child_samples': 30, 'subsample': 0.8569832327367155, 'colsample_bytree': 0.7347755645722539}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 76, 'max_depth': 9, 'learning_rate': 0.3828206920051752, 'min_child_weight': 0.0003668657128876052, 'min_child_samples': 31, 'subsample': 0.7449917963733377, 'colsample_bytree': 0.6861639615503969}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 87, 'max_depth': 10, 'learning_rate': 0.2672831626300493, 'min_child_weight': 4.7365118545443466e-05, 'min_child_samples': 60, 'subsample': 0.664457793372663, 'colsample_bytree': 0.8114978426583047}
+============================================================
+Trial 20 - VAL-Accuracy: 0.7967, Params: {'num_leaves': 67, 'max_depth': 5, 'learning_rate': 0.49938624444810814, 'min_child_weight': 0.008044646823988784, 'min_child_samples': 2, 'subsample': 0.8572711869076935, 'colsample_bytree': 0.6568467903963979}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 64, 'max_depth': 7, 'learning_rate': 0.21976302455644894, 'min_child_weight': 0.0023315858221994706, 'min_child_samples': 61, 'subsample': 0.8821777078200552, 'colsample_bytree': 0.9015674898009808}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 63, 'max_depth': 7, 'learning_rate': 0.18969860317938989, 'min_child_weight': 0.0027546561528445836, 'min_child_samples': 58, 'subsample': 0.9981477427114624, 'colsample_bytree': 0.8938608526349298}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 50, 'max_depth': 8, 'learning_rate': 0.4735891769639834, 'min_child_weight': 0.0005468814096931798, 'min_child_samples': 54, 'subsample': 0.8808792326725767, 'colsample_bytree': 0.7915716144564937}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 76, 'max_depth': 7, 'learning_rate': 0.19262256980234993, 'min_child_weight': 0.0014719656963475825, 'min_child_samples': 34, 'subsample': 0.795932606247449, 'colsample_bytree': 0.841195966503698}
+============================================================
+Trial 25 - VAL-Accuracy: 0.3433, Params: {'num_leaves': 89, 'max_depth': 4, 'learning_rate': 0.663397889764718, 'min_child_weight': 0.005836898649736256, 'min_child_samples': 22, 'subsample': 0.8407266969462387, 'colsample_bytree': 0.9243554207234757}
+============================================================
+Trial 26 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 69, 'max_depth': 8, 'learning_rate': 0.08770769636069653, 'min_child_weight': 0.000159263468406987, 'min_child_samples': 67, 'subsample': 0.9103882016408374, 'colsample_bytree': 0.7653158340672985}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 77, 'max_depth': 6, 'learning_rate': 0.21741912593503684, 'min_child_weight': 0.03389917764636864, 'min_child_samples': 37, 'subsample': 0.7626848984721684, 'colsample_bytree': 0.8868409772843656}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 49, 'max_depth': 9, 'learning_rate': 0.37727044000207, 'min_child_weight': 0.00032482554394146234, 'min_child_samples': 51, 'subsample': 0.9565006582013085, 'colsample_bytree': 0.716153610004018}
+============================================================
+Trial 29 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 59, 'max_depth': 7, 'learning_rate': 0.05765406627867506, 'min_child_weight': 4.676144240307506e-05, 'min_child_samples': 81, 'subsample': 0.6798535851561958, 'colsample_bytree': 0.5214768562835039}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 63, 'max_depth': 6, 'learning_rate': 0.023945767242503493, 'min_child_weight': 0.0010076005717902913, 'min_child_samples': 11, 'subsample': 0.8839179372318988, 'colsample_bytree': 0.9430981475494215}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 51, 'max_depth': 8, 'learning_rate': 0.42994511877451574, 'min_child_weight': 0.000551567430093509, 'min_child_samples': 55, 'subsample': 0.8707864087761983, 'colsample_bytree': 0.8054074843021536}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 84, 'max_depth': 8, 'learning_rate': 0.6173629101015615, 'min_child_weight': 0.0005551802485162529, 'min_child_samples': 52, 'subsample': 0.8184655043307085, 'colsample_bytree': 0.7887628922097452}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 65, 'max_depth': 7, 'learning_rate': 0.1237819724118815, 'min_child_weight': 0.0017565324396904682, 'min_child_samples': 67, 'subsample': 0.9103333788011662, 'colsample_bytree': 0.8498210837823655}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 47, 'max_depth': 9, 'learning_rate': 0.3168228254967924, 'min_child_weight': 0.0002539339003736934, 'min_child_samples': 64, 'subsample': 0.7477976015436736, 'colsample_bytree': 0.9027733616450047}
+============================================================
+Trial 35 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 72, 'max_depth': 8, 'learning_rate': 0.17987145157370282, 'min_child_weight': 0.00014617635630024745, 'min_child_samples': 40, 'subsample': 0.8366444332759073, 'colsample_bytree': 0.8268293036257737}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 31, 'max_depth': 7, 'learning_rate': 0.6129522025072617, 'min_child_weight': 0.09984228033151453, 'min_child_samples': 51, 'subsample': 0.889700954442186, 'colsample_bytree': 0.8650320252718209}
+============================================================
+Trial 37 - VAL-Accuracy: 0.7867, Params: {'num_leaves': 59, 'max_depth': 6, 'learning_rate': 0.005202100241518629, 'min_child_weight': 0.005540303676593178, 'min_child_samples': 44, 'subsample': 0.7682267176457861, 'colsample_bytree': 0.9675804664218923}
+============================================================
+Trial 38 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 93, 'max_depth': 9, 'learning_rate': 0.09316470086266752, 'min_child_weight': 8.424439156878539e-05, 'min_child_samples': 86, 'subsample': 0.9727448634424988, 'colsample_bytree': 0.7225044656396935}
+============================================================
+Trial 39 - VAL-Accuracy: 0.1667, Params: {'num_leaves': 81, 'max_depth': 5, 'learning_rate': 0.9766551509393756, 'min_child_weight': 0.0006399100405357377, 'min_child_samples': 25, 'subsample': 0.9287246548414136, 'colsample_bytree': 0.7665527797345731}
+============================================================
+Trial 40 - VAL-Accuracy: 0.7633, Params: {'num_leaves': 47, 'max_depth': 6, 'learning_rate': 0.0012991526097967155, 'min_child_weight': 0.0001881143145184235, 'min_child_samples': 47, 'subsample': 0.7114161309356108, 'colsample_bytree': 0.8651085518839354}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 72, 'max_depth': 8, 'learning_rate': 0.1641442188296693, 'min_child_weight': 0.0001140567114059636, 'min_child_samples': 38, 'subsample': 0.8262575230624654, 'colsample_bytree': 0.8310699214361961}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 73, 'max_depth': 8, 'learning_rate': 0.2503251318097113, 'min_child_weight': 0.00010927744410520795, 'min_child_samples': 37, 'subsample': 0.8094905027988035, 'colsample_bytree': 0.7790681650090094}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 55, 'max_depth': 7, 'learning_rate': 0.4869251068371112, 'min_child_weight': 7.024552884691104e-05, 'min_child_samples': 57, 'subsample': 0.8659738011566527, 'colsample_bytree': 0.8211523391404896}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 62, 'max_depth': 8, 'learning_rate': 0.14799435826078955, 'min_child_weight': 0.00044687608048029427, 'min_child_samples': 28, 'subsample': 0.848676604807218, 'colsample_bytree': 0.9089079715947788}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 69, 'max_depth': 9, 'learning_rate': 0.05494619639303926, 'min_child_weight': 0.00021220438448941198, 'min_child_samples': 48, 'subsample': 0.9041352377237447, 'colsample_bytree': 0.9525000796938989}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 79, 'max_depth': 7, 'learning_rate': 0.3654153778495011, 'min_child_weight': 0.0010554464298080312, 'min_child_samples': 40, 'subsample': 0.7765202882002151, 'colsample_bytree': 0.8337794026597575}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 55, 'max_depth': 8, 'learning_rate': 0.2924779107070446, 'min_child_weight': 0.0007963006198328848, 'min_child_samples': 16, 'subsample': 0.8231068418193224, 'colsample_bytree': 0.872629121835007}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 36, 'max_depth': 9, 'learning_rate': 0.10121517919370082, 'min_child_weight': 0.001972488095082978, 'min_child_samples': 71, 'subsample': 0.9213912459431693, 'colsample_bytree': 0.9237640531109311}
+============================================================
+Trial 49 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 73, 'max_depth': 8, 'learning_rate': 0.0751700647483025, 'min_child_weight': 0.0002665381038121215, 'min_child_samples': 55, 'subsample': 0.8761338804859744, 'colsample_bytree': 0.6986484106503169}
+============================================================
+Trial 0 - VAL-Accuracy: 0.7867, Params: {'num_leaves': 41, 'max_depth': 3, 'learning_rate': 0.0013040868147616376, 'min_child_weight': 0.06901593588919136, 'min_child_samples': 21, 'subsample': 0.6527757385893512, 'colsample_bytree': 0.5254695224730089}
+============================================================
+Trial 1 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 38, 'max_depth': 5, 'learning_rate': 0.44001379016045183, 'min_child_weight': 0.007074835898069102, 'min_child_samples': 3, 'subsample': 0.6512412795690756, 'colsample_bytree': 0.6020795296045747}
+============================================================
+Trial 2 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 84, 'max_depth': 6, 'learning_rate': 0.19369783571284505, 'min_child_weight': 0.00896760981277899, 'min_child_samples': 96, 'subsample': 0.6711856275481345, 'colsample_bytree': 0.5830399308412246}
+============================================================
+Trial 3 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 89, 'max_depth': 3, 'learning_rate': 0.12272006947556605, 'min_child_weight': 5.829788318242031e-05, 'min_child_samples': 26, 'subsample': 0.927442250285923, 'colsample_bytree': 0.5728998668271468}
+============================================================
+Trial 4 - VAL-Accuracy: 0.7433, Params: {'num_leaves': 53, 'max_depth': 5, 'learning_rate': 0.003903510157156049, 'min_child_weight': 0.006562011908288816, 'min_child_samples': 89, 'subsample': 0.8591047545291463, 'colsample_bytree': 0.9370009986444531}
+============================================================
+Trial 5 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 90, 'max_depth': 10, 'learning_rate': 0.0019729089886727797, 'min_child_weight': 0.0003358017463275894, 'min_child_samples': 32, 'subsample': 0.8207144285967677, 'colsample_bytree': 0.8757338026580539}
+============================================================
+Trial 6 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 85, 'max_depth': 4, 'learning_rate': 0.2872232757620239, 'min_child_weight': 0.09319067186107803, 'min_child_samples': 13, 'subsample': 0.7432763375200054, 'colsample_bytree': 0.9780312692152844}
+============================================================
+Trial 7 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 28, 'max_depth': 10, 'learning_rate': 0.02050619441281145, 'min_child_weight': 1.5412195927974027e-05, 'min_child_samples': 29, 'subsample': 0.7303056510303993, 'colsample_bytree': 0.6790930789102687}
+============================================================
+Trial 8 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 39, 'max_depth': 4, 'learning_rate': 0.020058992222357047, 'min_child_weight': 0.002793667454989646, 'min_child_samples': 24, 'subsample': 0.7759293662136981, 'colsample_bytree': 0.7013681659804301}
+============================================================
+Trial 9 - VAL-Accuracy: 0.2467, Params: {'num_leaves': 29, 'max_depth': 4, 'learning_rate': 0.8848203259918994, 'min_child_weight': 0.06417398047351944, 'min_child_samples': 24, 'subsample': 0.9935824300435205, 'colsample_bytree': 0.7877181899286865}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 70, 'max_depth': 8, 'learning_rate': 0.10190037557430569, 'min_child_weight': 0.00044620685014846, 'min_child_samples': 62, 'subsample': 0.5576023792052176, 'colsample_bytree': 0.9930273432118679}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 71, 'max_depth': 7, 'learning_rate': 0.16341196188200213, 'min_child_weight': 0.020244393624241325, 'min_child_samples': 98, 'subsample': 0.6782212032046671, 'colsample_bytree': 0.8017636077711867}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 73, 'max_depth': 6, 'learning_rate': 0.32826226433830386, 'min_child_weight': 0.022663303973576625, 'min_child_samples': 70, 'subsample': 0.5116554155302158, 'colsample_bytree': 0.6538892203725902}
+============================================================
+Trial 13 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 98, 'max_depth': 7, 'learning_rate': 0.0578616375446586, 'min_child_weight': 0.0017489356999137926, 'min_child_samples': 46, 'subsample': 0.5933873539545496, 'colsample_bytree': 0.8565022983983469}
+============================================================
+Trial 14 - VAL-Accuracy: 0.7933, Params: {'num_leaves': 11, 'max_depth': 6, 'learning_rate': 0.8763590264684633, 'min_child_weight': 0.019601354889881743, 'min_child_samples': 78, 'subsample': 0.7281210512148564, 'colsample_bytree': 0.5180235025200364}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 83, 'max_depth': 8, 'learning_rate': 0.04666312259056148, 'min_child_weight': 0.08125568852159279, 'min_child_samples': 51, 'subsample': 0.79898273972199, 'colsample_bytree': 0.7287839455542656}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 60, 'max_depth': 5, 'learning_rate': 0.008834364639454039, 'min_child_weight': 0.007217427039340364, 'min_child_samples': 2, 'subsample': 0.880030150802682, 'colsample_bytree': 0.6235574813200646}
+============================================================
+Trial 17 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 100, 'max_depth': 4, 'learning_rate': 0.41088649020984763, 'min_child_weight': 0.025946355463051247, 'min_child_samples': 42, 'subsample': 0.6928210617761781, 'colsample_bytree': 0.9927780772112142}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 80, 'max_depth': 8, 'learning_rate': 0.2016223808183743, 'min_child_weight': 0.0009016830925418147, 'min_child_samples': 62, 'subsample': 0.6046326397977123, 'colsample_bytree': 0.9049052121029989}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 61, 'max_depth': 6, 'learning_rate': 0.06973958209417772, 'min_child_weight': 0.0038219285542907327, 'min_child_samples': 11, 'subsample': 0.7432230139855618, 'colsample_bytree': 0.7628461842965664}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 80, 'max_depth': 9, 'learning_rate': 0.2499872581413119, 'min_child_weight': 0.00016716655598210357, 'min_child_samples': 83, 'subsample': 0.8482471622346546, 'colsample_bytree': 0.8220154778401509}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 82, 'max_depth': 8, 'learning_rate': 0.16008640146941477, 'min_child_weight': 0.001212815157888281, 'min_child_samples': 62, 'subsample': 0.6157099058426386, 'colsample_bytree': 0.9411175131404659}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 92, 'max_depth': 9, 'learning_rate': 0.5600881576743247, 'min_child_weight': 0.0006280573319214244, 'min_child_samples': 94, 'subsample': 0.5847321469833476, 'colsample_bytree': 0.9067482966084192}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 78, 'max_depth': 7, 'learning_rate': 0.21786056553927224, 'min_child_weight': 0.00017033339521563474, 'min_child_samples': 60, 'subsample': 0.536461817151906, 'colsample_bytree': 0.9502649521217048}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 60, 'max_depth': 5, 'learning_rate': 0.029952175688271444, 'min_child_weight': 0.012444135259190078, 'min_child_samples': 76, 'subsample': 0.6247542578161185, 'colsample_bytree': 0.8684996751514671}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 67, 'max_depth': 9, 'learning_rate': 0.08154115754234831, 'min_child_weight': 0.041174619712131384, 'min_child_samples': 41, 'subsample': 0.7077324620976476, 'colsample_bytree': 0.9052471988134223}
+============================================================
+Trial 26 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 87, 'max_depth': 8, 'learning_rate': 0.5866706874687597, 'min_child_weight': 0.0032886820328656458, 'min_child_samples': 70, 'subsample': 0.7701592639370264, 'colsample_bytree': 0.9986264155939767}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 75, 'max_depth': 6, 'learning_rate': 0.24386871905374272, 'min_child_weight': 0.0009090649254914761, 'min_child_samples': 36, 'subsample': 0.6654638921392477, 'colsample_bytree': 0.8293872892794724}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 53, 'max_depth': 6, 'learning_rate': 0.2698477612633813, 'min_child_weight': 0.0017733624713418168, 'min_child_samples': 15, 'subsample': 0.6674114645798078, 'colsample_bytree': 0.7379590369992215}
+============================================================
+Trial 29 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 93, 'max_depth': 3, 'learning_rate': 0.03526937492937626, 'min_child_weight': 0.03965533030515521, 'min_child_samples': 14, 'subsample': 0.6423997143292055, 'colsample_bytree': 0.5655689175700176}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 74, 'max_depth': 4, 'learning_rate': 0.12893874345601802, 'min_child_weight': 0.010208079346433512, 'min_child_samples': 36, 'subsample': 0.7036982623011678, 'colsample_bytree': 0.848924724259065}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 46, 'max_depth': 6, 'learning_rate': 0.31942703663654204, 'min_child_weight': 0.0014293574303937523, 'min_child_samples': 11, 'subsample': 0.670464650195314, 'colsample_bytree': 0.7550844363613674}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 50, 'max_depth': 5, 'learning_rate': 0.5526169133692714, 'min_child_weight': 0.0002042540458481036, 'min_child_samples': 18, 'subsample': 0.6354968275325648, 'colsample_bytree': 0.7168234508001546}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 65, 'max_depth': 6, 'learning_rate': 0.26413149215831605, 'min_child_weight': 0.0022144830114224972, 'min_child_samples': 7, 'subsample': 0.660155639365105, 'colsample_bytree': 0.5620512150357349}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 46, 'max_depth': 3, 'learning_rate': 0.1060073239651772, 'min_child_weight': 0.004555338641068148, 'min_child_samples': 18, 'subsample': 0.7529079377752874, 'colsample_bytree': 0.6369847240319286}
+============================================================
+Trial 35 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 85, 'max_depth': 7, 'learning_rate': 0.0010431814105923507, 'min_child_weight': 5.490208408891884e-05, 'min_child_samples': 34, 'subsample': 0.7112523701725152, 'colsample_bytree': 0.5935644403646463}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 55, 'max_depth': 5, 'learning_rate': 0.4213370733623992, 'min_child_weight': 0.0006165730004582834, 'min_child_samples': 19, 'subsample': 0.5723868493975338, 'colsample_bytree': 0.6742826328066329}
+============================================================
+Trial 37 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 76, 'max_depth': 5, 'learning_rate': 0.4491106244200733, 'min_child_weight': 0.0008241492265840525, 'min_child_samples': 29, 'subsample': 0.5466014477685457, 'colsample_bytree': 0.6806788991588943}
+============================================================
+Trial 38 - VAL-Accuracy: 0.1900, Params: {'num_leaves': 94, 'max_depth': 5, 'learning_rate': 0.8843607438933686, 'min_child_weight': 9.27193352885852e-05, 'min_child_samples': 52, 'subsample': 0.5703621985361399, 'colsample_bytree': 0.543373312992396}
+============================================================
+Trial 39 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 29, 'max_depth': 4, 'learning_rate': 0.008638392388174203, 'min_child_weight': 0.0003272641172404425, 'min_child_samples': 20, 'subsample': 0.9176784035598532, 'colsample_bytree': 0.6062191835973554}
+============================================================
+Trial 40 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 65, 'max_depth': 4, 'learning_rate': 0.168741189054828, 'min_child_weight': 2.970769037621186e-05, 'min_child_samples': 26, 'subsample': 0.5008299628980781, 'colsample_bytree': 0.6720055193147386}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 56, 'max_depth': 6, 'learning_rate': 0.3685420243162465, 'min_child_weight': 0.00043344531336874444, 'min_child_samples': 6, 'subsample': 0.6525807181039269, 'colsample_bytree': 0.501462507470498}
+============================================================
+Trial 42 - VAL-Accuracy: 0.7967, Params: {'num_leaves': 52, 'max_depth': 5, 'learning_rate': 0.6470380347876677, 'min_child_weight': 0.0006500040470165804, 'min_child_samples': 15, 'subsample': 0.7924537158072188, 'colsample_bytree': 0.7918459662078364}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 44, 'max_depth': 6, 'learning_rate': 0.27993259865067693, 'min_child_weight': 0.0021645432905006406, 'min_child_samples': 23, 'subsample': 0.6814028239463823, 'colsample_bytree': 0.7326473594995135}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 56, 'max_depth': 5, 'learning_rate': 0.1301836198516843, 'min_child_weight': 0.005802416266297662, 'min_child_samples': 30, 'subsample': 0.7223079532858763, 'colsample_bytree': 0.6934459510638064}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 38, 'max_depth': 7, 'learning_rate': 0.20980937753498857, 'min_child_weight': 0.09772489243855272, 'min_child_samples': 9, 'subsample': 0.7576475901353601, 'colsample_bytree': 0.64975231759258}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 34, 'max_depth': 6, 'learning_rate': 0.44877346640060145, 'min_child_weight': 0.0002702917220277132, 'min_child_samples': 40, 'subsample': 0.5840178782729042, 'colsample_bytree': 0.8144159974246461}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 70, 'max_depth': 4, 'learning_rate': 0.0023420212832553034, 'min_child_weight': 0.05242233840863723, 'min_child_samples': 15, 'subsample': 0.8219953609083237, 'colsample_bytree': 0.7773199281314356}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 88, 'max_depth': 7, 'learning_rate': 0.08748811853767188, 'min_child_weight': 0.014840191119228428, 'min_child_samples': 3, 'subsample': 0.6907578412922334, 'colsample_bytree': 0.8396095040179858}
+============================================================
+Trial 49 - VAL-Accuracy: 0.2533, Params: {'num_leaves': 13, 'max_depth': 5, 'learning_rate': 0.7652493854774517, 'min_child_weight': 0.0005225794228253644, 'min_child_samples': 24, 'subsample': 0.523511736568997, 'colsample_bytree': 0.9595551614207231}
+============================================================
+Trial 0 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 95, 'max_depth': 10, 'learning_rate': 0.8237296462873739, 'min_child_weight': 1.6359913344574732e-05, 'min_child_samples': 59, 'subsample': 0.7387741253235074, 'colsample_bytree': 0.5991699088400964}
+============================================================
+Trial 1 - VAL-Accuracy: 0.7733, Params: {'num_leaves': 11, 'max_depth': 10, 'learning_rate': 0.0034120204209492967, 'min_child_weight': 1.0764603070954939e-05, 'min_child_samples': 71, 'subsample': 0.7310198199530442, 'colsample_bytree': 0.9368416970280715}
+============================================================
+Trial 2 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 50, 'max_depth': 3, 'learning_rate': 0.007997990402793295, 'min_child_weight': 1.0544233892890913e-05, 'min_child_samples': 92, 'subsample': 0.6947908372677136, 'colsample_bytree': 0.691226772240863}
+============================================================
+Trial 3 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 37, 'max_depth': 6, 'learning_rate': 0.039269301433239624, 'min_child_weight': 0.00013089321604080702, 'min_child_samples': 82, 'subsample': 0.9412972365057481, 'colsample_bytree': 0.7140881410244955}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 76, 'max_depth': 6, 'learning_rate': 0.0819418174783994, 'min_child_weight': 0.03648339316082941, 'min_child_samples': 62, 'subsample': 0.5021893530497894, 'colsample_bytree': 0.6991504751871325}
+============================================================
+Trial 5 - VAL-Accuracy: 0.7800, Params: {'num_leaves': 43, 'max_depth': 6, 'learning_rate': 0.008555065998660436, 'min_child_weight': 0.024022774535501036, 'min_child_samples': 84, 'subsample': 0.5894428185574443, 'colsample_bytree': 0.7322814018138786}
+============================================================
+Trial 6 - VAL-Accuracy: 0.5067, Params: {'num_leaves': 76, 'max_depth': 3, 'learning_rate': 0.6887387452841435, 'min_child_weight': 5.8340362418177494e-05, 'min_child_samples': 6, 'subsample': 0.9390457440676478, 'colsample_bytree': 0.5655731893551844}
+============================================================
+Trial 7 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 79, 'max_depth': 6, 'learning_rate': 0.01812048437073342, 'min_child_weight': 0.005259783125559937, 'min_child_samples': 12, 'subsample': 0.7310740054725058, 'colsample_bytree': 0.5084546988168288}
+============================================================
+Trial 8 - VAL-Accuracy: 0.7667, Params: {'num_leaves': 60, 'max_depth': 6, 'learning_rate': 0.003639622577330389, 'min_child_weight': 2.3245794604849365e-05, 'min_child_samples': 79, 'subsample': 0.9964029694224764, 'colsample_bytree': 0.6733008293310985}
+============================================================
+Trial 9 - VAL-Accuracy: 0.7933, Params: {'num_leaves': 98, 'max_depth': 7, 'learning_rate': 0.014500544067944945, 'min_child_weight': 0.0003731027853353361, 'min_child_samples': 96, 'subsample': 0.9716796556044655, 'colsample_bytree': 0.7882017722319404}
+============================================================
+Trial 10 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 75, 'max_depth': 8, 'learning_rate': 0.14583304319934629, 'min_child_weight': 0.00381164074646529, 'min_child_samples': 21, 'subsample': 0.8502288226560142, 'colsample_bytree': 0.50937311191435}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 78, 'max_depth': 5, 'learning_rate': 0.07709874879978551, 'min_child_weight': 0.07623113975758908, 'min_child_samples': 35, 'subsample': 0.5137359972947482, 'colsample_bytree': 0.8514389703394699}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 86, 'max_depth': 4, 'learning_rate': 0.17653846266316334, 'min_child_weight': 0.005043215662943938, 'min_child_samples': 36, 'subsample': 0.6134372025052616, 'colsample_bytree': 0.8758894354614877}
+============================================================
+Trial 13 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 89, 'max_depth': 4, 'learning_rate': 0.2553270213115452, 'min_child_weight': 0.0031230846039939286, 'min_child_samples': 39, 'subsample': 0.6356594640060524, 'colsample_bytree': 0.9877078836618083}
+============================================================
+Trial 14 - VAL-Accuracy: 0.7967, Params: {'num_leaves': 62, 'max_depth': 4, 'learning_rate': 0.001491476283217, 'min_child_weight': 0.004213215306064015, 'min_child_samples': 6, 'subsample': 0.804855984053913, 'colsample_bytree': 0.8513730863477309}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 89, 'max_depth': 8, 'learning_rate': 0.03177039283065677, 'min_child_weight': 0.0009349678749787069, 'min_child_samples': 24, 'subsample': 0.6158440884931043, 'colsample_bytree': 0.8692078588452127}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 67, 'max_depth': 4, 'learning_rate': 0.22174328173987534, 'min_child_weight': 0.009806875074878584, 'min_child_samples': 46, 'subsample': 0.6607125422678953, 'colsample_bytree': 0.7824611543528718}
+============================================================
+Trial 17 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 27, 'max_depth': 5, 'learning_rate': 0.01856202859175623, 'min_child_weight': 0.0008963078448269973, 'min_child_samples': 24, 'subsample': 0.8571117265651843, 'colsample_bytree': 0.6251393862091188}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 87, 'max_depth': 8, 'learning_rate': 0.08035797705034176, 'min_child_weight': 0.012104216626004922, 'min_child_samples': 16, 'subsample': 0.5574714031339423, 'colsample_bytree': 0.5047123009227493}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 82, 'max_depth': 5, 'learning_rate': 0.41894841688033624, 'min_child_weight': 0.0003601035397509385, 'min_child_samples': 32, 'subsample': 0.8077499236336613, 'colsample_bytree': 0.9191652464202227}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 68, 'max_depth': 7, 'learning_rate': 0.05676122014624691, 'min_child_weight': 0.0018741682916624109, 'min_child_samples': 48, 'subsample': 0.6927252681553866, 'colsample_bytree': 0.7956740504723692}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 100, 'max_depth': 5, 'learning_rate': 0.13131801769505808, 'min_child_weight': 0.06696500123686366, 'min_child_samples': 35, 'subsample': 0.506838220785884, 'colsample_bytree': 0.850169944067448}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 81, 'max_depth': 5, 'learning_rate': 0.01878633716895206, 'min_child_weight': 0.010548734465443268, 'min_child_samples': 13, 'subsample': 0.560403923225048, 'colsample_bytree': 0.9030273583420827}
+============================================================
+Trial 23 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 70, 'max_depth': 4, 'learning_rate': 0.10867768068333675, 'min_child_weight': 0.07723505619293017, 'min_child_samples': 31, 'subsample': 0.5470878577962452, 'colsample_bytree': 0.9792970652028754}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 54, 'max_depth': 3, 'learning_rate': 0.04765969221056147, 'min_child_weight': 0.02091821162609638, 'min_child_samples': 42, 'subsample': 0.6017736607820677, 'colsample_bytree': 0.8244126153841064}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 86, 'max_depth': 5, 'learning_rate': 0.24706381108967496, 'min_child_weight': 0.006535784294641142, 'min_child_samples': 56, 'subsample': 0.6529374375234697, 'colsample_bytree': 0.8992271884958608}
+============================================================
+Trial 26 - VAL-Accuracy: 0.7933, Params: {'num_leaves': 91, 'max_depth': 7, 'learning_rate': 0.38788403599625076, 'min_child_weight': 0.007635152964893827, 'min_child_samples': 62, 'subsample': 0.683756046435178, 'colsample_bytree': 0.9569681295665848}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 84, 'max_depth': 4, 'learning_rate': 0.20007333234318864, 'min_child_weight': 0.0018844470179015804, 'min_child_samples': 51, 'subsample': 0.768693568801968, 'colsample_bytree': 0.8947937278197566}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 61, 'max_depth': 4, 'learning_rate': 0.5721114161940493, 'min_child_weight': 0.0015639470189633094, 'min_child_samples': 52, 'subsample': 0.7902305470191603, 'colsample_bytree': 0.6594792739569081}
+============================================================
+Trial 29 - VAL-Accuracy: 0.3033, Params: {'num_leaves': 95, 'max_depth': 10, 'learning_rate': 0.8847106881365064, 'min_child_weight': 0.0005071231855708852, 'min_child_samples': 2, 'subsample': 0.7401708290051989, 'colsample_bytree': 0.7575104241090069}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 93, 'max_depth': 3, 'learning_rate': 0.011039304809628779, 'min_child_weight': 0.001958747326762521, 'min_child_samples': 12, 'subsample': 0.8865868322749478, 'colsample_bytree': 0.5552876684371073}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 87, 'max_depth': 5, 'learning_rate': 0.23245879754350918, 'min_child_weight': 0.00514713313525774, 'min_child_samples': 58, 'subsample': 0.7701556252221106, 'colsample_bytree': 0.8897832769267671}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 85, 'max_depth': 4, 'learning_rate': 0.19833810430598034, 'min_child_weight': 0.006237186477086393, 'min_child_samples': 71, 'subsample': 0.7226275220794203, 'colsample_bytree': 0.9413873798520676}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 10, 'max_depth': 6, 'learning_rate': 0.36769324983917046, 'min_child_weight': 0.01915086587709967, 'min_child_samples': 55, 'subsample': 0.6469842967329155, 'colsample_bytree': 0.8214545354621405}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 73, 'max_depth': 9, 'learning_rate': 0.025032073702063697, 'min_child_weight': 0.002319091612151352, 'min_child_samples': 70, 'subsample': 0.7106612815114278, 'colsample_bytree': 0.9169666494892791}
+============================================================
+Trial 35 - VAL-Accuracy: 0.7767, Params: {'num_leaves': 80, 'max_depth': 3, 'learning_rate': 0.00482063707942163, 'min_child_weight': 0.00016131753965319102, 'min_child_samples': 64, 'subsample': 0.6662681344170331, 'colsample_bytree': 0.9591826904343478}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 95, 'max_depth': 5, 'learning_rate': 0.1571218374795062, 'min_child_weight': 0.0013603686522995235, 'min_child_samples': 44, 'subsample': 0.7636188635047895, 'colsample_bytree': 0.8738747525589916}
+============================================================
+Trial 37 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 83, 'max_depth': 6, 'learning_rate': 0.05896275361866099, 'min_child_weight': 0.035593148820341244, 'min_child_samples': 66, 'subsample': 0.6330440991505891, 'colsample_bytree': 0.6240444921760044}
+============================================================
+Trial 38 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 33, 'max_depth': 4, 'learning_rate': 0.5314202757020231, 'min_child_weight': 0.0006638018458966063, 'min_child_samples': 77, 'subsample': 0.744461477863931, 'colsample_bytree': 0.7463085406271879}
+============================================================
+Trial 39 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 46, 'max_depth': 6, 'learning_rate': 0.2848763673934437, 'min_child_weight': 0.003094651387460579, 'min_child_samples': 51, 'subsample': 0.5841882647697058, 'colsample_bytree': 0.818129639949193}
+============================================================
+Trial 40 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 72, 'max_depth': 3, 'learning_rate': 0.007214160583810508, 'min_child_weight': 0.013258980301051831, 'min_child_samples': 29, 'subsample': 0.7175239852203963, 'colsample_bytree': 0.9969335921463307}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 13, 'max_depth': 6, 'learning_rate': 0.3704514910610559, 'min_child_weight': 0.019022171657667005, 'min_child_samples': 57, 'subsample': 0.6679309481031053, 'colsample_bytree': 0.8154522629661313}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 17, 'max_depth': 7, 'learning_rate': 0.11270033130361995, 'min_child_weight': 0.03685823417953838, 'min_child_samples': 54, 'subsample': 0.6326110268476671, 'colsample_bytree': 0.8914104733288027}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 20, 'max_depth': 6, 'learning_rate': 0.3213035828966757, 'min_child_weight': 0.007453658548261483, 'min_child_samples': 39, 'subsample': 0.6520374690050849, 'colsample_bytree': 0.8552439601410482}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 54, 'max_depth': 5, 'learning_rate': 0.6241199869631566, 'min_child_weight': 0.016331720230418068, 'min_child_samples': 55, 'subsample': 0.6972754291942467, 'colsample_bytree': 0.9302127198244735}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 40, 'max_depth': 4, 'learning_rate': 0.17529116694701288, 'min_child_weight': 0.004240091823228046, 'min_child_samples': 47, 'subsample': 0.6058104905236835, 'colsample_bytree': 0.8320188795528131}
+============================================================
+Trial 46 - VAL-Accuracy: 0.7767, Params: {'num_leaves': 77, 'max_depth': 6, 'learning_rate': 0.9965903604662956, 'min_child_weight': 0.03017503094790795, 'min_child_samples': 74, 'subsample': 0.7908417573181347, 'colsample_bytree': 0.7089945498385778}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 64, 'max_depth': 5, 'learning_rate': 0.09062875577673579, 'min_child_weight': 0.0027687800888915744, 'min_child_samples': 19, 'subsample': 0.8233199368974705, 'colsample_bytree': 0.7815166219134904}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 91, 'max_depth': 7, 'learning_rate': 0.44036538245889995, 'min_child_weight': 0.006304754640755589, 'min_child_samples': 67, 'subsample': 0.6484840233377978, 'colsample_bytree': 0.8742298115897781}
+============================================================
+Trial 49 - VAL-Accuracy: 0.7467, Params: {'num_leaves': 49, 'max_depth': 5, 'learning_rate': 0.0018246403771560323, 'min_child_weight': 0.0012186926261788466, 'min_child_samples': 88, 'subsample': 0.5786738520393904, 'colsample_bytree': 0.528515346470561}
+============================================================
+Trial 0 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 31, 'max_depth': 8, 'learning_rate': 0.01058130438629466, 'min_child_weight': 1.5583117978837684e-05, 'min_child_samples': 74, 'subsample': 0.8798383728147544, 'colsample_bytree': 0.5650279370034945}
+============================================================
+Trial 1 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 63, 'max_depth': 7, 'learning_rate': 0.01281143427660029, 'min_child_weight': 0.0030919729430299693, 'min_child_samples': 40, 'subsample': 0.9065323840812856, 'colsample_bytree': 0.80212075823978}
+============================================================
+Trial 2 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 59, 'max_depth': 4, 'learning_rate': 0.07661085982126638, 'min_child_weight': 0.00014038258139170739, 'min_child_samples': 34, 'subsample': 0.6675683195713635, 'colsample_bytree': 0.5528470695278702}
+============================================================
+Trial 3 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 49, 'max_depth': 7, 'learning_rate': 0.01561086399440925, 'min_child_weight': 4.892044411285619e-05, 'min_child_samples': 79, 'subsample': 0.5657530519704494, 'colsample_bytree': 0.9009213215068005}
+============================================================
+Trial 4 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 63, 'max_depth': 10, 'learning_rate': 0.06758628921792253, 'min_child_weight': 0.00018152530193899294, 'min_child_samples': 80, 'subsample': 0.5320430137053298, 'colsample_bytree': 0.6627908117110273}
+============================================================
+Trial 5 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 24, 'max_depth': 4, 'learning_rate': 0.07275265607151789, 'min_child_weight': 0.0013937619658249574, 'min_child_samples': 8, 'subsample': 0.5275340252119542, 'colsample_bytree': 0.5979042498468237}
+============================================================
+Trial 6 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 40, 'max_depth': 5, 'learning_rate': 0.47165299310510833, 'min_child_weight': 7.878791565279991e-05, 'min_child_samples': 39, 'subsample': 0.859793487848237, 'colsample_bytree': 0.876872484833763}
+============================================================
+Trial 7 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 88, 'max_depth': 9, 'learning_rate': 0.05079520044464505, 'min_child_weight': 0.0003067765364987046, 'min_child_samples': 92, 'subsample': 0.9218997579234828, 'colsample_bytree': 0.5583825859756826}
+============================================================
+Trial 8 - VAL-Accuracy: 0.7900, Params: {'num_leaves': 36, 'max_depth': 6, 'learning_rate': 0.00988843156504424, 'min_child_weight': 0.018001438323124702, 'min_child_samples': 81, 'subsample': 0.9826601463309051, 'colsample_bytree': 0.6410663351959816}
+============================================================
+Trial 9 - VAL-Accuracy: 0.2100, Params: {'num_leaves': 44, 'max_depth': 6, 'learning_rate': 0.9434933901531218, 'min_child_weight': 5.875534424236686e-05, 'min_child_samples': 77, 'subsample': 0.7791090525956623, 'colsample_bytree': 0.9461870415736873}
+============================================================
+Trial 10 - VAL-Accuracy: 0.7900, Params: {'num_leaves': 86, 'max_depth': 3, 'learning_rate': 0.001004098545682834, 'min_child_weight': 0.06757363111836619, 'min_child_samples': 12, 'subsample': 0.6450646915343237, 'colsample_bytree': 0.7508720508484169}
+============================================================
+Trial 11 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 68, 'max_depth': 10, 'learning_rate': 0.15713558987976176, 'min_child_weight': 0.0003349549520029565, 'min_child_samples': 55, 'subsample': 0.6685374534945709, 'colsample_bytree': 0.6698702153069747}
+============================================================
+Trial 12 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 75, 'max_depth': 3, 'learning_rate': 0.18452532939408708, 'min_child_weight': 0.0003135315330453358, 'min_child_samples': 56, 'subsample': 0.6284159183873504, 'colsample_bytree': 0.5058477733947864}
+============================================================
+Trial 13 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 77, 'max_depth': 3, 'learning_rate': 0.2285354645573751, 'min_child_weight': 0.0038303168431914397, 'min_child_samples': 27, 'subsample': 0.6763285700959942, 'colsample_bytree': 0.501136779065854}
+============================================================
+Trial 14 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 100, 'max_depth': 4, 'learning_rate': 0.20227068733768452, 'min_child_weight': 0.0008320581798041209, 'min_child_samples': 57, 'subsample': 0.750271567742139, 'colsample_bytree': 0.5138655861383877}
+============================================================
+Trial 15 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 12, 'max_depth': 4, 'learning_rate': 0.0021571484897006704, 'min_child_weight': 1.2719861491283312e-05, 'min_child_samples': 29, 'subsample': 0.6166168276193819, 'colsample_bytree': 0.7380341503091754}
+============================================================
+Trial 16 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 58, 'max_depth': 5, 'learning_rate': 0.12211489285114906, 'min_child_weight': 0.0007221674834334708, 'min_child_samples': 62, 'subsample': 0.7065291082442128, 'colsample_bytree': 0.606887959986244}
+============================================================
+Trial 17 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 72, 'max_depth': 3, 'learning_rate': 0.026016480447223718, 'min_child_weight': 0.00011343364552425431, 'min_child_samples': 38, 'subsample': 0.802693323959043, 'colsample_bytree': 0.7208407504013283}
+============================================================
+Trial 18 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 53, 'max_depth': 5, 'learning_rate': 0.3899206534295229, 'min_child_weight': 2.698663781739376e-05, 'min_child_samples': 22, 'subsample': 0.6037293471002481, 'colsample_bytree': 0.5449111315264679}
+============================================================
+Trial 19 - VAL-Accuracy: 0.8000, Params: {'num_leaves': 81, 'max_depth': 4, 'learning_rate': 0.004550708614013823, 'min_child_weight': 0.009174539560804863, 'min_child_samples': 46, 'subsample': 0.7165535070172099, 'colsample_bytree': 0.8161090385166347}
+============================================================
+Trial 20 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 98, 'max_depth': 3, 'learning_rate': 0.033024514880132166, 'min_child_weight': 0.00031134203365182025, 'min_child_samples': 66, 'subsample': 0.5969805449864897, 'colsample_bytree': 0.6070128095964163}
+============================================================
+Trial 21 - VAL-Accuracy: 0.8333, Params: {'num_leaves': 97, 'max_depth': 4, 'learning_rate': 0.2976947339648274, 'min_child_weight': 0.0009215669287545255, 'min_child_samples': 53, 'subsample': 0.7463369348095985, 'colsample_bytree': 0.5006155762977448}
+============================================================
+Trial 22 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 89, 'max_depth': 5, 'learning_rate': 0.4530964417632263, 'min_child_weight': 0.0019450250468151613, 'min_child_samples': 49, 'subsample': 0.8125126454305514, 'colsample_bytree': 0.5009857434310125}
+============================================================
+Trial 23 - VAL-Accuracy: 0.1367, Params: {'num_leaves': 75, 'max_depth': 4, 'learning_rate': 0.9837585882822188, 'min_child_weight': 0.00018352482108088765, 'min_child_samples': 65, 'subsample': 0.7233729801756842, 'colsample_bytree': 0.5486952218383381}
+============================================================
+Trial 24 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 94, 'max_depth': 3, 'learning_rate': 0.10258949647661787, 'min_child_weight': 0.0005273120924538104, 'min_child_samples': 46, 'subsample': 0.649932382724027, 'colsample_bytree': 0.5800193998484657}
+============================================================
+Trial 25 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 82, 'max_depth': 6, 'learning_rate': 0.2713729665497401, 'min_child_weight': 0.007000982480331735, 'min_child_samples': 17, 'subsample': 0.7600311020517205, 'colsample_bytree': 0.5282807539462716}
+============================================================
+Trial 26 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 70, 'max_depth': 4, 'learning_rate': 0.0398041988893307, 'min_child_weight': 0.00015128017560382564, 'min_child_samples': 31, 'subsample': 0.6899642639104553, 'colsample_bytree': 0.6448650118426783}
+============================================================
+Trial 27 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 59, 'max_depth': 5, 'learning_rate': 0.09878443263378202, 'min_child_weight': 0.0005372357298027056, 'min_child_samples': 53, 'subsample': 0.8310719097818721, 'colsample_bytree': 0.7062341164016539}
+============================================================
+Trial 28 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 93, 'max_depth': 3, 'learning_rate': 0.31820554288628516, 'min_child_weight': 3.639618839671671e-05, 'min_child_samples': 2, 'subsample': 0.5731623604324732, 'colsample_bytree': 0.5366115403921664}
+============================================================
+Trial 29 - VAL-Accuracy: 0.2767, Params: {'num_leaves': 80, 'max_depth': 3, 'learning_rate': 0.7012752362901686, 'min_child_weight': 4.1749403521564446e-05, 'min_child_samples': 5, 'subsample': 0.5545047315521195, 'colsample_bytree': 0.5720337393921555}
+============================================================
+Trial 30 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 91, 'max_depth': 8, 'learning_rate': 0.1533639469606276, 'min_child_weight': 2.786079243603081e-05, 'min_child_samples': 3, 'subsample': 0.5683910582812496, 'colsample_bytree': 0.9982307685767332}
+============================================================
+Trial 31 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 96, 'max_depth': 3, 'learning_rate': 0.23805946214753046, 'min_child_weight': 2.2618118739783542e-05, 'min_child_samples': 61, 'subsample': 0.6305729821173623, 'colsample_bytree': 0.5340491981236378}
+============================================================
+Trial 32 - VAL-Accuracy: 0.8433, Params: {'num_leaves': 65, 'max_depth': 4, 'learning_rate': 0.34564159175671755, 'min_child_weight': 0.00011310652944088272, 'min_child_samples': 42, 'subsample': 0.5826823692110334, 'colsample_bytree': 0.5781355468990701}
+============================================================
+Trial 33 - VAL-Accuracy: 0.8167, Params: {'num_leaves': 65, 'max_depth': 3, 'learning_rate': 0.49576344159806507, 'min_child_weight': 8.252058968413243e-05, 'min_child_samples': 36, 'subsample': 0.5811527436653023, 'colsample_bytree': 0.6307891679359824}
+============================================================
+Trial 34 - VAL-Accuracy: 0.8133, Params: {'num_leaves': 47, 'max_depth': 4, 'learning_rate': 0.020735409225099314, 'min_child_weight': 0.0001236674332000642, 'min_child_samples': 19, 'subsample': 0.5025594258283659, 'colsample_bytree': 0.561119562320333}
+============================================================
+Trial 35 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 53, 'max_depth': 7, 'learning_rate': 0.07484600876265927, 'min_child_weight': 4.8647990994359636e-05, 'min_child_samples': 71, 'subsample': 0.5321308307991339, 'colsample_bytree': 0.6037124968592583}
+============================================================
+Trial 36 - VAL-Accuracy: 0.8033, Params: {'num_leaves': 67, 'max_depth': 5, 'learning_rate': 0.5960501872834986, 'min_child_weight': 1.6156601683654762e-05, 'min_child_samples': 46, 'subsample': 0.6246430546677181, 'colsample_bytree': 0.5876306145320874}
+============================================================
+Trial 37 - VAL-Accuracy: 0.8233, Params: {'num_leaves': 60, 'max_depth': 4, 'learning_rate': 0.05724134260293008, 'min_child_weight': 0.0002292577969451428, 'min_child_samples': 11, 'subsample': 0.5493483511924477, 'colsample_bytree': 0.5323353135521626}
+============================================================
+Trial 38 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 76, 'max_depth': 8, 'learning_rate': 0.31511749942084494, 'min_child_weight': 7.822786121982733e-05, 'min_child_samples': 89, 'subsample': 0.5817627095105183, 'colsample_bytree': 0.6934680623199527}
+============================================================
+Trial 39 - VAL-Accuracy: 0.8400, Params: {'num_leaves': 62, 'max_depth': 6, 'learning_rate': 0.18105294404419903, 'min_child_weight': 3.406925867792487e-05, 'min_child_samples': 34, 'subsample': 0.5161668342472476, 'colsample_bytree': 0.7778031257461051}
+============================================================
+Trial 40 - VAL-Accuracy: 0.8200, Params: {'num_leaves': 62, 'max_depth': 6, 'learning_rate': 0.17898825718311198, 'min_child_weight': 0.0019023695630722773, 'min_child_samples': 33, 'subsample': 0.5012984528038498, 'colsample_bytree': 0.7860755981972973}
+============================================================
+Trial 41 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 55, 'max_depth': 7, 'learning_rate': 0.12924116042332237, 'min_child_weight': 3.364589652865693e-05, 'min_child_samples': 24, 'subsample': 0.5250717550541085, 'colsample_bytree': 0.8649134368658956}
+============================================================
+Trial 42 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 50, 'max_depth': 9, 'learning_rate': 0.08154459570073472, 'min_child_weight': 1.055087679554369e-05, 'min_child_samples': 41, 'subsample': 0.6492784472311179, 'colsample_bytree': 0.7706124367780837}
+============================================================
+Trial 43 - VAL-Accuracy: 0.8100, Params: {'num_leaves': 30, 'max_depth': 3, 'learning_rate': 0.7106469222460673, 'min_child_weight': 6.945236464573122e-05, 'min_child_samples': 100, 'subsample': 0.5933520781788575, 'colsample_bytree': 0.8006319463591159}
+============================================================
+Trial 44 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 73, 'max_depth': 4, 'learning_rate': 0.3563784659721664, 'min_child_weight': 0.0001084133937484548, 'min_child_samples': 44, 'subsample': 0.54625294070779, 'colsample_bytree': 0.6804524560059623}
+============================================================
+Trial 45 - VAL-Accuracy: 0.8267, Params: {'num_leaves': 85, 'max_depth': 3, 'learning_rate': 0.04166827805492468, 'min_child_weight': 0.0002658305591522831, 'min_child_samples': 34, 'subsample': 0.6657607458531214, 'colsample_bytree': 0.8248227578192906}
+============================================================
+Trial 46 - VAL-Accuracy: 0.8367, Params: {'num_leaves': 40, 'max_depth': 6, 'learning_rate': 0.20559239198658125, 'min_child_weight': 1.9312214489821172e-05, 'min_child_samples': 40, 'subsample': 0.575511230419248, 'colsample_bytree': 0.6286410607442208}
+============================================================
+Trial 47 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 62, 'max_depth': 5, 'learning_rate': 0.1406461122084227, 'min_child_weight': 0.00046970848714884237, 'min_child_samples': 27, 'subsample': 0.6148196381658522, 'colsample_bytree': 0.5622790992702369}
+============================================================
+Trial 48 - VAL-Accuracy: 0.8067, Params: {'num_leaves': 67, 'max_depth': 7, 'learning_rate': 0.010511330463728971, 'min_child_weight': 5.269752594045767e-05, 'min_child_samples': 59, 'subsample': 0.5264700218875502, 'colsample_bytree': 0.8347116561464576}
+============================================================
+Trial 49 - VAL-Accuracy: 0.8300, Params: {'num_leaves': 45, 'max_depth': 4, 'learning_rate': 0.06377569184756691, 'min_child_weight': 0.00015160775948909024, 'min_child_samples': 12, 'subsample': 0.9693994431101369, 'colsample_bytree': 0.5242699410834846}
+============================================================
